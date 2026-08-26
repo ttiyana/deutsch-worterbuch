@@ -1,4 +1,4 @@
-window.WB_DATA = {
+{
  "title": "Deutsch Wörterbuch",
  "subtitle": "SprintDeutsch · Verben & Beispielsätze",
  "verbs": [
@@ -4223,5 +4223,6 @@ window.WB_DATA = {
    "Haushalt",
    "Technik"
   ]
- }
-};
+ },
+ "updated": "2026-08-26"
+}

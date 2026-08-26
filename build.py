@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build data.js from verbs.json + words.json for the Deutsch Wörterbuch site."""
+"""Build src/data.json from verbs.json + words.json for the React dictionary app."""
 import json
 import sys
 from pathlib import Path
@@ -7,7 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 VERBS = ROOT / "verbs.json"
 WORDS = ROOT / "words.json"
-OUT = ROOT / "data.js"
+OUT = ROOT / "src" / "data.json"
 
 
 def main() -> None:
@@ -42,11 +42,12 @@ def main() -> None:
         "verbs": verbs,
         "words": words,
         "stats": stats,
+        "updated": __import__("datetime").date.today().isoformat(),
     }
 
-    js = "window.WB_DATA = " + json.dumps(data, ensure_ascii=False, indent=1) + ";\n"
-    OUT.write_text(js, encoding="utf-8")
-    print(f"OK: {len(verbs)} verbs, {len(words)} words, {stats['sentences']} sentences -> {OUT.name} ({len(js)} bytes)")
+    OUT.parent.mkdir(exist_ok=True)
+    OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"OK: {len(verbs)} verbs, {len(words)} words, {stats['sentences']} sentences -> src/data.json")
 
 
 if __name__ == "__main__":
