@@ -33,6 +33,7 @@ export default function App() {
         .map((w) => ({
           front: w.de, en: w.en, kind: 'word', pos: w.pos, tag: posLabel(w.pos),
           extra: w.extra || '', irregular: false, level: w.level || 'A1',
+          sentences: w.sentences || null, konj2: w.konj2 || '', konj2_note: w.konj2_note || '',
           key: 'w:' + w.de + ':' + (w.pos || ''),
         })),
     [words],
@@ -55,7 +56,7 @@ export default function App() {
       const f = filter
       if (f === 'all') return true
       if (f === 'A1' || f === 'A2') return e.kind === 'word' && e.level === f
-      if (f === 'verb') return e.kind === 'verb'
+      if (f === 'verb') return e.pos === 'v' // ALL verbs: practice (B1+) + A1/A2 base verbs
       if (themes.indexOf(f) >= 0) return e.kind === 'verb' && e.tag === f
       if (f === 'other') return e.kind === 'word' && !['n', 'adj', 'phrase'].includes(e.pos)
       return e.kind === 'word' && e.pos === f

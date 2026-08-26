@@ -3151,595 +3151,1275 @@
   "en": "to be",
   "pos": "v",
   "extra": "ist gewesen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "wäre · würde sein",
+  "konj2_note": "unregelmäßig (ist · war)",
+  "sentences": [
+   {
+    "de": "Ich bin müde.",
+    "en": "I am tired."
+   }
+  ]
  },
  {
   "de": "haben",
   "en": "to have",
   "pos": "v",
   "extra": "hat gehabt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "hätte · würde haben",
+  "konj2_note": "unregelmäßig (hat · hatte)",
+  "sentences": [
+   {
+    "de": "Hast du heute Zeit?",
+    "en": "Do you have time today?"
+   }
+  ]
  },
  {
   "de": "werden",
   "en": "to become",
   "pos": "v",
   "extra": "ist geworden",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "würde · würde werden",
+  "konj2_note": "unregelmäßig (wird · wurde)",
+  "sentences": [
+   {
+    "de": "Es wird dunkel.",
+    "en": "It is getting dark."
+   }
+  ]
  },
  {
   "de": "können",
   "en": "can, to be able to",
   "pos": "v",
   "extra": "hat gekonnt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "könnte",
+  "konj2_note": "Modalverb",
+  "sentences": [
+   {
+    "de": "Kannst du mir helfen?",
+    "en": "Can you help me?"
+   }
+  ]
  },
  {
   "de": "müssen",
   "en": "must, to have to",
   "pos": "v",
   "extra": "hat gemusst",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "müsste",
+  "konj2_note": "Modalverb",
+  "sentences": [
+   {
+    "de": "Ich muss jetzt gehen.",
+    "en": "I have to go now."
+   }
+  ]
  },
  {
   "de": "wollen",
   "en": "to want",
   "pos": "v",
   "extra": "hat gewollt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "wollte",
+  "konj2_note": "Modalverb",
+  "sentences": [
+   {
+    "de": "Wir wollen ein Eis essen.",
+    "en": "We want to eat ice cream."
+   }
+  ]
  },
  {
   "de": "dürfen",
   "en": "may, to be allowed to",
   "pos": "v",
   "extra": "hat gedurft",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "dürfte",
+  "konj2_note": "Modalverb",
+  "sentences": [
+   {
+    "de": "Darf ich hier sitzen?",
+    "en": "May I sit here?"
+   }
+  ]
  },
  {
   "de": "sollen",
   "en": "should, to be supposed to",
   "pos": "v",
   "extra": "hat gesollt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "sollte",
+  "konj2_note": "Modalverb",
+  "sentences": [
+   {
+    "de": "Du sollst mehr Wasser trinken.",
+    "en": "You should drink more water."
+   }
+  ]
  },
  {
   "de": "mögen",
   "en": "to like",
   "pos": "v",
   "extra": "hat gemocht",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "möchte · würde mögen",
+  "konj2_note": "Modalverb",
+  "sentences": [
+   {
+    "de": "Ich mag Kaffee.",
+    "en": "I like coffee."
+   }
+  ]
  },
  {
   "de": "gehen",
   "en": "to go",
   "pos": "v",
   "extra": "ist gegangen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "ginge · würde gehen",
+  "konj2_note": "unregelmäßig (geht · ging)",
+  "sentences": [
+   {
+    "de": "Wir gehen ins Kino.",
+    "en": "We're going to the cinema."
+   }
+  ]
  },
  {
   "de": "kommen",
   "en": "to come",
   "pos": "v",
   "extra": "ist gekommen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "käme · würde kommen",
+  "konj2_note": "unregelmäßig (kommt · kam)",
+  "sentences": [
+   {
+    "de": "Kommst du morgen?",
+    "en": "Are you coming tomorrow?"
+   }
+  ]
  },
  {
   "de": "fahren",
   "en": "to drive, to ride",
   "pos": "v",
   "extra": "ist gefahren",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "führe · würde fahren",
+  "konj2_note": "unregelmäßig (fährt · fuhr)",
+  "sentences": [
+   {
+    "de": "Ich fahre mit dem Bus.",
+    "en": "I take the bus."
+   }
+  ]
  },
  {
   "de": "fliegen",
   "en": "to fly",
   "pos": "v",
   "extra": "ist geflogen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "flöge · würde fliegen",
+  "konj2_note": "unregelmäßig (fliegt · flog)",
+  "sentences": [
+   {
+    "de": "Wir fliegen nach Berlin.",
+    "en": "We're flying to Berlin."
+   }
+  ]
  },
  {
   "de": "laufen",
   "en": "to walk, to run",
   "pos": "v",
   "extra": "ist gelaufen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "liefe · würde laufen",
+  "konj2_note": "unregelmäßig (läuft · lief)",
+  "sentences": [
+   {
+    "de": "Ich laufe jeden Morgen.",
+    "en": "I run every morning."
+   }
+  ]
  },
  {
   "de": "stehen",
   "en": "to stand",
   "pos": "v",
   "extra": "hat gestanden",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "stünde · würde stehen",
+  "konj2_note": "unregelmäßig (steht · stand)",
+  "sentences": [
+   {
+    "de": "Das Glas steht auf dem Tisch.",
+    "en": "The glass is on the table."
+   }
+  ]
  },
  {
   "de": "sitzen",
   "en": "to sit",
   "pos": "v",
   "extra": "hat gesessen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "säße · würde sitzen",
+  "konj2_note": "unregelmäßig (sitzt · saß)",
+  "sentences": [
+   {
+    "de": "Wir sitzen im Café.",
+    "en": "We're sitting in the café."
+   }
+  ]
  },
  {
   "de": "liegen",
   "en": "to lie, to be lying",
   "pos": "v",
   "extra": "hat gelegen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "läge · würde liegen",
+  "konj2_note": "unregelmäßig (liegt · lag)",
+  "sentences": [
+   {
+    "de": "Das Buch liegt auf dem Bett.",
+    "en": "The book is lying on the bed."
+   }
+  ]
  },
  {
   "de": "schlafen",
   "en": "to sleep",
   "pos": "v",
   "extra": "hat geschlafen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "schliefe · würde schlafen",
+  "konj2_note": "unregelmäßig (schläft · schlief)",
+  "sentences": [
+   {
+    "de": "Das Baby schläft schon.",
+    "en": "The baby is already sleeping."
+   }
+  ]
  },
  {
   "de": "aufstehen",
   "en": "to get up",
   "pos": "v",
   "extra": "ist aufgestanden",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "stünde auf · würde aufstehen",
+  "konj2_note": "trennbar + unregelmäßig",
+  "sentences": [
+   {
+    "de": "Ich stehe um sieben auf.",
+    "en": "I get up at seven."
+   }
+  ]
  },
  {
   "de": "bleiben",
   "en": "to stay, to remain",
   "pos": "v",
   "extra": "ist geblieben",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "bliebe · würde bleiben",
+  "konj2_note": "unregelmäßig (bleibt · blieb)",
+  "sentences": [
+   {
+    "de": "Bleib noch einen Moment!",
+    "en": "Stay a little longer!"
+   }
+  ]
  },
  {
   "de": "machen",
   "en": "to make, to do",
   "pos": "v",
   "extra": "hat gemacht",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "machte · würde machen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Was machst du heute Abend?",
+    "en": "What are you doing tonight?"
+   }
+  ]
  },
  {
   "de": "sagen",
   "en": "to say",
   "pos": "v",
   "extra": "hat gesagt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "sagte · würde sagen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Sag mir bitte die Wahrheit.",
+    "en": "Please tell me the truth."
+   }
+  ]
  },
  {
   "de": "sprechen",
   "en": "to speak",
   "pos": "v",
   "extra": "hat gesprochen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "spräche · würde sprechen",
+  "konj2_note": "unregelmäßig (spricht · sprach)",
+  "sentences": [
+   {
+    "de": "Sprichst du Deutsch?",
+    "en": "Do you speak German?"
+   }
+  ]
  },
  {
   "de": "reden",
   "en": "to talk",
   "pos": "v",
   "extra": "hat geredet",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "redete · würde reden",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Wir reden später darüber.",
+    "en": "We'll talk about it later."
+   }
+  ]
  },
  {
   "de": "erzählen",
   "en": "to tell, to narrate",
   "pos": "v",
   "extra": "hat erzählt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "erzählte · würde erzählen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Erzähl mir von deiner Reise!",
+    "en": "Tell me about your trip!"
+   }
+  ]
  },
  {
   "de": "fragen",
   "en": "to ask",
   "pos": "v",
   "extra": "hat gefragt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "fragte · würde fragen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Frag den Lehrer!",
+    "en": "Ask the teacher!"
+   }
+  ]
  },
  {
   "de": "antworten",
   "en": "to answer",
   "pos": "v",
   "extra": "hat geantwortet",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "antwortete · würde antworten",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Er antwortet nicht.",
+    "en": "He doesn't answer."
+   }
+  ]
  },
  {
   "de": "geben",
   "en": "to give",
   "pos": "v",
   "extra": "hat gegeben",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "gäbe · würde geben",
+  "konj2_note": "unregelmäßig (gibt · gab)",
+  "sentences": [
+   {
+    "de": "Gib mir bitte das Salz.",
+    "en": "Please pass me the salt."
+   }
+  ]
  },
  {
   "de": "nehmen",
   "en": "to take",
   "pos": "v",
   "extra": "hat genommen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "nähme · würde nehmen",
+  "konj2_note": "unregelmäßig (nimmt · nahm)",
+  "sentences": [
+   {
+    "de": "Ich nehme einen Kaffee.",
+    "en": "I'll take a coffee."
+   }
+  ]
  },
  {
   "de": "bringen",
   "en": "to bring",
   "pos": "v",
   "extra": "hat gebracht",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "brächte · würde bringen",
+  "konj2_note": "unregelmäßig (bringt · brachte)",
+  "sentences": [
+   {
+    "de": "Bringst du das Buch mit?",
+    "en": "Are you bringing the book along?"
+   }
+  ]
  },
  {
   "de": "holen",
   "en": "to fetch, to get",
   "pos": "v",
   "extra": "hat geholt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "holte · würde holen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich hole die Kinder ab.",
+    "en": "I'm picking up the kids."
+   }
+  ]
  },
  {
   "de": "sehen",
   "en": "to see",
   "pos": "v",
   "extra": "hat gesehen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "sähe · würde sehen",
+  "konj2_note": "unregelmäßig (sieht · sah)",
+  "sentences": [
+   {
+    "de": "Ich sehe den Turm.",
+    "en": "I see the tower."
+   }
+  ]
  },
  {
   "de": "schauen",
   "en": "to look, to watch",
   "pos": "v",
   "extra": "hat geschaut",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "schaute · würde schauen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Schau mal hier!",
+    "en": "Look here!"
+   }
+  ]
  },
  {
   "de": "hören",
   "en": "to hear, to listen",
   "pos": "v",
   "extra": "hat gehört",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "hörte · würde hören",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich höre Musik.",
+    "en": "I'm listening to music."
+   }
+  ]
  },
  {
   "de": "verstehen",
   "en": "to understand",
   "pos": "v",
   "extra": "hat verstanden",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "verstünde · würde verstehen",
+  "konj2_note": "unregelmäßig (versteht · verstand)",
+  "sentences": [
+   {
+    "de": "Ich verstehe die Frage nicht.",
+    "en": "I don't understand the question."
+   }
+  ]
  },
  {
   "de": "wissen",
   "en": "to know (a fact)",
   "pos": "v",
   "extra": "hat gewusst",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "wüsste",
+  "konj2_note": "unregelmäßig (weiß · wusste)",
+  "sentences": [
+   {
+    "de": "Ich weiß die Antwort.",
+    "en": "I know the answer."
+   }
+  ]
  },
  {
   "de": "kennen",
   "en": "to know (a person)",
   "pos": "v",
   "extra": "hat gekannt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "kennte · würde kennen",
+  "konj2_note": "unregelmäßig (kennt · kannte)",
+  "sentences": [
+   {
+    "de": "Kennst du den neuen Kollegen?",
+    "en": "Do you know the new colleague?"
+   }
+  ]
  },
  {
   "de": "denken",
   "en": "to think",
   "pos": "v",
   "extra": "hat gedacht",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "dächte · würde denken",
+  "konj2_note": "unregelmäßig (denkt · dachte)",
+  "sentences": [
+   {
+    "de": "Ich denke an dich.",
+    "en": "I'm thinking of you."
+   }
+  ]
  },
  {
   "de": "glauben",
   "en": "to believe",
   "pos": "v",
   "extra": "hat geglaubt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "glaubte · würde glauben",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich glaube dir.",
+    "en": "I believe you."
+   }
+  ]
  },
  {
   "de": "finden",
   "en": "to find",
   "pos": "v",
   "extra": "hat gefunden",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "fände · würde finden",
+  "konj2_note": "unregelmäßig (findet · fand)",
+  "sentences": [
+   {
+    "de": "Ich finde den Schlüssel nicht.",
+    "en": "I can't find the key."
+   }
+  ]
  },
  {
   "de": "suchen",
   "en": "to look for, to search",
   "pos": "v",
   "extra": "hat gesucht",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "suchte · würde suchen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich suche meine Brille.",
+    "en": "I'm looking for my glasses."
+   }
+  ]
  },
  {
   "de": "brauchen",
   "en": "to need",
   "pos": "v",
   "extra": "hat gebraucht",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "bräuchte · würde brauchen",
+  "konj2_note": "unregelmäßig (braucht · brauchte)",
+  "sentences": [
+   {
+    "de": "Ich brauche mehr Zeit.",
+    "en": "I need more time."
+   }
+  ]
  },
  {
   "de": "zeigen",
   "en": "to show",
   "pos": "v",
   "extra": "hat gezeigt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "zeigte · würde zeigen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Zeig mir dein Foto!",
+    "en": "Show me your photo!"
+   }
+  ]
  },
  {
   "de": "helfen",
   "en": "to help",
   "pos": "v",
   "extra": "hat geholfen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "hülfe · würde helfen",
+  "konj2_note": "unregelmäßig (hilft · half)",
+  "sentences": [
+   {
+    "de": "Kann ich dir helfen?",
+    "en": "Can I help you?"
+   }
+  ]
  },
  {
   "de": "arbeiten",
   "en": "to work",
   "pos": "v",
   "extra": "hat gearbeitet",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "arbeitete · würde arbeiten",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Sie arbeitet in München.",
+    "en": "She works in Munich."
+   }
+  ]
  },
  {
   "de": "lernen",
   "en": "to learn",
   "pos": "v",
   "extra": "hat gelernt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "lernte · würde lernen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich lerne Deutsch.",
+    "en": "I'm learning German."
+   }
+  ]
  },
  {
   "de": "üben",
   "en": "to practice",
   "pos": "v",
   "extra": "hat geübt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "übte · würde üben",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Wir üben die Aussprache.",
+    "en": "We're practicing pronunciation."
+   }
+  ]
  },
  {
   "de": "studieren",
   "en": "to study (at university)",
   "pos": "v",
   "extra": "hat studiert",
-  "level": "A2"
+  "level": "A2",
+  "konj2": "studierte · würde studieren",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Er studiert Informatik.",
+    "en": "He studies computer science."
+   }
+  ]
  },
  {
   "de": "lesen",
   "en": "to read",
   "pos": "v",
   "extra": "hat gelesen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "läse · würde lesen",
+  "konj2_note": "unregelmäßig (liest · las)",
+  "sentences": [
+   {
+    "de": "Ich lese ein Buch.",
+    "en": "I'm reading a book."
+   }
+  ]
  },
  {
   "de": "schreiben",
   "en": "to write",
   "pos": "v",
   "extra": "hat geschrieben",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "schriebe · würde schreiben",
+  "konj2_note": "unregelmäßig (schreibt · schrieb)",
+  "sentences": [
+   {
+    "de": "Sie schreibt eine E-Mail.",
+    "en": "She's writing an email."
+   }
+  ]
  },
  {
   "de": "spielen",
   "en": "to play",
   "pos": "v",
   "extra": "hat gespielt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "spielte · würde spielen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Die Kinder spielen draußen.",
+    "en": "The kids are playing outside."
+   }
+  ]
  },
  {
   "de": "wohnen",
   "en": "to live, to reside",
   "pos": "v",
   "extra": "hat gewohnt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "wohnte · würde wohnen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich wohne in Berlin.",
+    "en": "I live in Berlin."
+   }
+  ]
  },
  {
   "de": "leben",
   "en": "to live",
   "pos": "v",
   "extra": "hat gelebt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "lebte · würde leben",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Meine Oma lebt in Hamburg.",
+    "en": "My grandma lives in Hamburg."
+   }
+  ]
  },
  {
   "de": "essen",
   "en": "to eat",
   "pos": "v",
   "extra": "hat gegessen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "äße · würde essen",
+  "konj2_note": "unregelmäßig (isst · aß)",
+  "sentences": [
+   {
+    "de": "Wir essen um zwölf.",
+    "en": "We eat at twelve."
+   }
+  ]
  },
  {
   "de": "trinken",
   "en": "to drink",
   "pos": "v",
   "extra": "hat getrunken",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "tränke · würde trinken",
+  "konj2_note": "unregelmäßig (trinkt · trank)",
+  "sentences": [
+   {
+    "de": "Ich trinke gerne Tee.",
+    "en": "I like drinking tea."
+   }
+  ]
  },
  {
   "de": "kochen",
   "en": "to cook",
   "pos": "v",
   "extra": "hat gekocht",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "kochte · würde kochen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Heute koche ich Nudeln.",
+    "en": "Today I'm cooking pasta."
+   }
+  ]
  },
  {
   "de": "backen",
   "en": "to bake",
   "pos": "v",
   "extra": "hat gebacken",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "büke · würde backen",
+  "konj2_note": "unregelmäßig (backt · buk)",
+  "sentences": [
+   {
+    "de": "Am Sonntag backen wir einen Kuchen.",
+    "en": "On Sunday we're baking a cake."
+   }
+  ]
  },
  {
   "de": "putzen",
   "en": "to clean",
   "pos": "v",
   "extra": "hat geputzt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "putzte · würde putzen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich putze die Fenster.",
+    "en": "I'm cleaning the windows."
+   }
+  ]
  },
  {
   "de": "öffnen",
   "en": "to open",
   "pos": "v",
   "extra": "hat geöffnet",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "öffnete · würde öffnen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Öffne bitte das Fenster.",
+    "en": "Please open the window."
+   }
+  ]
  },
  {
   "de": "schließen",
   "en": "to close",
   "pos": "v",
   "extra": "hat geschlossen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "schlösse · würde schließen",
+  "konj2_note": "unregelmäßig (schließt · schloss)",
+  "sentences": [
+   {
+    "de": "Schließe die Tür!",
+    "en": "Close the door!"
+   }
+  ]
  },
  {
   "de": "anfangen",
   "en": "to start, to begin",
   "pos": "v",
   "extra": "hat angefangen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "finge an · würde anfangen",
+  "konj2_note": "trennbar + unregelmäßig",
+  "sentences": [
+   {
+    "de": "Der Kurs fängt im September an.",
+    "en": "The course starts in September."
+   }
+  ]
  },
  {
   "de": "aufhören",
   "en": "to stop, to cease",
   "pos": "v",
   "extra": "hat aufgehört",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "hörte auf · würde aufhören",
+  "konj2_note": "trennbar + regelmäßig",
+  "sentences": [
+   {
+    "de": "Hört es bald auf zu regnen?",
+    "en": "Will it stop raining soon?"
+   }
+  ]
  },
  {
   "de": "beginnen",
   "en": "to begin",
   "pos": "v",
   "extra": "hat begonnen",
-  "level": "A2"
+  "level": "A2",
+  "konj2": "begänne · würde beginnen",
+  "konj2_note": "unregelmäßig (beginnt · begann)",
+  "sentences": [
+   {
+    "de": "Die Besprechung beginnt um zehn.",
+    "en": "The meeting starts at ten."
+   }
+  ]
  },
  {
   "de": "enden",
   "en": "to end",
   "pos": "v",
   "extra": "hat geendet",
-  "level": "A2"
+  "level": "A2",
+  "konj2": "endete · würde enden",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Der Film endet gut.",
+    "en": "The film ends well."
+   }
+  ]
  },
  {
   "de": "warten",
   "en": "to wait",
   "pos": "v",
   "extra": "hat gewartet",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "wartete · würde warten",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Warte auf mich!",
+    "en": "Wait for me!"
+   }
+  ]
  },
  {
   "de": "hoffen",
   "en": "to hope",
   "pos": "v",
   "extra": "hat gehofft",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "hoffte · würde hoffen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich hoffe, du kommst mit.",
+    "en": "I hope you come along."
+   }
+  ]
  },
  {
   "de": "wünschen",
   "en": "to wish",
   "pos": "v",
   "extra": "hat gewünscht",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "wünschte · würde wünschen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich wünsche dir viel Glück.",
+    "en": "I wish you good luck."
+   }
+  ]
  },
  {
   "de": "schenken",
   "en": "to give (a present)",
   "pos": "v",
   "extra": "hat geschenkt",
-  "level": "A2"
+  "level": "A2",
+  "konj2": "schenkte · würde schenken",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich schenke ihr Blumen.",
+    "en": "I'm giving her flowers."
+   }
+  ]
  },
  {
   "de": "gewinnen",
   "en": "to win",
   "pos": "v",
   "extra": "hat gewonnen",
-  "level": "A2"
+  "level": "A2",
+  "konj2": "gewönne · würde gewinnen",
+  "konj2_note": "unregelmäßig (gewinnt · gewann)",
+  "sentences": [
+   {
+    "de": "Wir gewinnen das Spiel.",
+    "en": "We're winning the game."
+   }
+  ]
  },
  {
   "de": "verlieren",
   "en": "to lose",
   "pos": "v",
   "extra": "hat verloren",
-  "level": "A2"
+  "level": "A2",
+  "konj2": "verlöre · würde verlieren",
+  "konj2_note": "unregelmäßig (verliert · verlor)",
+  "sentences": [
+   {
+    "de": "Ich habe meinen Schlüssel verloren.",
+    "en": "I lost my key."
+   }
+  ]
  },
  {
   "de": "verkaufen",
   "en": "to sell",
   "pos": "v",
   "extra": "hat verkauft",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "verkaufte · würde verkaufen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Sie verkauft ihr Auto.",
+    "en": "She's selling her car."
+   }
+  ]
  },
  {
   "de": "kosten",
   "en": "to cost",
   "pos": "v",
   "extra": "hat gekostet",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "kostete · würde kosten",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Was kostet die Fahrkarte?",
+    "en": "How much does the ticket cost?"
+   }
+  ]
  },
  {
   "de": "fühlen",
   "en": "to feel",
   "pos": "v",
   "extra": "hat gefühlt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "fühlte · würde fühlen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich fühle mich gut.",
+    "en": "I feel good."
+   }
+  ]
  },
  {
   "de": "lieben",
   "en": "to love",
   "pos": "v",
   "extra": "hat geliebt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "liebte · würde lieben",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich liebe dich.",
+    "en": "I love you."
+   }
+  ]
  },
  {
   "de": "lachen",
   "en": "to laugh",
   "pos": "v",
   "extra": "hat gelacht",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "lachte · würde lachen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Alle lachen über den Witz.",
+    "en": "Everyone laughs at the joke."
+   }
+  ]
  },
  {
   "de": "weinen",
   "en": "to cry",
   "pos": "v",
   "extra": "hat geweint",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "weinte · würde weinen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Das Kind weint.",
+    "en": "The child is crying."
+   }
+  ]
  },
  {
   "de": "singen",
   "en": "to sing",
   "pos": "v",
   "extra": "hat gesungen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "sänge · würde singen",
+  "konj2_note": "unregelmäßig (singt · sang)",
+  "sentences": [
+   {
+    "de": "Wir singen ein Lied.",
+    "en": "We're singing a song."
+   }
+  ]
  },
  {
   "de": "tanzen",
   "en": "to dance",
   "pos": "v",
   "extra": "hat getanzt",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "tanzte · würde tanzen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Sie tanzt gern.",
+    "en": "She likes dancing."
+   }
+  ]
  },
  {
   "de": "reisen",
   "en": "to travel",
   "pos": "v",
   "extra": "ist gereist",
-  "level": "A2"
+  "level": "A2",
+  "konj2": "reiste · würde reisen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Wir reisen im Sommer nach Italien.",
+    "en": "We're traveling to Italy in summer."
+   }
+  ]
  },
  {
   "de": "besuchen",
   "en": "to visit",
   "pos": "v",
   "extra": "hat besucht",
-  "level": "A2"
+  "level": "A2",
+  "konj2": "besuchte · würde besuchen",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich besuche meine Eltern.",
+    "en": "I'm visiting my parents."
+   }
+  ]
  },
  {
   "de": "treffen",
   "en": "to meet",
   "pos": "v",
   "extra": "hat getroffen",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "träfe · würde treffen",
+  "konj2_note": "unregelmäßig (trifft · traf)",
+  "sentences": [
+   {
+    "de": "Ich treffe Freunde im Park.",
+    "en": "I'm meeting friends in the park."
+   }
+  ]
  },
  {
   "de": "einladen",
   "en": "to invite",
   "pos": "v",
   "extra": "hat eingeladen",
-  "level": "A2"
+  "level": "A2",
+  "konj2": "lüde ein · würde einladen",
+  "konj2_note": "trennbar + unregelmäßig",
+  "sentences": [
+   {
+    "de": "Ich lade dich zum Essen ein.",
+    "en": "I'm inviting you to dinner."
+   }
+  ]
  },
  {
   "de": "telefonieren",
   "en": "to make a phone call",
   "pos": "v",
   "extra": "hat telefoniert",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "telefonierte · würde telefonieren",
+  "konj2_note": "regelmäßig — Konj II = Präteritum",
+  "sentences": [
+   {
+    "de": "Ich telefoniere mit meiner Mutter.",
+    "en": "I'm talking to my mother on the phone."
+   }
+  ]
  },
  {
   "de": "regnen",
   "en": "to rain",
   "pos": "v",
   "extra": "hat geregnet",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "regnete · würde regnen",
+  "konj2_note": "regelmäßig — es regnet",
+  "sentences": [
+   {
+    "de": "Es regnet den ganzen Tag.",
+    "en": "It rains all day."
+   }
+  ]
  },
  {
   "de": "schneien",
   "en": "to snow",
   "pos": "v",
   "extra": "hat geschneit",
-  "level": "A1"
+  "level": "A1",
+  "konj2": "schneite · würde schneien",
+  "konj2_note": "regelmäßig — es schneit",
+  "sentences": [
+   {
+    "de": "Es schneit im Winter.",
+    "en": "It snows in winter."
+   }
+  ]
  },
  {
   "de": "hallo",

@@ -49,7 +49,7 @@ function EntryCard({ e, showEn }) {
         {e.kind === 'word' && e.level && <span className="theme lvl">{e.level}</span>}
       </div>
 
-      {e.kind === 'verb' && (
+      {e.pos === 'v' && (
         <div className="forms">
           <div className="formrow">
             <span className="lbl">Partizip II</span>
@@ -66,7 +66,7 @@ function EntryCard({ e, showEn }) {
           )}
         </div>
       )}
-      {e.kind === 'word' && e.extra && (
+      {e.kind === 'word' && e.pos !== 'v' && e.extra && (
         <div className="extra"><span className="lbl">{lvlLabel}</span> · {e.extra}</div>
       )}
 
