@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#141210">
+<title>Deutsch Wörterbuch · SprintDeutsch</title>
+<style>
+  :root{
+    --bg:#141210; --surface:#1d1a17; --surface2:#262119; --border:#3a342b;
+    --ink:#f2ede4; --muted:#a89f90; --faint:#7a7265;
+    --accent:#d9a441; --accent-ink:#1a1408;
+    --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+    --sans:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    --mono:ui-monospace,"SF Mono","Cascadia Code",Menlo,Consolas,monospace;
+    --radius:14px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--ink);font-family:var(--sans);line-height:1.5;min-height:100vh}
+  ::selection{background:var(--accent);color:var(--accent-ink)}
+
+  /* ---------- header ---------- */
+  header{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(12px);border-bottom:1px solid var(--border)}
+  .wrap{max-width:760px;margin:0 auto;padding:0 16px}
+  .brand{padding:14px 0 10px;display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+  .brand h1{font-family:var(--serif);font-size:22px;font-weight:600;letter-spacing:.2px}
+  .brand h1 em{font-style:normal;color:var(--accent)}
+  .stats{font-size:12.5px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+  .stats b{color:var(--accent);font-weight:600}
+
+  .searchrow{padding:0 0 10px}
+  #q{width:100%;padding:11px 14px;font-size:15px;color:var(--ink);background:var(--surface);border:1px solid var(--border);border-radius:12px;outline:none;transition:border-color .15s}
+  #q::placeholder{color:var(--faint)}
+  #q:focus{border-color:var(--accent)}
+
+  .toolbar{display:flex;align-items:center;gap:8px;padding-bottom:10px;flex-wrap:wrap}
+  .chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;flex:1}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{flex:0 0 auto;padding:6px 12px;font-size:13px;color:var(--muted);background:var(--surface);border:1px solid var(--border);border-radius:999px;cursor:pointer;min-height:32px;font-family:var(--sans)}
+  .chip:hover{color:var(--ink);border-color:var(--faint)}
+  .chip.on{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);font-weight:600}
+  .iconbtn{padding:6px 10px;font-size:13px;color:var(--muted);background:var(--surface);border:1px solid var(--border);border-radius:999px;cursor:pointer;min-height:32px}
+  .iconbtn:hover{color:var(--ink)}
+  .iconbtn.on{color:var(--accent);border-color:var(--accent)}
+
+  /* ---------- list ---------- */
+  main{padding:18px 0 40px}
+  .countline{font-size:12.5px;color:var(--faint);margin:2px 2px 12px;font-variant-numeric:tabular-nums}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px 18px 14px;margin-bottom:14px;animation:fadein .25s ease both;scroll-margin-top:160px}
+  @keyframes fadein{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.card{animation:none}}
+
+  .cardhead{display:flex;align-items:flex-start;gap:10px}
+  .verb{font-family:var(--serif);font-size:27px;font-weight:600;line-height:1.15;letter-spacing:.2px}
+  .en{color:var(--muted);font-size:13.5px;margin-top:2px}
+  .flag{margin-left:auto;flex:0 0 auto}
+  .flag i{font-style:normal;color:var(--accent);font-size:15px;cursor:default;title:"unregelmäßig"}
+
+  .badges{display:flex;gap:6px;margin-top:10px;flex-wrap:wrap}
+  .theme{font-size:11.5px;letter-spacing:.4px;text-transform:uppercase;color:var(--muted);border:1px solid var(--border);padding:3px 9px;border-radius:999px}
+  .theme.hl{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 45%,var(--border))}
+
+  .forms{display:grid;gap:8px;margin-top:12px;background:var(--surface2);border-radius:10px;padding:11px 13px}
+  .formrow{display:flex;gap:10px;align-items:baseline;font-size:13.5px}
+  .formrow .lbl{flex:0 0 88px;font-family:var(--mono);font-size:11px;letter-spacing:.5px;text-transform:uppercase;color:var(--faint)}
+  .formrow .val{font-family:var(--mono);font-size:13px;color:var(--ink)}
+  .formrow .note{color:var(--faint);font-size:12px;margin-top:1px}
+
+  .sents{margin-top:14px;border-top:1px dashed var(--border);padding-top:12px}
+  .sents h3{font-size:11px;letter-spacing:.6px;text-transform:uppercase;color:var(--faint);font-weight:600;margin-bottom:8px}
+  .sent{display:flex;align-items:flex-start;gap:8px;padding:7px 4px;border-radius:8px;cursor:pointer;min-height:36px}
+  .sent:hover{background:var(--surface2)}
+  .sent .de{flex:1;font-size:14px}
+  .sent .en{flex:1 0 100%;font-size:13px;color:var(--muted);margin:0;display:none;padding-left:20px}
+  .sent.open .en{display:block;animation:fadein .2s ease both}
+  .sent .rev{flex:0 0 auto;font-family:var(--mono);font-size:10.5px;letter-spacing:.4px;color:var(--faint);border:1px solid var(--border);border-radius:6px;padding:3px 6px;background:transparent;cursor:pointer;min-height:24px}
+  .sent.open .rev{color:var(--accent);border-color:var(--accent)}
+
+  /* ---------- speakers ---------- */
+  .spk{flex:0 0 auto;width:34px;height:34px;border-radius:50%;border:1px solid var(--border);background:var(--surface2);color:var(--muted);cursor:pointer;font-size:14px;display:grid;place-items:center;transition:color .15s,border-color .15s;margin-top:2px}
+  .spk:hover{color:var(--accent);border-color:var(--accent)}
+  .spk.small{width:26px;height:26px;font-size:11px;margin-top:0}
+  .spk.speaking{color:var(--accent);border-color:var(--accent)}
+
+  .empty{padding:60px 20px;text-align:center;color:var(--faint);font-size:14px}
+  .empty b{color:var(--muted)}
+
+  footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(--faint);font-size:12.5px;text-align:center}
+  footer .u{color:var(--accent)}
+
+  @media (min-width:560px){
+    .brand h1{font-size:26px}
+    .verb{font-size:30px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="brand">
+      <h1>Deutsch <em>Wörterbuch</em></h1>
+      <div class="stats" id="stats"></div>
+    </div>
+    <div class="searchrow">
+      <input id="q" type="search" placeholder="Suchen … (Verb, Bedeutung, Satz)" autocomplete="off">
+    </div>
+    <div class="toolbar">
+      <div class="chips" id="chips"></div>
+      <button class="iconbtn" id="togEn" title="Übersetzungen ein/ausblenden">EN</button>
+      <button class="iconbtn" id="rand" title="Zufälliges Verb anzeigen">🎲</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <div class="countline" id="countline"></div>
+    <div id="list"></div>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    Sammlung wächst jeden Tag mit der SprintDeutsch-Übung · Zuletzt aktualisiert: <span class="u" id="updated"></span>
+  </div>
+</footer>
+
+<script src="data.js"></script>
+<script>
+(function(){
+  "use strict";
+  var D = window.WB_DATA || {verbs:[]};
+  var verbs = D.verbs.slice().sort(function(a,b){return a.v.localeCompare(b.v,"de");});
+  var state = {q:"", theme:"Alle", showEn:false};
+
+  /* ---------- helpers ---------- */
+  function esc(s){return s.replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
+
+  function speak(text){
+    if(!("speechSynthesis" in window)) return;
+    window.speechSynthesis.cancel();
+    var u = new SpeechSynthesisUtterance(text);
+    u.lang = "de-DE"; u.rate = 0.88; u.pitch = 1;
+    var vs = window.speechSynthesis.getVoices();
+    var v = vs.find(function(v){return /^de[-_](DE|AT|CH)/.test(v.lang);}) || vs.find(function(v){return v.lang && v.lang.slice(0,2)==="de";});
+    if(v) u.voice = v;
+    window.speechSynthesis.speak(u);
+  }
+
+  /* ---------- stats ---------- */
+  var ns = D.stats ? D.stats : (function(){var s=0;verbs.forEach(function(v){s+=v.sentences.length;});return{verbs:verbs.length,sentences:s,themes:[]};})();
+  document.getElementById("stats").innerHTML =
+    "<b>"+ns.verbs+"</b> Verben · <b>"+ns.sentences+"</b> Sätze";
+  var themes = ns.themes && ns.themes.length ? ns.themes : verbs.reduce(function(acc,v){
+    if(acc.indexOf(v.theme)<0) acc.push(v.theme); return acc;},[]).sort();
+  var up = D.updated || new Date().toISOString().slice(0,10);
+  document.getElementById("updated").textContent = up;
+
+  /* ---------- chips ---------- */
+  var chipsEl = document.getElementById("chips");
+  ["Alle"].concat(themes).forEach(function(t){
+    var b = document.createElement("button");
+    b.className = "chip" + (t==="Alle"?" on":"");
+    b.textContent = t;
+    b.addEventListener("click", function(){
+      state.theme = t;
+      document.querySelectorAll(".chip").forEach(function(c){c.classList.toggle("on", c.textContent===t);});
+      render();
+    });
+    chipsEl.appendChild(b);
+  });
+
+  /* ---------- filtering ---------- */
+  function matches(v){
+    if(state.theme!=="Alle" && v.theme!==state.theme) return false;
+    var q = state.q.trim().toLowerCase();
+    if(!q) return true;
+    if(v.v.toLowerCase().indexOf(q)>=0) return true;
+    if((v.en||"").toLowerCase().indexOf(q)>=0) return true;
+    if(v.theme.toLowerCase().indexOf(q)>=0) return true;
+    return v.sentences.some(function(s){return s.de.toLowerCase().indexOf(q)>=0 || s.en.toLowerCase().indexOf(q)>=0;});
+  }
+
+  /* ---------- render ---------- */
+  function card(v){
+    var el = document.createElement("div");
+    el.className = "card";
+    el.setAttribute("data-v", v.v);
+
+    var head = document.createElement("div");
+    head.className = "cardhead";
+    var spk = document.createElement("button");
+    spk.className = "spk"; spk.textContent = "🔊";
+    spk.setAttribute("aria-label","Aussprache: "+v.v);
+    spk.addEventListener("click", function(){speak(v.v);});
+
+    var txt = document.createElement("div");
+    txt.style.flex = "1";
+    var h = document.createElement("div");
+    h.className = "verb"; h.textContent = v.v;
+    var e = document.createElement("div");
+    e.className = "en"; e.textContent = v.en;
+    txt.appendChild(h); txt.appendChild(e);
+    head.appendChild(txt); head.appendChild(spk);
+    if(v.irregular){
+      var f = document.createElement("span");
+      f.className = "flag"; f.innerHTML = '<i title="unregelmäßiges Verb">⚡</i>';
+      head.appendChild(f);
+    }
+    el.appendChild(head);
+
+    var badges = document.createElement("div");
+    badges.className = "badges";
+    var tb = document.createElement("span");
+    tb.className = "theme hl"; tb.textContent = v.theme;
+    badges.appendChild(tb);
+    el.appendChild(badges);
+
+    var forms = document.createElement("div");
+    forms.className = "forms";
+    var p2 = document.createElement("div"); p2.className = "formrow";
+    p2.innerHTML = '<span class="lbl">Partizip II</span><span class="val">'+esc(v.part2)+'</span>';
+    forms.appendChild(p2);
+    var k2 = document.createElement("div"); k2.className = "formrow";
+    k2.innerHTML = '<span class="lbl">Konj. II</span><div><div class="val">'+esc(v.konj2)+'</div>'+
+      (v.konj2_note?'<div class="note">'+esc(v.konj2_note)+'</div>':"")+'</div>';
+    forms.appendChild(k2);
+    el.appendChild(forms);
+
+    var sents = document.createElement("div");
+    sents.className = "sents";
+    var sh = document.createElement("h3");
+    sh.textContent = "Beispielsätze";
+    sents.appendChild(sh);
+    v.sentences.forEach(function(s){
+      var row = document.createElement("div");
+      row.className = "sent" + (state.showEn?" open":"");
+      var de = document.createElement("div");
+      de.className = "de"; de.textContent = s.de;
+      var en = document.createElement("div");
+      en.className = "en"; en.textContent = s.en;
+      var rev = document.createElement("button");
+      rev.className = "rev"; rev.textContent = "EN";
+      rev.setAttribute("aria-label","Übersetzung zeigen/verbergen");
+      row.appendChild(de); row.appendChild(en); row.appendChild(rev);
+
+      var spks = document.createElement("button");
+      spks.className = "spk small"; spks.textContent = "🔊";
+      spks.setAttribute("aria-label","Satz vorlesen");
+      spks.addEventListener("click", function(ev){ev.stopPropagation();speak(s.de);});
+
+      function toggle(){ row.classList.toggle("open"); }
+      de.addEventListener("click", toggle);
+      en.addEventListener("click", toggle);
+      rev.addEventListener("click", function(ev){ev.stopPropagation();toggle();});
+      de.parentNode.insertBefore(spks, de.nextSibling);
+      sents.appendChild(row);
+    });
+    el.appendChild(sents);
+    return el;
+  }
+
+  function render(){
+    var hit = verbs.filter(matches);
+    var list = document.getElementById("list");
+    list.innerHTML = "";
+    document.getElementById("countline").textContent =
+      hit.length===verbs.length
+        ? "Alle " + verbs.length + " Verben"
+        : hit.length + " von " + verbs.length + " Verben";
+    if(!hit.length){
+      var d = document.createElement("div");
+      d.className = "empty";
+      d.innerHTML = "Keine Treffer für <b>"+esc(state.q)+"</b>. Versuch einen anderen Begriff.";
+      list.appendChild(d);
+      return;
+    }
+    hit.forEach(function(v){ list.appendChild(card(v)); });
+  }
+
+  /* ---------- events ---------- */
+  var qEl = document.getElementById("q");
+  var t = null;
+  qEl.addEventListener("input", function(){
+    clearTimeout(t);
+    t = setTimeout(function(){ state.q = qEl.value; render(); }, 120);
+  });
+
+  var tog = document.getElementById("togEn");
+  tog.addEventListener("click", function(){
+    state.showEn = !state.showEn;
+    tog.classList.toggle("on", state.showEn);
+    document.querySelectorAll(".sent").forEach(function(s){s.classList.toggle("open", state.showEn);});
+    try{ localStorage.setItem("wb_showEn", state.showEn?"1":"0"); }catch(e){}
+  });
+  try{ if(localStorage.getItem("wb_showEn")==="1"){ tog.click(); } }catch(e){}
+
+  document.getElementById("rand").addEventListener("click", function(){
+    if(!verbs.length) return;
+    var v = verbs[Math.floor(Math.random()*verbs.length)];
+    qEl.value = ""; state.q = "";
+    state.theme = "Alle";
+    document.querySelectorAll(".chip").forEach(function(c){c.classList.toggle("on", c.textContent==="Alle");});
+    render();
+    var el = document.querySelector('#list .card[data-v="'+CSS.escape(v.v)+'"]');
+    if(el) el.scrollIntoView({behavior:"smooth", block:"start"});
+  });
+
+  if("speechSynthesis" in window){ window.speechSynthesis.getVoices(); }
+
+  render();
+})();
+</script>
+</body>
+</html>

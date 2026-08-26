@@ -1,0 +1,232 @@
+{
+  "title": "Deutsch Wörterbuch",
+  "subtitle": "SprintDeutsch · Verben & Beispielsätze",
+  "verbs": [
+    {
+      "v": "vorschlagen",
+      "en": "to suggest, to propose",
+      "theme": "Arbeit & Meetings",
+      "konj2": "schlüge vor · würde vorschlagen",
+      "konj2_note": "irreal / höflich — 'würde vorschlagen' ist im Alltag üblicher",
+      "part2": "hat vorgeschlagen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich schlage vor, dass wir uns morgen um 9 treffen.", "en": "I suggest we meet tomorrow at 9."},
+        {"de": "Ich würde vorschlagen, den Deploy auf morgen zu verschieben.", "en": "I would suggest postponing the deploy until tomorrow."}
+      ]
+    },
+    {
+      "v": "verschieben",
+      "en": "to postpone, to shift",
+      "theme": "Arbeit & Meetings",
+      "konj2": "verschöbe · würde verschieben",
+      "konj2_note": "Konjunktiv II klingt diplomatischer",
+      "part2": "hat verschoben",
+      "irregular": true,
+      "sentences": [
+        {"de": "Könnten wir den Termin auf Freitag verschieben?", "en": "Could we postpone the appointment to Friday?"},
+        {"de": "Ich würde vorschlagen, den Deploy auf morgen zu verschieben.", "en": "I would suggest postponing the deploy until tomorrow."}
+      ]
+    },
+    {
+      "v": "erklären",
+      "en": "to explain",
+      "theme": "Arbeit & Meetings",
+      "konj2": "erklärte · würde erklären",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat erklärt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Kannst du mir kurz erklären, wie das funktioniert?", "en": "Can you briefly explain to me how that works?"},
+        {"de": "Könntest du mir erklären, warum der Test fehlschlägt?", "en": "Could you explain to me why the test is failing?"}
+      ]
+    },
+    {
+      "v": "ausfallen",
+      "en": "to fail, to go down, to stop working",
+      "theme": "Technik",
+      "konj2": "fiele aus · würde ausfallen",
+      "konj2_note": "unregelmäßig (fällt aus · fiel aus)",
+      "part2": "ist ausgefallen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Mein WLAN ist heute Morgen ausgefallen.", "en": "My Wi-Fi went down this morning."}
+      ]
+    },
+    {
+      "v": "neu starten",
+      "en": "to restart",
+      "theme": "Technik",
+      "konj2": "würde neu starten",
+      "konj2_note": "trennbar + regelmäßig",
+      "part2": "hat neu gestartet",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich musste den Router neu starten.", "en": "I had to restart the router."},
+        {"de": "Kannst du die App neu starten und es nochmal versuchen?", "en": "Can you restart the app and try again?"}
+      ]
+    },
+    {
+      "v": "abstürzen",
+      "en": "to crash (computer, phone, server)",
+      "theme": "Technik",
+      "konj2": "stürzte ab · würde abstürzen",
+      "konj2_note": "trennbar, mit sein",
+      "part2": "ist abgestürzt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Mein Handy stürzt ständig ab.", "en": "My phone keeps crashing."},
+        {"de": "Der Server ist gestern Nacht abgestürzt.", "en": "The server crashed last night."}
+      ]
+    },
+    {
+      "v": "beheben",
+      "en": "to fix, to resolve (a problem)",
+      "theme": "Technik",
+      "konj2": "würde beheben",
+      "konj2_note": "unregelmäßig (behebt · behob)",
+      "part2": "hat behoben",
+      "irregular": true,
+      "sentences": [
+        {"de": "Das Update hat das Problem endlich behoben.", "en": "The update finally fixed the problem."},
+        {"de": "Wir haben den Bug in der neuen Version behoben.", "en": "We fixed the bug in the new version."}
+      ]
+    },
+    {
+      "v": "aktualisieren",
+      "en": "to update",
+      "theme": "Technik",
+      "konj2": "würde aktualisieren",
+      "konj2_note": "regelmäßig (fremdwort)",
+      "part2": "hat aktualisiert",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich aktualisiere meine Apps einmal pro Woche.", "en": "I update my apps once a week."}
+      ]
+    },
+    {
+      "v": "aufräumen",
+      "en": "to tidy up, to clean up",
+      "theme": "Haushalt",
+      "konj2": "räumte auf · würde aufräumen",
+      "konj2_note": "trennbar + regelmäßig",
+      "part2": "hat aufgeräumt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich habe am Wochenende die ganze Wohnung aufgeräumt.", "en": "I tidied up the whole apartment at the weekend."},
+        {"de": "Wir räumen diese Woche das Repository auf.", "en": "We're cleaning up the repository this week."},
+        {"de": "Beim Refactoring räumen wir den alten Code auf.", "en": "During refactoring we tidy up the old code."}
+      ]
+    },
+    {
+      "v": "staubsaugen",
+      "en": "to vacuum",
+      "theme": "Haushalt",
+      "konj2": "würde staubsaugen",
+      "konj2_note": "regelmäßig",
+      "part2": "hat gestaubsaugt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Kannst du heute bitte staubsaugen?", "en": "Can you please vacuum today?"}
+      ]
+    },
+    {
+      "v": "spülen",
+      "en": "to wash up, to rinse (dishes)",
+      "theme": "Haushalt",
+      "konj2": "spülte · würde spülen",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat gespült",
+      "irregular": false,
+      "sentences": [
+        {"de": "Nach dem Essen spüle ich meistens sofort das Geschirr.", "en": "After eating I usually wash the dishes right away."}
+      ]
+    },
+    {
+      "v": "waschen",
+      "en": "to wash",
+      "theme": "Haushalt",
+      "konj2": "wüsche · würde waschen",
+      "konj2_note": "unregelmäßig (wäscht · wusch)",
+      "part2": "hat gewaschen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich wasche die Wäsche immer samstags.", "en": "I always do the laundry on Saturdays."}
+      ]
+    },
+    {
+      "v": "rausbringen",
+      "en": "to take out (the trash)",
+      "theme": "Haushalt",
+      "konj2": "brächte raus · würde rausbringen",
+      "konj2_note": "trennbar + unregelmäßig (bringt · brachte)",
+      "part2": "hat rausgebracht",
+      "irregular": true,
+      "sentences": [
+        {"de": "Hast du schon den Müll rausgebracht?", "en": "Have you already taken out the trash?"}
+      ]
+    },
+    {
+      "v": "einkaufen",
+      "en": "to shop, to go shopping",
+      "theme": "Einkaufen",
+      "konj2": "würde einkaufen",
+      "konj2_note": "trennbar + regelmäßig",
+      "part2": "hat eingekauft",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich gehe heute Nachmittag einkaufen.", "en": "I'm going shopping this afternoon."}
+      ]
+    },
+    {
+      "v": "bezahlen",
+      "en": "to pay",
+      "theme": "Einkaufen",
+      "konj2": "würde bezahlen",
+      "konj2_note": "regelmäßig",
+      "part2": "hat bezahlt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich bezahle an der Kasse mit Karte.", "en": "I pay by card at the checkout."}
+      ]
+    },
+    {
+      "v": "mitnehmen",
+      "en": "to take along, to bring along",
+      "theme": "Einkaufen",
+      "konj2": "nähme mit · würde mitnehmen",
+      "konj2_note": "trennbar + unregelmäßig (nimmt mit · nahm mit)",
+      "part2": "hat mitgenommen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Nimmst du die Einkaufstasche mit?", "en": "Are you taking the shopping bag with you?"},
+        {"de": "Ich nehme die Testergebnisse mit in die Besprechung.", "en": "I'm taking the test results to the meeting."}
+      ]
+    },
+    {
+      "v": "vergleichen",
+      "en": "to compare",
+      "theme": "Einkaufen",
+      "konj2": "würde vergleichen",
+      "konj2_note": "unregelmäßig (vergleicht · verglich)",
+      "part2": "hat verglichen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich vergleiche die Preise in zwei Geschäften.", "en": "I compare the prices in two shops."},
+        {"de": "Wir vergleichen die Laufzeit der beiden Versionen.", "en": "We compare the runtime of the two versions."}
+      ]
+    },
+    {
+      "v": "ausprobieren",
+      "en": "to try out, to test (software)",
+      "theme": "Einkaufen",
+      "konj2": "würde ausprobieren",
+      "konj2_note": "trennbar + regelmäßig",
+      "part2": "hat ausprobiert",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich probiere die neue IDE diese Woche aus.", "en": "I'm trying out the new IDE this week."}
+      ]
+    }
+  ]
+}
