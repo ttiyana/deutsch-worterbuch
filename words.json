@@ -1,0 +1,3900 @@
+[
+ {
+  "de": "null",
+  "en": "zero",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "eins",
+  "en": "one",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "zwei",
+  "en": "two",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "drei",
+  "en": "three",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "vier",
+  "en": "four",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "fünf",
+  "en": "five",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "sechs",
+  "en": "six",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "sieben",
+  "en": "seven",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "acht",
+  "en": "eight",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "neun",
+  "en": "nine",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "zehn",
+  "en": "ten",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "elf",
+  "en": "eleven",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "zwölf",
+  "en": "twelve",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "zwanzig",
+  "en": "twenty",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "dreißig",
+  "en": "thirty",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "hundert",
+  "en": "hundred",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "tausend",
+  "en": "thousand",
+  "pos": "num",
+  "level": "A1"
+ },
+ {
+  "de": "ich",
+  "en": "I",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "du",
+  "en": "you (informal)",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "er",
+  "en": "he",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "sie",
+  "en": "she / they",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "es",
+  "en": "it",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "wir",
+  "en": "we",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "ihr",
+  "en": "you (plural informal)",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "Sie",
+  "en": "you (formal)",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "mein",
+  "en": "my",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "dein",
+  "en": "your (informal)",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "sein",
+  "en": "his / its",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "unser",
+  "en": "our",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "wer",
+  "en": "who",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "was",
+  "en": "what",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "man",
+  "en": "one / you (impersonal)",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "niemand",
+  "en": "nobody",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "etwas",
+  "en": "something",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "nichts",
+  "en": "nothing",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "alles",
+  "en": "everything",
+  "pos": "pron",
+  "level": "A1"
+ },
+ {
+  "de": "wo",
+  "en": "where",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "wohin",
+  "en": "where to",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "woher",
+  "en": "where from",
+  "pos": "adv",
+  "level": "A2"
+ },
+ {
+  "de": "wann",
+  "en": "when",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "warum",
+  "en": "why",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "wie",
+  "en": "how",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "hier",
+  "en": "here",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "dort",
+  "en": "there",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "heute",
+  "en": "today",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "morgen",
+  "en": "tomorrow",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "gestern",
+  "en": "yesterday",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "jetzt",
+  "en": "now",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "später",
+  "en": "later",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "früh",
+  "en": "early",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "spät",
+  "en": "late",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "immer",
+  "en": "always",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "oft",
+  "en": "often",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "manchmal",
+  "en": "sometimes",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "nie",
+  "en": "never",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "selten",
+  "en": "rarely",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "gern",
+  "en": "gladly, with pleasure",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "sehr",
+  "en": "very",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "wirklich",
+  "en": "really",
+  "pos": "adv",
+  "level": "A2"
+ },
+ {
+  "de": "vielleicht",
+  "en": "maybe",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "natürlich",
+  "en": "of course",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "sofort",
+  "en": "immediately",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "schon",
+  "en": "already",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "noch",
+  "en": "still / yet",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "bald",
+  "en": "soon",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "zusammen",
+  "en": "together",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "allein",
+  "en": "alone",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "oben",
+  "en": "upstairs / above",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "unten",
+  "en": "downstairs / below",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "links",
+  "en": "left",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "rechts",
+  "en": "right",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "zurück",
+  "en": "back",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "wieder",
+  "en": "again",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "geradeaus",
+  "en": "straight ahead",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "überall",
+  "en": "everywhere",
+  "pos": "adv",
+  "level": "A1"
+ },
+ {
+  "de": "ungefähr",
+  "en": "approximately",
+  "pos": "adv",
+  "level": "A2"
+ },
+ {
+  "de": "ziemlich",
+  "en": "quite, fairly",
+  "pos": "adv",
+  "level": "A2"
+ },
+ {
+  "de": "genug",
+  "en": "enough",
+  "pos": "adv",
+  "level": "A2"
+ },
+ {
+  "de": "und",
+  "en": "and",
+  "pos": "conj",
+  "level": "A1"
+ },
+ {
+  "de": "oder",
+  "en": "or",
+  "pos": "conj",
+  "level": "A1"
+ },
+ {
+  "de": "aber",
+  "en": "but",
+  "pos": "conj",
+  "level": "A1"
+ },
+ {
+  "de": "denn",
+  "en": "because / for",
+  "pos": "conj",
+  "level": "A1"
+ },
+ {
+  "de": "weil",
+  "en": "because",
+  "pos": "conj",
+  "level": "A1"
+ },
+ {
+  "de": "dass",
+  "en": "that",
+  "pos": "conj",
+  "level": "A1"
+ },
+ {
+  "de": "wenn",
+  "en": "if / when",
+  "pos": "conj",
+  "level": "A1"
+ },
+ {
+  "de": "ob",
+  "en": "whether",
+  "pos": "conj",
+  "level": "A2"
+ },
+ {
+  "de": "als",
+  "en": "when (past) / than",
+  "pos": "conj",
+  "level": "A2"
+ },
+ {
+  "de": "bevor",
+  "en": "before",
+  "pos": "conj",
+  "level": "A2"
+ },
+ {
+  "de": "während",
+  "en": "while / during",
+  "pos": "conj",
+  "level": "A2"
+ },
+ {
+  "de": "trotzdem",
+  "en": "nevertheless",
+  "pos": "conj",
+  "level": "A2"
+ },
+ {
+  "de": "deshalb",
+  "en": "therefore",
+  "pos": "conj",
+  "level": "A2"
+ },
+ {
+  "de": "also",
+  "en": "so, therefore",
+  "pos": "conj",
+  "level": "A2"
+ },
+ {
+  "de": "sondern",
+  "en": "but (rather)",
+  "pos": "conj",
+  "level": "A2"
+ },
+ {
+  "de": "in",
+  "en": "in, into",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "an",
+  "en": "at, on, by",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "auf",
+  "en": "on, onto",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "unter",
+  "en": "under",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "über",
+  "en": "over, above, about",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "neben",
+  "en": "next to",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "vor",
+  "en": "in front of / before",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "hinter",
+  "en": "behind",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "zwischen",
+  "en": "between",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "mit",
+  "en": "with",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "ohne",
+  "en": "without",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "für",
+  "en": "for",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "gegen",
+  "en": "against",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "bei",
+  "en": "at, by (a person/place)",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "nach",
+  "en": "after, to (direction)",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "aus",
+  "en": "out of, from",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "von",
+  "en": "from, of",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "zu",
+  "en": "to",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "durch",
+  "en": "through",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "um",
+  "en": "around, at (time)",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "bis",
+  "en": "until",
+  "pos": "prep",
+  "level": "A1"
+ },
+ {
+  "de": "seit",
+  "en": "since, for (time)",
+  "pos": "prep",
+  "level": "A2"
+ },
+ {
+  "de": "der",
+  "en": "the (masculine)",
+  "pos": "n",
+  "extra": "die",
+  "level": "A1"
+ },
+ {
+  "de": "die",
+  "en": "the (feminine/plural)",
+  "pos": "n",
+  "extra": "die",
+  "level": "A1"
+ },
+ {
+  "de": "das",
+  "en": "the (neuter)",
+  "pos": "n",
+  "extra": "die",
+  "level": "A1"
+ },
+ {
+  "de": "die Familie",
+  "en": "family",
+  "pos": "n",
+  "extra": "die Familien",
+  "level": "A1"
+ },
+ {
+  "de": "die Mutter",
+  "en": "mother",
+  "pos": "n",
+  "extra": "die Mütter",
+  "level": "A1"
+ },
+ {
+  "de": "der Vater",
+  "en": "father",
+  "pos": "n",
+  "extra": "die Väter",
+  "level": "A1"
+ },
+ {
+  "de": "die Eltern",
+  "en": "parents",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "die Schwester",
+  "en": "sister",
+  "pos": "n",
+  "extra": "die Schwestern",
+  "level": "A1"
+ },
+ {
+  "de": "der Bruder",
+  "en": "brother",
+  "pos": "n",
+  "extra": "die Brüder",
+  "level": "A1"
+ },
+ {
+  "de": "das Kind",
+  "en": "child",
+  "pos": "n",
+  "extra": "die Kinder",
+  "level": "A1"
+ },
+ {
+  "de": "der Sohn",
+  "en": "son",
+  "pos": "n",
+  "extra": "die Söhne",
+  "level": "A1"
+ },
+ {
+  "de": "die Tochter",
+  "en": "daughter",
+  "pos": "n",
+  "extra": "die Töchter",
+  "level": "A1"
+ },
+ {
+  "de": "der Onkel",
+  "en": "uncle",
+  "pos": "n",
+  "extra": "die Onkel",
+  "level": "A1"
+ },
+ {
+  "de": "die Tante",
+  "en": "aunt",
+  "pos": "n",
+  "extra": "die Tanten",
+  "level": "A1"
+ },
+ {
+  "de": "der Opa",
+  "en": "grandpa",
+  "pos": "n",
+  "extra": "die Opas",
+  "level": "A1"
+ },
+ {
+  "de": "die Oma",
+  "en": "grandma",
+  "pos": "n",
+  "extra": "die Omas",
+  "level": "A1"
+ },
+ {
+  "de": "der Freund",
+  "en": "friend (male)",
+  "pos": "n",
+  "extra": "die Freunde",
+  "level": "A1"
+ },
+ {
+  "de": "die Freundin",
+  "en": "friend (female)",
+  "pos": "n",
+  "extra": "die Freundinnen",
+  "level": "A1"
+ },
+ {
+  "de": "der Mann",
+  "en": "man / husband",
+  "pos": "n",
+  "extra": "die Männer",
+  "level": "A1"
+ },
+ {
+  "de": "die Frau",
+  "en": "woman / wife",
+  "pos": "n",
+  "extra": "die Frauen",
+  "level": "A1"
+ },
+ {
+  "de": "der Junge",
+  "en": "boy",
+  "pos": "n",
+  "extra": "die Jungen",
+  "level": "A1"
+ },
+ {
+  "de": "das Mädchen",
+  "en": "girl",
+  "pos": "n",
+  "extra": "die Mädchen",
+  "level": "A1"
+ },
+ {
+  "de": "die Leute",
+  "en": "people",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "das Haus",
+  "en": "house",
+  "pos": "n",
+  "extra": "die Häuser",
+  "level": "A1"
+ },
+ {
+  "de": "die Wohnung",
+  "en": "apartment, flat",
+  "pos": "n",
+  "extra": "die Wohnungen",
+  "level": "A1"
+ },
+ {
+  "de": "das Zimmer",
+  "en": "room",
+  "pos": "n",
+  "extra": "die Zimmer",
+  "level": "A1"
+ },
+ {
+  "de": "die Küche",
+  "en": "kitchen",
+  "pos": "n",
+  "extra": "die Küchen",
+  "level": "A1"
+ },
+ {
+  "de": "das Badezimmer",
+  "en": "bathroom",
+  "pos": "n",
+  "extra": "die Badezimmer",
+  "level": "A1"
+ },
+ {
+  "de": "das Schlafzimmer",
+  "en": "bedroom",
+  "pos": "n",
+  "extra": "die Schlafzimmer",
+  "level": "A1"
+ },
+ {
+  "de": "das Wohnzimmer",
+  "en": "living room",
+  "pos": "n",
+  "extra": "die Wohnzimmer",
+  "level": "A1"
+ },
+ {
+  "de": "die Tür",
+  "en": "door",
+  "pos": "n",
+  "extra": "die Türen",
+  "level": "A1"
+ },
+ {
+  "de": "das Fenster",
+  "en": "window",
+  "pos": "n",
+  "extra": "die Fenster",
+  "level": "A1"
+ },
+ {
+  "de": "der Tisch",
+  "en": "table",
+  "pos": "n",
+  "extra": "die Tische",
+  "level": "A1"
+ },
+ {
+  "de": "der Stuhl",
+  "en": "chair",
+  "pos": "n",
+  "extra": "die Stühle",
+  "level": "A1"
+ },
+ {
+  "de": "das Bett",
+  "en": "bed",
+  "pos": "n",
+  "extra": "die Betten",
+  "level": "A1"
+ },
+ {
+  "de": "der Schrank",
+  "en": "wardrobe, cupboard",
+  "pos": "n",
+  "extra": "die Schränke",
+  "level": "A1"
+ },
+ {
+  "de": "das Sofa",
+  "en": "sofa",
+  "pos": "n",
+  "extra": "die Sofas",
+  "level": "A2"
+ },
+ {
+  "de": "der Kühlschrank",
+  "en": "fridge",
+  "pos": "n",
+  "extra": "die Kühlschränke",
+  "level": "A2"
+ },
+ {
+  "de": "der Herd",
+  "en": "stove, cooker",
+  "pos": "n",
+  "extra": "die Herde",
+  "level": "A2"
+ },
+ {
+  "de": "die Lampe",
+  "en": "lamp",
+  "pos": "n",
+  "extra": "die Lampen",
+  "level": "A1"
+ },
+ {
+  "de": "der Spiegel",
+  "en": "mirror",
+  "pos": "n",
+  "extra": "die Spiegel",
+  "level": "A2"
+ },
+ {
+  "de": "das Bild",
+  "en": "picture",
+  "pos": "n",
+  "extra": "die Bilder",
+  "level": "A1"
+ },
+ {
+  "de": "der Schlüssel",
+  "en": "key",
+  "pos": "n",
+  "extra": "die Schlüssel",
+  "level": "A1"
+ },
+ {
+  "de": "die Treppe",
+  "en": "stairs",
+  "pos": "n",
+  "extra": "die Treppen",
+  "level": "A2"
+ },
+ {
+  "de": "der Balkon",
+  "en": "balcony",
+  "pos": "n",
+  "extra": "die Balkone",
+  "level": "A2"
+ },
+ {
+  "de": "der Garten",
+  "en": "garden",
+  "pos": "n",
+  "extra": "die Gärten",
+  "level": "A1"
+ },
+ {
+  "de": "das Frühstück",
+  "en": "breakfast",
+  "pos": "n",
+  "extra": "die Frühstücke",
+  "level": "A1"
+ },
+ {
+  "de": "das Mittagessen",
+  "en": "lunch",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "das Abendessen",
+  "en": "dinner",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "das Brot",
+  "en": "bread",
+  "pos": "n",
+  "extra": "die Brote",
+  "level": "A1"
+ },
+ {
+  "de": "der Käse",
+  "en": "cheese",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "die Wurst",
+  "en": "sausage",
+  "pos": "n",
+  "extra": "die Würste",
+  "level": "A1"
+ },
+ {
+  "de": "das Ei",
+  "en": "egg",
+  "pos": "n",
+  "extra": "die Eier",
+  "level": "A1"
+ },
+ {
+  "de": "die Milch",
+  "en": "milk",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Kaffee",
+  "en": "coffee",
+  "pos": "n",
+  "extra": "die Kaffees",
+  "level": "A1"
+ },
+ {
+  "de": "der Tee",
+  "en": "tea",
+  "pos": "n",
+  "extra": "die Tees",
+  "level": "A1"
+ },
+ {
+  "de": "das Wasser",
+  "en": "water",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Saft",
+  "en": "juice",
+  "pos": "n",
+  "extra": "die Säfte",
+  "level": "A1"
+ },
+ {
+  "de": "das Bier",
+  "en": "beer",
+  "pos": "n",
+  "extra": "die Biere",
+  "level": "A1"
+ },
+ {
+  "de": "der Wein",
+  "en": "wine",
+  "pos": "n",
+  "extra": "die Weine",
+  "level": "A1"
+ },
+ {
+  "de": "das Obst",
+  "en": "fruit (collective)",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Apfel",
+  "en": "apple",
+  "pos": "n",
+  "extra": "die Äpfel",
+  "level": "A1"
+ },
+ {
+  "de": "die Banane",
+  "en": "banana",
+  "pos": "n",
+  "extra": "die Bananen",
+  "level": "A1"
+ },
+ {
+  "de": "die Orange",
+  "en": "orange",
+  "pos": "n",
+  "extra": "die Orangen",
+  "level": "A1"
+ },
+ {
+  "de": "die Erdbeere",
+  "en": "strawberry",
+  "pos": "n",
+  "extra": "die Erdbeeren",
+  "level": "A2"
+ },
+ {
+  "de": "das Gemüse",
+  "en": "vegetables",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "die Kartoffel",
+  "en": "potato",
+  "pos": "n",
+  "extra": "die Kartoffeln",
+  "level": "A1"
+ },
+ {
+  "de": "die Tomate",
+  "en": "tomato",
+  "pos": "n",
+  "extra": "die Tomaten",
+  "level": "A1"
+ },
+ {
+  "de": "die Zwiebel",
+  "en": "onion",
+  "pos": "n",
+  "extra": "die Zwiebeln",
+  "level": "A2"
+ },
+ {
+  "de": "die Karotte",
+  "en": "carrot",
+  "pos": "n",
+  "extra": "die Karotten",
+  "level": "A2"
+ },
+ {
+  "de": "der Reis",
+  "en": "rice",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "die Nudeln",
+  "en": "pasta, noodles",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "das Fleisch",
+  "en": "meat",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "das Hähnchen",
+  "en": "chicken",
+  "pos": "n",
+  "extra": "die Hähnchen",
+  "level": "A2"
+ },
+ {
+  "de": "der Fisch",
+  "en": "fish",
+  "pos": "n",
+  "extra": "die Fische",
+  "level": "A1"
+ },
+ {
+  "de": "die Suppe",
+  "en": "soup",
+  "pos": "n",
+  "extra": "die Suppen",
+  "level": "A2"
+ },
+ {
+  "de": "der Salat",
+  "en": "salad",
+  "pos": "n",
+  "extra": "die Salate",
+  "level": "A2"
+ },
+ {
+  "de": "der Kuchen",
+  "en": "cake",
+  "pos": "n",
+  "extra": "die Kuchen",
+  "level": "A2"
+ },
+ {
+  "de": "das Eis",
+  "en": "ice cream",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "der Zucker",
+  "en": "sugar",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "das Salz",
+  "en": "salt",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Pfeffer",
+  "en": "pepper",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "das Öl",
+  "en": "oil",
+  "pos": "n",
+  "extra": "die Öle",
+  "level": "A2"
+ },
+ {
+  "de": "die Butter",
+  "en": "butter",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Joghurt",
+  "en": "yogurt",
+  "pos": "n",
+  "extra": "die Joghurts",
+  "level": "A2"
+ },
+ {
+  "de": "der Hunger",
+  "en": "hunger",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Durst",
+  "en": "thirst",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Teller",
+  "en": "plate",
+  "pos": "n",
+  "extra": "die Teller",
+  "level": "A1"
+ },
+ {
+  "de": "das Glas",
+  "en": "glass",
+  "pos": "n",
+  "extra": "die Gläser",
+  "level": "A1"
+ },
+ {
+  "de": "die Tasse",
+  "en": "cup",
+  "pos": "n",
+  "extra": "die Tassen",
+  "level": "A1"
+ },
+ {
+  "de": "die Flasche",
+  "en": "bottle",
+  "pos": "n",
+  "extra": "die Flaschen",
+  "level": "A1"
+ },
+ {
+  "de": "die Gabel",
+  "en": "fork",
+  "pos": "n",
+  "extra": "die Gabeln",
+  "level": "A1"
+ },
+ {
+  "de": "das Messer",
+  "en": "knife",
+  "pos": "n",
+  "extra": "die Messer",
+  "level": "A1"
+ },
+ {
+  "de": "der Löffel",
+  "en": "spoon",
+  "pos": "n",
+  "extra": "die Löffel",
+  "level": "A1"
+ },
+ {
+  "de": "der Körper",
+  "en": "body",
+  "pos": "n",
+  "extra": "die Körper",
+  "level": "A1"
+ },
+ {
+  "de": "der Kopf",
+  "en": "head",
+  "pos": "n",
+  "extra": "die Köpfe",
+  "level": "A1"
+ },
+ {
+  "de": "das Gesicht",
+  "en": "face",
+  "pos": "n",
+  "extra": "die Gesichter",
+  "level": "A1"
+ },
+ {
+  "de": "das Auge",
+  "en": "eye",
+  "pos": "n",
+  "extra": "die Augen",
+  "level": "A1"
+ },
+ {
+  "de": "das Ohr",
+  "en": "ear",
+  "pos": "n",
+  "extra": "die Ohren",
+  "level": "A1"
+ },
+ {
+  "de": "die Nase",
+  "en": "nose",
+  "pos": "n",
+  "extra": "die Nasen",
+  "level": "A1"
+ },
+ {
+  "de": "der Mund",
+  "en": "mouth",
+  "pos": "n",
+  "extra": "die Münder",
+  "level": "A1"
+ },
+ {
+  "de": "die Hand",
+  "en": "hand",
+  "pos": "n",
+  "extra": "die Hände",
+  "level": "A1"
+ },
+ {
+  "de": "der Arm",
+  "en": "arm",
+  "pos": "n",
+  "extra": "die Arme",
+  "level": "A1"
+ },
+ {
+  "de": "das Bein",
+  "en": "leg",
+  "pos": "n",
+  "extra": "die Beine",
+  "level": "A1"
+ },
+ {
+  "de": "der Fuß",
+  "en": "foot",
+  "pos": "n",
+  "extra": "die Füße",
+  "level": "A1"
+ },
+ {
+  "de": "der Finger",
+  "en": "finger",
+  "pos": "n",
+  "extra": "die Finger",
+  "level": "A2"
+ },
+ {
+  "de": "das Haar",
+  "en": "hair",
+  "pos": "n",
+  "extra": "die Haare",
+  "level": "A1"
+ },
+ {
+  "de": "der Zahn",
+  "en": "tooth",
+  "pos": "n",
+  "extra": "die Zähne",
+  "level": "A2"
+ },
+ {
+  "de": "der Rücken",
+  "en": "back",
+  "pos": "n",
+  "extra": "die Rücken",
+  "level": "A2"
+ },
+ {
+  "de": "der Bauch",
+  "en": "belly, stomach",
+  "pos": "n",
+  "extra": "die Bäuche",
+  "level": "A2"
+ },
+ {
+  "de": "das Herz",
+  "en": "heart",
+  "pos": "n",
+  "extra": "die Herzen",
+  "level": "A2"
+ },
+ {
+  "de": "der Arzt",
+  "en": "doctor (male)",
+  "pos": "n",
+  "extra": "die Ärzte",
+  "level": "A1"
+ },
+ {
+  "de": "die Ärztin",
+  "en": "doctor (female)",
+  "pos": "n",
+  "extra": "die Ärztinnen",
+  "level": "A1"
+ },
+ {
+  "de": "das Krankenhaus",
+  "en": "hospital",
+  "pos": "n",
+  "extra": "die Krankenhäuser",
+  "level": "A2"
+ },
+ {
+  "de": "die Apotheke",
+  "en": "pharmacy",
+  "pos": "n",
+  "extra": "die Apotheken",
+  "level": "A2"
+ },
+ {
+  "de": "die Tablette",
+  "en": "pill, tablet",
+  "pos": "n",
+  "extra": "die Tabletten",
+  "level": "A2"
+ },
+ {
+  "de": "der Schmerz",
+  "en": "pain",
+  "pos": "n",
+  "extra": "die Schmerzen",
+  "level": "A2"
+ },
+ {
+  "de": "die Kleidung",
+  "en": "clothing",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "das Hemd",
+  "en": "shirt",
+  "pos": "n",
+  "extra": "die Hemden",
+  "level": "A1"
+ },
+ {
+  "de": "das T-Shirt",
+  "en": "t-shirt",
+  "pos": "n",
+  "extra": "die T-Shirts",
+  "level": "A1"
+ },
+ {
+  "de": "die Hose",
+  "en": "trousers, pants",
+  "pos": "n",
+  "extra": "die Hosen",
+  "level": "A1"
+ },
+ {
+  "de": "der Rock",
+  "en": "skirt",
+  "pos": "n",
+  "extra": "die Röcke",
+  "level": "A1"
+ },
+ {
+  "de": "das Kleid",
+  "en": "dress",
+  "pos": "n",
+  "extra": "die Kleider",
+  "level": "A1"
+ },
+ {
+  "de": "die Jacke",
+  "en": "jacket",
+  "pos": "n",
+  "extra": "die Jacken",
+  "level": "A1"
+ },
+ {
+  "de": "der Mantel",
+  "en": "coat",
+  "pos": "n",
+  "extra": "die Mäntel",
+  "level": "A1"
+ },
+ {
+  "de": "der Pullover",
+  "en": "sweater",
+  "pos": "n",
+  "extra": "die Pullover",
+  "level": "A1"
+ },
+ {
+  "de": "der Schuh",
+  "en": "shoe",
+  "pos": "n",
+  "extra": "die Schuhe",
+  "level": "A1"
+ },
+ {
+  "de": "die Socke",
+  "en": "sock",
+  "pos": "n",
+  "extra": "die Socken",
+  "level": "A2"
+ },
+ {
+  "de": "die Mütze",
+  "en": "beanie, cap",
+  "pos": "n",
+  "extra": "die Mützen",
+  "level": "A2"
+ },
+ {
+  "de": "der Hut",
+  "en": "hat",
+  "pos": "n",
+  "extra": "die Hüte",
+  "level": "A2"
+ },
+ {
+  "de": "der Schal",
+  "en": "scarf",
+  "pos": "n",
+  "extra": "die Schals",
+  "level": "A2"
+ },
+ {
+  "de": "die Tasche",
+  "en": "bag",
+  "pos": "n",
+  "extra": "die Taschen",
+  "level": "A1"
+ },
+ {
+  "de": "der Gürtel",
+  "en": "belt",
+  "pos": "n",
+  "extra": "die Gürtel",
+  "level": "A2"
+ },
+ {
+  "de": "die Brille",
+  "en": "glasses",
+  "pos": "n",
+  "extra": "die Brillen",
+  "level": "A2"
+ },
+ {
+  "de": "die Uhr",
+  "en": "clock, watch",
+  "pos": "n",
+  "extra": "die Uhren",
+  "level": "A2"
+ },
+ {
+  "de": "die Farbe",
+  "en": "color",
+  "pos": "n",
+  "extra": "die Farben",
+  "level": "A1"
+ },
+ {
+  "de": "rot",
+  "en": "red",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "blau",
+  "en": "blue",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "grün",
+  "en": "green",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "gelb",
+  "en": "yellow",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "orange",
+  "en": "orange (color)",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "lila",
+  "en": "purple",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "schwarz",
+  "en": "black",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "weiß",
+  "en": "white",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "grau",
+  "en": "gray",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "braun",
+  "en": "brown",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "rosa",
+  "en": "pink",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "hell",
+  "en": "bright, light",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "dunkel",
+  "en": "dark",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "gut",
+  "en": "good",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "schlecht",
+  "en": "bad",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "groß",
+  "en": "big, tall",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "klein",
+  "en": "small",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "neu",
+  "en": "new",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "alt",
+  "en": "old",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "jung",
+  "en": "young",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "schnell",
+  "en": "fast",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "langsam",
+  "en": "slow",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "laut",
+  "en": "loud",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "leise",
+  "en": "quiet",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "schön",
+  "en": "beautiful, nice",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "nett",
+  "en": "kind, nice",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "freundlich",
+  "en": "friendly",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "warm",
+  "en": "warm",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "kalt",
+  "en": "cold",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "heiß",
+  "en": "hot",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "voll",
+  "en": "full",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "leer",
+  "en": "empty",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "offen",
+  "en": "open",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "geschlossen",
+  "en": "closed",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "richtig",
+  "en": "right, correct",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "falsch",
+  "en": "wrong",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "einfach",
+  "en": "simple, easy",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "schwer",
+  "en": "difficult, heavy",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "leicht",
+  "en": "easy, light",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "billig",
+  "en": "cheap",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "teuer",
+  "en": "expensive",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "lang",
+  "en": "long",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "kurz",
+  "en": "short",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "hoch",
+  "en": "high, tall",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "weit",
+  "en": "far, wide",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "nah",
+  "en": "near, close",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "stark",
+  "en": "strong",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "schwach",
+  "en": "weak",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "sauber",
+  "en": "clean",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "schmutzig",
+  "en": "dirty",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "wichtig",
+  "en": "important",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "interessant",
+  "en": "interesting",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "langweilig",
+  "en": "boring",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "lustig",
+  "en": "funny",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "traurig",
+  "en": "sad",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "glücklich",
+  "en": "happy",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "müde",
+  "en": "tired",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "krank",
+  "en": "sick, ill",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "gesund",
+  "en": "healthy",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "satt",
+  "en": "full (after eating)",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "hungrig",
+  "en": "hungry",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "durstig",
+  "en": "thirsty",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "sicher",
+  "en": "safe, sure",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "gefährlich",
+  "en": "dangerous",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "möglich",
+  "en": "possible",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "fertig",
+  "en": "finished, done",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "kaputt",
+  "en": "broken",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "frei",
+  "en": "free",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "ganz",
+  "en": "whole, quite",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "halb",
+  "en": "half",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "viel",
+  "en": "much, a lot",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "wenig",
+  "en": "little, few",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "mehr",
+  "en": "more",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "jeder",
+  "en": "every, each",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "nächste",
+  "en": "next",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "letzte",
+  "en": "last",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "erste",
+  "en": "first",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "zweite",
+  "en": "second",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "dritte",
+  "en": "third",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "lecker",
+  "en": "delicious",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "süß",
+  "en": "sweet, cute",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "sauer",
+  "en": "sour, angry",
+  "pos": "adj",
+  "level": "A2"
+ },
+ {
+  "de": "scharf",
+  "en": "spicy, sharp",
+  "pos": "adj",
+  "level": "A2"
+ },
+ {
+  "de": "frisch",
+  "en": "fresh",
+  "pos": "adj",
+  "level": "A1"
+ },
+ {
+  "de": "die Stadt",
+  "en": "city, town",
+  "pos": "n",
+  "extra": "die Städte",
+  "level": "A1"
+ },
+ {
+  "de": "das Dorf",
+  "en": "village",
+  "pos": "n",
+  "extra": "die Dörfer",
+  "level": "A2"
+ },
+ {
+  "de": "die Straße",
+  "en": "street, road",
+  "pos": "n",
+  "extra": "die Straßen",
+  "level": "A1"
+ },
+ {
+  "de": "der Platz",
+  "en": "square, place",
+  "pos": "n",
+  "extra": "die Plätze",
+  "level": "A1"
+ },
+ {
+  "de": "der Park",
+  "en": "park",
+  "pos": "n",
+  "extra": "die Parks",
+  "level": "A1"
+ },
+ {
+  "de": "das Gebäude",
+  "en": "building",
+  "pos": "n",
+  "extra": "die Gebäude",
+  "level": "A2"
+ },
+ {
+  "de": "das Geschäft",
+  "en": "shop, store",
+  "pos": "n",
+  "extra": "die Geschäfte",
+  "level": "A1"
+ },
+ {
+  "de": "der Laden",
+  "en": "shop (small)",
+  "pos": "n",
+  "extra": "die Läden",
+  "level": "A2"
+ },
+ {
+  "de": "das Restaurant",
+  "en": "restaurant",
+  "pos": "n",
+  "extra": "die Restaurants",
+  "level": "A1"
+ },
+ {
+  "de": "das Café",
+  "en": "café",
+  "pos": "n",
+  "extra": "die Cafés",
+  "level": "A1"
+ },
+ {
+  "de": "das Hotel",
+  "en": "hotel",
+  "pos": "n",
+  "extra": "die Hotels",
+  "level": "A1"
+ },
+ {
+  "de": "der Bahnhof",
+  "en": "train station",
+  "pos": "n",
+  "extra": "die Bahnhöfe",
+  "level": "A1"
+ },
+ {
+  "de": "der Flughafen",
+  "en": "airport",
+  "pos": "n",
+  "extra": "die Flughäfen",
+  "level": "A2"
+ },
+ {
+  "de": "die Haltestelle",
+  "en": "stop (tram/bus)",
+  "pos": "n",
+  "extra": "die Haltestellen",
+  "level": "A1"
+ },
+ {
+  "de": "der Bus",
+  "en": "bus",
+  "pos": "n",
+  "extra": "die Busse",
+  "level": "A1"
+ },
+ {
+  "de": "die Bahn",
+  "en": "train, railway",
+  "pos": "n",
+  "extra": "die Bahnen",
+  "level": "A2"
+ },
+ {
+  "de": "der Zug",
+  "en": "train",
+  "pos": "n",
+  "extra": "die Züge",
+  "level": "A1"
+ },
+ {
+  "de": "die U-Bahn",
+  "en": "subway, metro",
+  "pos": "n",
+  "extra": "die U-Bahnen",
+  "level": "A1"
+ },
+ {
+  "de": "das Auto",
+  "en": "car",
+  "pos": "n",
+  "extra": "die Autos",
+  "level": "A1"
+ },
+ {
+  "de": "das Fahrrad",
+  "en": "bicycle",
+  "pos": "n",
+  "extra": "die Fahrräder",
+  "level": "A1"
+ },
+ {
+  "de": "das Motorrad",
+  "en": "motorbike",
+  "pos": "n",
+  "extra": "die Motorräder",
+  "level": "A2"
+ },
+ {
+  "de": "das Taxi",
+  "en": "taxi",
+  "pos": "n",
+  "extra": "die Taxis",
+  "level": "A1"
+ },
+ {
+  "de": "das Flugzeug",
+  "en": "airplane",
+  "pos": "n",
+  "extra": "die Flugzeuge",
+  "level": "A1"
+ },
+ {
+  "de": "das Ticket",
+  "en": "ticket",
+  "pos": "n",
+  "extra": "die Tickets",
+  "level": "A2"
+ },
+ {
+  "de": "die Fahrkarte",
+  "en": "train/bus ticket",
+  "pos": "n",
+  "extra": "die Fahrkarten",
+  "level": "A2"
+ },
+ {
+  "de": "die Ampel",
+  "en": "traffic light",
+  "pos": "n",
+  "extra": "die Ampeln",
+  "level": "A2"
+ },
+ {
+  "de": "die Kreuzung",
+  "en": "intersection",
+  "pos": "n",
+  "extra": "die Kreuzungen",
+  "level": "A2"
+ },
+ {
+  "de": "die Brücke",
+  "en": "bridge",
+  "pos": "n",
+  "extra": "die Brücken",
+  "level": "A2"
+ },
+ {
+  "de": "die Post",
+  "en": "post office, mail",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "die Bank",
+  "en": "bank",
+  "pos": "n",
+  "extra": "die Banken",
+  "level": "A2"
+ },
+ {
+  "de": "die Kirche",
+  "en": "church",
+  "pos": "n",
+  "extra": "die Kirchen",
+  "level": "A2"
+ },
+ {
+  "de": "die Schule",
+  "en": "school",
+  "pos": "n",
+  "extra": "die Schulen",
+  "level": "A1"
+ },
+ {
+  "de": "die Universität",
+  "en": "university",
+  "pos": "n",
+  "extra": "die Universitäten",
+  "level": "A2"
+ },
+ {
+  "de": "das Kino",
+  "en": "cinema",
+  "pos": "n",
+  "extra": "die Kinos",
+  "level": "A1"
+ },
+ {
+  "de": "das Theater",
+  "en": "theater",
+  "pos": "n",
+  "extra": "die Theater",
+  "level": "A2"
+ },
+ {
+  "de": "das Museum",
+  "en": "museum",
+  "pos": "n",
+  "extra": "die Museen",
+  "level": "A2"
+ },
+ {
+  "de": "der Markt",
+  "en": "market",
+  "pos": "n",
+  "extra": "die Märkte",
+  "level": "A2"
+ },
+ {
+  "de": "der Supermarkt",
+  "en": "supermarket",
+  "pos": "n",
+  "extra": "die Supermärkte",
+  "level": "A1"
+ },
+ {
+  "de": "der Tag",
+  "en": "day",
+  "pos": "n",
+  "extra": "die Tage",
+  "level": "A1"
+ },
+ {
+  "de": "die Nacht",
+  "en": "night",
+  "pos": "n",
+  "extra": "die Nächte",
+  "level": "A1"
+ },
+ {
+  "de": "die Woche",
+  "en": "week",
+  "pos": "n",
+  "extra": "die Wochen",
+  "level": "A1"
+ },
+ {
+  "de": "das Wochenende",
+  "en": "weekend",
+  "pos": "n",
+  "extra": "die Wochenenden",
+  "level": "A1"
+ },
+ {
+  "de": "der Monat",
+  "en": "month",
+  "pos": "n",
+  "extra": "die Monate",
+  "level": "A1"
+ },
+ {
+  "de": "das Jahr",
+  "en": "year",
+  "pos": "n",
+  "extra": "die Jahre",
+  "level": "A1"
+ },
+ {
+  "de": "die Stunde",
+  "en": "hour",
+  "pos": "n",
+  "extra": "die Stunden",
+  "level": "A1"
+ },
+ {
+  "de": "die Minute",
+  "en": "minute",
+  "pos": "n",
+  "extra": "die Minuten",
+  "level": "A1"
+ },
+ {
+  "de": "die Sekunde",
+  "en": "second",
+  "pos": "n",
+  "extra": "die Sekunden",
+  "level": "A1"
+ },
+ {
+  "de": "der Morgen",
+  "en": "morning",
+  "pos": "n",
+  "extra": "die Morgen",
+  "level": "A1"
+ },
+ {
+  "de": "der Mittag",
+  "en": "noon, midday",
+  "pos": "n",
+  "extra": "die Mittage",
+  "level": "A1"
+ },
+ {
+  "de": "der Nachmittag",
+  "en": "afternoon",
+  "pos": "n",
+  "extra": "die Nachmittage",
+  "level": "A1"
+ },
+ {
+  "de": "der Abend",
+  "en": "evening",
+  "pos": "n",
+  "extra": "die Abende",
+  "level": "A1"
+ },
+ {
+  "de": "der Montag",
+  "en": "Monday",
+  "pos": "n",
+  "extra": "die Montage",
+  "level": "A1"
+ },
+ {
+  "de": "der Dienstag",
+  "en": "Tuesday",
+  "pos": "n",
+  "extra": "die Dienstage",
+  "level": "A1"
+ },
+ {
+  "de": "der Mittwoch",
+  "en": "Wednesday",
+  "pos": "n",
+  "extra": "die Mittwoche",
+  "level": "A1"
+ },
+ {
+  "de": "der Donnerstag",
+  "en": "Thursday",
+  "pos": "n",
+  "extra": "die Donnerstage",
+  "level": "A1"
+ },
+ {
+  "de": "der Freitag",
+  "en": "Friday",
+  "pos": "n",
+  "extra": "die Freitage",
+  "level": "A1"
+ },
+ {
+  "de": "der Samstag",
+  "en": "Saturday",
+  "pos": "n",
+  "extra": "die Samstage",
+  "level": "A1"
+ },
+ {
+  "de": "der Sonntag",
+  "en": "Sunday",
+  "pos": "n",
+  "extra": "die Sonntage",
+  "level": "A1"
+ },
+ {
+  "de": "der Januar",
+  "en": "January",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Februar",
+  "en": "February",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der März",
+  "en": "March",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der April",
+  "en": "April",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Mai",
+  "en": "May",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Juni",
+  "en": "June",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Juli",
+  "en": "July",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der August",
+  "en": "August",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der September",
+  "en": "September",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Oktober",
+  "en": "October",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der November",
+  "en": "November",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Dezember",
+  "en": "December",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Frühling",
+  "en": "spring",
+  "pos": "n",
+  "extra": "die Frühlinge",
+  "level": "A1"
+ },
+ {
+  "de": "der Sommer",
+  "en": "summer",
+  "pos": "n",
+  "extra": "die Sommer",
+  "level": "A1"
+ },
+ {
+  "de": "der Herbst",
+  "en": "autumn, fall",
+  "pos": "n",
+  "extra": "die Herbste",
+  "level": "A1"
+ },
+ {
+  "de": "der Winter",
+  "en": "winter",
+  "pos": "n",
+  "extra": "die Winter",
+  "level": "A1"
+ },
+ {
+  "de": "die Uhrzeit",
+  "en": "time of day",
+  "pos": "n",
+  "extra": "die Uhrzeiten",
+  "level": "A2"
+ },
+ {
+  "de": "das Wetter",
+  "en": "weather",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "die Sonne",
+  "en": "sun",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Mond",
+  "en": "moon",
+  "pos": "n",
+  "extra": "die Monde",
+  "level": "A1"
+ },
+ {
+  "de": "der Regen",
+  "en": "rain",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Schnee",
+  "en": "snow",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Wind",
+  "en": "wind",
+  "pos": "n",
+  "extra": "die Winde",
+  "level": "A1"
+ },
+ {
+  "de": "das Gewitter",
+  "en": "thunderstorm",
+  "pos": "n",
+  "extra": "die Gewitter",
+  "level": "A2"
+ },
+ {
+  "de": "die Arbeit",
+  "en": "work, job",
+  "pos": "n",
+  "extra": "die Arbeiten",
+  "level": "A1"
+ },
+ {
+  "de": "der Beruf",
+  "en": "profession, occupation",
+  "pos": "n",
+  "extra": "die Berufe",
+  "level": "A2"
+ },
+ {
+  "de": "das Büro",
+  "en": "office",
+  "pos": "n",
+  "extra": "die Büros",
+  "level": "A2"
+ },
+ {
+  "de": "die Firma",
+  "en": "company, firm",
+  "pos": "n",
+  "extra": "die Firmen",
+  "level": "A2"
+ },
+ {
+  "de": "der Kollege",
+  "en": "colleague (male)",
+  "pos": "n",
+  "extra": "die Kollegen",
+  "level": "A2"
+ },
+ {
+  "de": "die Kollegin",
+  "en": "colleague (female)",
+  "pos": "n",
+  "extra": "die Kolleginnen",
+  "level": "A2"
+ },
+ {
+  "de": "der Chef",
+  "en": "boss (male)",
+  "pos": "n",
+  "extra": "die Chefs",
+  "level": "A2"
+ },
+ {
+  "de": "die Chefin",
+  "en": "boss (female)",
+  "pos": "n",
+  "extra": "die Chefinnen",
+  "level": "A2"
+ },
+ {
+  "de": "der Termin",
+  "en": "appointment, deadline",
+  "pos": "n",
+  "extra": "die Termine",
+  "level": "A2"
+ },
+ {
+  "de": "die Besprechung",
+  "en": "meeting",
+  "pos": "n",
+  "extra": "die Besprechungen",
+  "level": "A2"
+ },
+ {
+  "de": "die Aufgabe",
+  "en": "task, assignment",
+  "pos": "n",
+  "extra": "die Aufgaben",
+  "level": "A2"
+ },
+ {
+  "de": "das Projekt",
+  "en": "project",
+  "pos": "n",
+  "extra": "die Projekte",
+  "level": "A2"
+ },
+ {
+  "de": "der Feierabend",
+  "en": "end of the workday",
+  "pos": "n",
+  "extra": "die Feierabende",
+  "level": "A2"
+ },
+ {
+  "de": "der Urlaub",
+  "en": "vacation, holiday",
+  "pos": "n",
+  "extra": "die Urlaube",
+  "level": "A1"
+ },
+ {
+  "de": "die Pause",
+  "en": "break",
+  "pos": "n",
+  "extra": "die Pausen",
+  "level": "A2"
+ },
+ {
+  "de": "das Geld",
+  "en": "money",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "der Preis",
+  "en": "price / prize",
+  "pos": "n",
+  "extra": "die Preise",
+  "level": "A2"
+ },
+ {
+  "de": "der Euro",
+  "en": "euro",
+  "pos": "n",
+  "extra": "die Euros",
+  "level": "A1"
+ },
+ {
+  "de": "die Rechnung",
+  "en": "bill, invoice",
+  "pos": "n",
+  "extra": "die Rechnungen",
+  "level": "A2"
+ },
+ {
+  "de": "das Gehalt",
+  "en": "salary",
+  "pos": "n",
+  "extra": "die Gehälter",
+  "level": "A2"
+ },
+ {
+  "de": "der Computer",
+  "en": "computer",
+  "pos": "n",
+  "extra": "die Computer",
+  "level": "A1"
+ },
+ {
+  "de": "der Laptop",
+  "en": "laptop",
+  "pos": "n",
+  "extra": "die Laptops",
+  "level": "A2"
+ },
+ {
+  "de": "der Bildschirm",
+  "en": "screen, monitor",
+  "pos": "n",
+  "extra": "die Bildschirme",
+  "level": "A2"
+ },
+ {
+  "de": "die Tastatur",
+  "en": "keyboard",
+  "pos": "n",
+  "extra": "die Tastaturen",
+  "level": "A2"
+ },
+ {
+  "de": "die Maus",
+  "en": "mouse",
+  "pos": "n",
+  "extra": "die Mäuse",
+  "level": "A2"
+ },
+ {
+  "de": "der Drucker",
+  "en": "printer",
+  "pos": "n",
+  "extra": "die Drucker",
+  "level": "A2"
+ },
+ {
+  "de": "das Handy",
+  "en": "mobile phone",
+  "pos": "n",
+  "extra": "die Handys",
+  "level": "A1"
+ },
+ {
+  "de": "das Telefon",
+  "en": "telephone",
+  "pos": "n",
+  "extra": "die Telefone",
+  "level": "A1"
+ },
+ {
+  "de": "der Anruf",
+  "en": "phone call",
+  "pos": "n",
+  "extra": "die Anrufe",
+  "level": "A2"
+ },
+ {
+  "de": "die E-Mail",
+  "en": "email",
+  "pos": "n",
+  "extra": "die E-Mails",
+  "level": "A2"
+ },
+ {
+  "de": "das Internet",
+  "en": "internet",
+  "pos": "n",
+  "extra": "—",
+  "level": "A1"
+ },
+ {
+  "de": "das WLAN",
+  "en": "Wi-Fi",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "die Datei",
+  "en": "file (computer)",
+  "pos": "n",
+  "extra": "die Dateien",
+  "level": "A2"
+ },
+ {
+  "de": "das Programm",
+  "en": "program",
+  "pos": "n",
+  "extra": "die Programme",
+  "level": "A2"
+ },
+ {
+  "de": "die Software",
+  "en": "software",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "die App",
+  "en": "app",
+  "pos": "n",
+  "extra": "die Apps",
+  "level": "A2"
+ },
+ {
+  "de": "der Fehler",
+  "en": "mistake, error",
+  "pos": "n",
+  "extra": "die Fehler",
+  "level": "A2"
+ },
+ {
+  "de": "der Test",
+  "en": "test",
+  "pos": "n",
+  "extra": "die Tests",
+  "level": "A2"
+ },
+ {
+  "de": "die Webseite",
+  "en": "website",
+  "pos": "n",
+  "extra": "die Webseiten",
+  "level": "A2"
+ },
+ {
+  "de": "das Papier",
+  "en": "paper",
+  "pos": "n",
+  "extra": "die Papiere",
+  "level": "A1"
+ },
+ {
+  "de": "der Stift",
+  "en": "pen",
+  "pos": "n",
+  "extra": "die Stifte",
+  "level": "A1"
+ },
+ {
+  "de": "das Heft",
+  "en": "notebook, exercise book",
+  "pos": "n",
+  "extra": "die Hefte",
+  "level": "A2"
+ },
+ {
+  "de": "das Buch",
+  "en": "book",
+  "pos": "n",
+  "extra": "die Bücher",
+  "level": "A1"
+ },
+ {
+  "de": "die Frage",
+  "en": "question",
+  "pos": "n",
+  "extra": "die Fragen",
+  "level": "A1"
+ },
+ {
+  "de": "die Antwort",
+  "en": "answer",
+  "pos": "n",
+  "extra": "die Antworten",
+  "level": "A1"
+ },
+ {
+  "de": "die Lösung",
+  "en": "solution",
+  "pos": "n",
+  "extra": "die Lösungen",
+  "level": "A2"
+ },
+ {
+  "de": "das Problem",
+  "en": "problem",
+  "pos": "n",
+  "extra": "die Probleme",
+  "level": "A1"
+ },
+ {
+  "de": "das Beispiel",
+  "en": "example",
+  "pos": "n",
+  "extra": "die Beispiele",
+  "level": "A2"
+ },
+ {
+  "de": "die Erfahrung",
+  "en": "experience",
+  "pos": "n",
+  "extra": "die Erfahrungen",
+  "level": "A2"
+ },
+ {
+  "de": "die Sprache",
+  "en": "language",
+  "pos": "n",
+  "extra": "die Sprachen",
+  "level": "A2"
+ },
+ {
+  "de": "das Wort",
+  "en": "word",
+  "pos": "n",
+  "extra": "die Wörter",
+  "level": "A1"
+ },
+ {
+  "de": "der Satz",
+  "en": "sentence",
+  "pos": "n",
+  "extra": "die Sätze",
+  "level": "A2"
+ },
+ {
+  "de": "die Grammatik",
+  "en": "grammar",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "die Aussprache",
+  "en": "pronunciation",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "der Unterricht",
+  "en": "class, lesson",
+  "pos": "n",
+  "extra": "—",
+  "level": "A2"
+ },
+ {
+  "de": "die Prüfung",
+  "en": "exam, test",
+  "pos": "n",
+  "extra": "die Prüfungen",
+  "level": "A2"
+ },
+ {
+  "de": "der Kurs",
+  "en": "course",
+  "pos": "n",
+  "extra": "die Kurse",
+  "level": "A2"
+ },
+ {
+  "de": "das Studium",
+  "en": "university studies",
+  "pos": "n",
+  "extra": "die Studien",
+  "level": "A2"
+ },
+ {
+  "de": "der Team",
+  "en": "team",
+  "pos": "n",
+  "extra": "die Teams",
+  "level": "A1"
+ },
+ {
+  "de": "der Kunde",
+  "en": "customer (male)",
+  "pos": "n",
+  "extra": "die Kunden",
+  "level": "A2"
+ },
+ {
+  "de": "die Kundin",
+  "en": "customer (female)",
+  "pos": "n",
+  "extra": "die Kundinnen",
+  "level": "A2"
+ },
+ {
+  "de": "sein",
+  "en": "to be",
+  "pos": "v",
+  "extra": "ist gewesen",
+  "level": "A1"
+ },
+ {
+  "de": "haben",
+  "en": "to have",
+  "pos": "v",
+  "extra": "hat gehabt",
+  "level": "A1"
+ },
+ {
+  "de": "werden",
+  "en": "to become",
+  "pos": "v",
+  "extra": "ist geworden",
+  "level": "A1"
+ },
+ {
+  "de": "können",
+  "en": "can, to be able to",
+  "pos": "v",
+  "extra": "hat gekonnt",
+  "level": "A1"
+ },
+ {
+  "de": "müssen",
+  "en": "must, to have to",
+  "pos": "v",
+  "extra": "hat gemusst",
+  "level": "A1"
+ },
+ {
+  "de": "wollen",
+  "en": "to want",
+  "pos": "v",
+  "extra": "hat gewollt",
+  "level": "A1"
+ },
+ {
+  "de": "dürfen",
+  "en": "may, to be allowed to",
+  "pos": "v",
+  "extra": "hat gedurft",
+  "level": "A1"
+ },
+ {
+  "de": "sollen",
+  "en": "should, to be supposed to",
+  "pos": "v",
+  "extra": "hat gesollt",
+  "level": "A1"
+ },
+ {
+  "de": "mögen",
+  "en": "to like",
+  "pos": "v",
+  "extra": "hat gemocht",
+  "level": "A1"
+ },
+ {
+  "de": "gehen",
+  "en": "to go",
+  "pos": "v",
+  "extra": "ist gegangen",
+  "level": "A1"
+ },
+ {
+  "de": "kommen",
+  "en": "to come",
+  "pos": "v",
+  "extra": "ist gekommen",
+  "level": "A1"
+ },
+ {
+  "de": "fahren",
+  "en": "to drive, to ride",
+  "pos": "v",
+  "extra": "ist gefahren",
+  "level": "A1"
+ },
+ {
+  "de": "fliegen",
+  "en": "to fly",
+  "pos": "v",
+  "extra": "ist geflogen",
+  "level": "A1"
+ },
+ {
+  "de": "laufen",
+  "en": "to walk, to run",
+  "pos": "v",
+  "extra": "ist gelaufen",
+  "level": "A1"
+ },
+ {
+  "de": "stehen",
+  "en": "to stand",
+  "pos": "v",
+  "extra": "hat gestanden",
+  "level": "A1"
+ },
+ {
+  "de": "sitzen",
+  "en": "to sit",
+  "pos": "v",
+  "extra": "hat gesessen",
+  "level": "A1"
+ },
+ {
+  "de": "liegen",
+  "en": "to lie, to be lying",
+  "pos": "v",
+  "extra": "hat gelegen",
+  "level": "A1"
+ },
+ {
+  "de": "schlafen",
+  "en": "to sleep",
+  "pos": "v",
+  "extra": "hat geschlafen",
+  "level": "A1"
+ },
+ {
+  "de": "aufstehen",
+  "en": "to get up",
+  "pos": "v",
+  "extra": "ist aufgestanden",
+  "level": "A1"
+ },
+ {
+  "de": "bleiben",
+  "en": "to stay, to remain",
+  "pos": "v",
+  "extra": "ist geblieben",
+  "level": "A1"
+ },
+ {
+  "de": "machen",
+  "en": "to make, to do",
+  "pos": "v",
+  "extra": "hat gemacht",
+  "level": "A1"
+ },
+ {
+  "de": "sagen",
+  "en": "to say",
+  "pos": "v",
+  "extra": "hat gesagt",
+  "level": "A1"
+ },
+ {
+  "de": "sprechen",
+  "en": "to speak",
+  "pos": "v",
+  "extra": "hat gesprochen",
+  "level": "A1"
+ },
+ {
+  "de": "reden",
+  "en": "to talk",
+  "pos": "v",
+  "extra": "hat geredet",
+  "level": "A1"
+ },
+ {
+  "de": "erzählen",
+  "en": "to tell, to narrate",
+  "pos": "v",
+  "extra": "hat erzählt",
+  "level": "A1"
+ },
+ {
+  "de": "fragen",
+  "en": "to ask",
+  "pos": "v",
+  "extra": "hat gefragt",
+  "level": "A1"
+ },
+ {
+  "de": "antworten",
+  "en": "to answer",
+  "pos": "v",
+  "extra": "hat geantwortet",
+  "level": "A1"
+ },
+ {
+  "de": "geben",
+  "en": "to give",
+  "pos": "v",
+  "extra": "hat gegeben",
+  "level": "A1"
+ },
+ {
+  "de": "nehmen",
+  "en": "to take",
+  "pos": "v",
+  "extra": "hat genommen",
+  "level": "A1"
+ },
+ {
+  "de": "bringen",
+  "en": "to bring",
+  "pos": "v",
+  "extra": "hat gebracht",
+  "level": "A1"
+ },
+ {
+  "de": "holen",
+  "en": "to fetch, to get",
+  "pos": "v",
+  "extra": "hat geholt",
+  "level": "A1"
+ },
+ {
+  "de": "sehen",
+  "en": "to see",
+  "pos": "v",
+  "extra": "hat gesehen",
+  "level": "A1"
+ },
+ {
+  "de": "schauen",
+  "en": "to look, to watch",
+  "pos": "v",
+  "extra": "hat geschaut",
+  "level": "A1"
+ },
+ {
+  "de": "hören",
+  "en": "to hear, to listen",
+  "pos": "v",
+  "extra": "hat gehört",
+  "level": "A1"
+ },
+ {
+  "de": "verstehen",
+  "en": "to understand",
+  "pos": "v",
+  "extra": "hat verstanden",
+  "level": "A1"
+ },
+ {
+  "de": "wissen",
+  "en": "to know (a fact)",
+  "pos": "v",
+  "extra": "hat gewusst",
+  "level": "A1"
+ },
+ {
+  "de": "kennen",
+  "en": "to know (a person)",
+  "pos": "v",
+  "extra": "hat gekannt",
+  "level": "A1"
+ },
+ {
+  "de": "denken",
+  "en": "to think",
+  "pos": "v",
+  "extra": "hat gedacht",
+  "level": "A1"
+ },
+ {
+  "de": "glauben",
+  "en": "to believe",
+  "pos": "v",
+  "extra": "hat geglaubt",
+  "level": "A1"
+ },
+ {
+  "de": "finden",
+  "en": "to find",
+  "pos": "v",
+  "extra": "hat gefunden",
+  "level": "A1"
+ },
+ {
+  "de": "suchen",
+  "en": "to look for, to search",
+  "pos": "v",
+  "extra": "hat gesucht",
+  "level": "A1"
+ },
+ {
+  "de": "brauchen",
+  "en": "to need",
+  "pos": "v",
+  "extra": "hat gebraucht",
+  "level": "A1"
+ },
+ {
+  "de": "zeigen",
+  "en": "to show",
+  "pos": "v",
+  "extra": "hat gezeigt",
+  "level": "A1"
+ },
+ {
+  "de": "helfen",
+  "en": "to help",
+  "pos": "v",
+  "extra": "hat geholfen",
+  "level": "A1"
+ },
+ {
+  "de": "arbeiten",
+  "en": "to work",
+  "pos": "v",
+  "extra": "hat gearbeitet",
+  "level": "A1"
+ },
+ {
+  "de": "lernen",
+  "en": "to learn",
+  "pos": "v",
+  "extra": "hat gelernt",
+  "level": "A1"
+ },
+ {
+  "de": "üben",
+  "en": "to practice",
+  "pos": "v",
+  "extra": "hat geübt",
+  "level": "A1"
+ },
+ {
+  "de": "studieren",
+  "en": "to study (at university)",
+  "pos": "v",
+  "extra": "hat studiert",
+  "level": "A2"
+ },
+ {
+  "de": "lesen",
+  "en": "to read",
+  "pos": "v",
+  "extra": "hat gelesen",
+  "level": "A1"
+ },
+ {
+  "de": "schreiben",
+  "en": "to write",
+  "pos": "v",
+  "extra": "hat geschrieben",
+  "level": "A1"
+ },
+ {
+  "de": "spielen",
+  "en": "to play",
+  "pos": "v",
+  "extra": "hat gespielt",
+  "level": "A1"
+ },
+ {
+  "de": "wohnen",
+  "en": "to live, to reside",
+  "pos": "v",
+  "extra": "hat gewohnt",
+  "level": "A1"
+ },
+ {
+  "de": "leben",
+  "en": "to live",
+  "pos": "v",
+  "extra": "hat gelebt",
+  "level": "A1"
+ },
+ {
+  "de": "essen",
+  "en": "to eat",
+  "pos": "v",
+  "extra": "hat gegessen",
+  "level": "A1"
+ },
+ {
+  "de": "trinken",
+  "en": "to drink",
+  "pos": "v",
+  "extra": "hat getrunken",
+  "level": "A1"
+ },
+ {
+  "de": "kochen",
+  "en": "to cook",
+  "pos": "v",
+  "extra": "hat gekocht",
+  "level": "A1"
+ },
+ {
+  "de": "backen",
+  "en": "to bake",
+  "pos": "v",
+  "extra": "hat gebacken",
+  "level": "A1"
+ },
+ {
+  "de": "putzen",
+  "en": "to clean",
+  "pos": "v",
+  "extra": "hat geputzt",
+  "level": "A1"
+ },
+ {
+  "de": "öffnen",
+  "en": "to open",
+  "pos": "v",
+  "extra": "hat geöffnet",
+  "level": "A1"
+ },
+ {
+  "de": "schließen",
+  "en": "to close",
+  "pos": "v",
+  "extra": "hat geschlossen",
+  "level": "A1"
+ },
+ {
+  "de": "anfangen",
+  "en": "to start, to begin",
+  "pos": "v",
+  "extra": "hat angefangen",
+  "level": "A1"
+ },
+ {
+  "de": "aufhören",
+  "en": "to stop, to cease",
+  "pos": "v",
+  "extra": "hat aufgehört",
+  "level": "A1"
+ },
+ {
+  "de": "beginnen",
+  "en": "to begin",
+  "pos": "v",
+  "extra": "hat begonnen",
+  "level": "A2"
+ },
+ {
+  "de": "enden",
+  "en": "to end",
+  "pos": "v",
+  "extra": "hat geendet",
+  "level": "A2"
+ },
+ {
+  "de": "warten",
+  "en": "to wait",
+  "pos": "v",
+  "extra": "hat gewartet",
+  "level": "A1"
+ },
+ {
+  "de": "hoffen",
+  "en": "to hope",
+  "pos": "v",
+  "extra": "hat gehofft",
+  "level": "A1"
+ },
+ {
+  "de": "wünschen",
+  "en": "to wish",
+  "pos": "v",
+  "extra": "hat gewünscht",
+  "level": "A1"
+ },
+ {
+  "de": "schenken",
+  "en": "to give (a present)",
+  "pos": "v",
+  "extra": "hat geschenkt",
+  "level": "A2"
+ },
+ {
+  "de": "gewinnen",
+  "en": "to win",
+  "pos": "v",
+  "extra": "hat gewonnen",
+  "level": "A2"
+ },
+ {
+  "de": "verlieren",
+  "en": "to lose",
+  "pos": "v",
+  "extra": "hat verloren",
+  "level": "A2"
+ },
+ {
+  "de": "verkaufen",
+  "en": "to sell",
+  "pos": "v",
+  "extra": "hat verkauft",
+  "level": "A1"
+ },
+ {
+  "de": "kosten",
+  "en": "to cost",
+  "pos": "v",
+  "extra": "hat gekostet",
+  "level": "A1"
+ },
+ {
+  "de": "fühlen",
+  "en": "to feel",
+  "pos": "v",
+  "extra": "hat gefühlt",
+  "level": "A1"
+ },
+ {
+  "de": "lieben",
+  "en": "to love",
+  "pos": "v",
+  "extra": "hat geliebt",
+  "level": "A1"
+ },
+ {
+  "de": "lachen",
+  "en": "to laugh",
+  "pos": "v",
+  "extra": "hat gelacht",
+  "level": "A1"
+ },
+ {
+  "de": "weinen",
+  "en": "to cry",
+  "pos": "v",
+  "extra": "hat geweint",
+  "level": "A1"
+ },
+ {
+  "de": "singen",
+  "en": "to sing",
+  "pos": "v",
+  "extra": "hat gesungen",
+  "level": "A1"
+ },
+ {
+  "de": "tanzen",
+  "en": "to dance",
+  "pos": "v",
+  "extra": "hat getanzt",
+  "level": "A1"
+ },
+ {
+  "de": "reisen",
+  "en": "to travel",
+  "pos": "v",
+  "extra": "ist gereist",
+  "level": "A2"
+ },
+ {
+  "de": "besuchen",
+  "en": "to visit",
+  "pos": "v",
+  "extra": "hat besucht",
+  "level": "A2"
+ },
+ {
+  "de": "treffen",
+  "en": "to meet",
+  "pos": "v",
+  "extra": "hat getroffen",
+  "level": "A1"
+ },
+ {
+  "de": "einladen",
+  "en": "to invite",
+  "pos": "v",
+  "extra": "hat eingeladen",
+  "level": "A2"
+ },
+ {
+  "de": "telefonieren",
+  "en": "to make a phone call",
+  "pos": "v",
+  "extra": "hat telefoniert",
+  "level": "A1"
+ },
+ {
+  "de": "regnen",
+  "en": "to rain",
+  "pos": "v",
+  "extra": "hat geregnet",
+  "level": "A1"
+ },
+ {
+  "de": "schneien",
+  "en": "to snow",
+  "pos": "v",
+  "extra": "hat geschneit",
+  "level": "A1"
+ },
+ {
+  "de": "hallo",
+  "en": "hello",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "tschüss",
+  "en": "bye",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "bitte",
+  "en": "please / you're welcome",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "danke",
+  "en": "thanks",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "ja",
+  "en": "yes",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "nein",
+  "en": "no",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "Entschuldigung",
+  "en": "excuse me / sorry",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "Guten Morgen",
+  "en": "good morning",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "Guten Tag",
+  "en": "good day / hello",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "Guten Abend",
+  "en": "good evening",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "Gute Nacht",
+  "en": "good night",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "bis später",
+  "en": "see you later",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "bis morgen",
+  "en": "see you tomorrow",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "Auf Wiedersehen",
+  "en": "goodbye",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "Willkommen",
+  "en": "welcome",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "kein Problem",
+  "en": "no problem",
+  "pos": "phrase",
+  "level": "A1"
+ },
+ {
+  "de": "Es tut mir leid.",
+  "en": "I'm sorry.",
+  "pos": "phrase",
+  "level": "A2"
+ },
+ {
+  "de": "Ich verstehe nicht.",
+  "en": "I don't understand.",
+  "pos": "phrase",
+  "level": "A2"
+ },
+ {
+  "de": "Ich weiß nicht.",
+  "en": "I don't know.",
+  "pos": "phrase",
+  "level": "A2"
+ },
+ {
+  "de": "Wie geht's?",
+  "en": "How are you?",
+  "pos": "phrase",
+  "level": "A2"
+ },
+ {
+  "de": "Prost!",
+  "en": "Cheers!",
+  "pos": "phrase",
+  "level": "A2"
+ },
+ {
+  "de": "Viel Glück!",
+  "en": "Good luck!",
+  "pos": "phrase",
+  "level": "A2"
+ },
+ {
+  "de": "Herzlichen Glückwunsch",
+  "en": "Congratulations",
+  "pos": "phrase",
+  "level": "A2"
+ },
+ {
+  "de": "Was kostet das?",
+  "en": "How much is that?",
+  "pos": "phrase",
+  "level": "A2"
+ },
+ {
+  "de": "Ich hätte gern …",
+  "en": "I would like …",
+  "pos": "phrase",
+  "level": "A2"
+ },
+ {
+  "de": "Sprechen Sie Englisch?",
+  "en": "Do you speak English?",
+  "pos": "phrase",
+  "level": "A2"
+ }
+]
