@@ -43,6 +43,9 @@ export default function App() {
     () => stats?.themes || [...new Set(verbEntries.map((v) => v.tag))],
     [stats, verbEntries],
   )
+  // honest header numbers: all verbs (practice + base verbs) vs. the rest
+  const verbCount = verbEntries.length + wordEntries.filter((w) => w.pos === 'v').length
+  const wordCount = wordEntries.filter((w) => w.pos !== 'v').length
 
   const [tab, setTab] = useState('dict')
   const [filter, setFilter] = useState('all')
@@ -99,8 +102,8 @@ export default function App() {
         <div className="wrap">
           <div className="brand">
             <h1>Deutsch <em>Wörterbuch</em></h1>
-            <div className="stats">
-              <b>{stats?.verbs ?? verbEntries.length}</b> Verben · <b>{stats?.words ?? wordEntries.length}</b> Wörter
+            <div className="stats" title={`${verbCount + wordCount} Einträge insgesamt`}>
+              <b>{verbCount}</b> Verben · <b>{wordCount}</b> Wörter
             </div>
           </div>
           <div className="tabs">
