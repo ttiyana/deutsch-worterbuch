@@ -227,6 +227,71 @@
       "sentences": [
         {"de": "Ich probiere die neue IDE diese Woche aus.", "en": "I'm trying out the new IDE this week."}
       ]
+    },
+    {
+      "v": "entspannen",
+      "en": "to relax",
+      "theme": "Freizeit & Wochenende",
+      "konj2": "entspannte · würde entspannen",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat entspannt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Am Wochenende entspanne ich am liebsten am See.", "en": "At the weekend I like to relax by the lake most of all."}
+      ]
+    },
+    {
+      "v": "wandern",
+      "en": "to hike",
+      "theme": "Freizeit & Wochenende",
+      "konj2": "wanderte · würde wandern",
+      "konj2_note": "regelmäßig — Bewegung, Perfekt mit sein",
+      "part2": "ist gewandert",
+      "irregular": false,
+      "sentences": [
+        {"de": "Wir sind am Sonntag durch den Wald gewandert.", "en": "On Sunday we hiked through the forest."},
+        {"de": "Am Sonntag sind wir durch den Wald gewandert und haben das Wetter genossen.", "en": "On Sunday we hiked through the forest and enjoyed the weather."}
+      ]
+    },
+    {
+      "v": "genießen",
+      "en": "to enjoy",
+      "theme": "Freizeit & Wochenende",
+      "konj2": "genösse · würde genießen",
+      "konj2_note": "unregelmäßig (genießt · genoss)",
+      "part2": "hat genossen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich habe das schöne Wetter auf der Terrasse genossen.", "en": "I enjoyed the beautiful weather on the terrace."},
+        {"de": "Nach dem Release genieße ich den Feierabend ohne Laptop.", "en": "After the release I enjoy my evening off without a laptop."},
+        {"de": "Am Sonntag sind wir durch den Wald gewandert und haben das Wetter genossen.", "en": "On Sunday we hiked through the forest and enjoyed the weather."}
+      ]
+    },
+    {
+      "v": "einladen",
+      "en": "to invite",
+      "theme": "Freizeit & Wochenende",
+      "konj2": "lüde ein · würde einladen",
+      "konj2_note": "trennbar + unregelmäßig (lädt ein · lud ein)",
+      "part2": "hat eingeladen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich habe ein paar Freunde zum Grillen eingeladen.", "en": "I invited a few friends over for a barbecue."},
+        {"de": "Der Chef hat alle zum Teams-Event am Freitag eingeladen.", "en": "The boss invited everyone to the teams event on Friday."}
+      ]
+    },
+    {
+      "v": "absagen",
+      "en": "to cancel",
+      "theme": "Freizeit & Wochenende",
+      "konj2": "sagte ab · würde absagen",
+      "konj2_note": "trennbar + regelmäßig",
+      "part2": "hat abgesagt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Leider musste ich den Termin für heute absagen.", "en": "Unfortunately I had to cancel today's appointment."},
+        {"de": "Die Weekly wurde gestern kurzfristig abgesagt.", "en": "The weekly meeting was cancelled at short notice yesterday."}
+      ]
     }
   ]
 }
