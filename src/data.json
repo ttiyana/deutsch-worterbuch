@@ -406,6 +406,93 @@
      "en": "The weekly meeting was cancelled at short notice yesterday."
     }
    ]
+  },
+  {
+   "v": "planen",
+   "en": "to plan",
+   "theme": "Die Woche planen",
+   "konj2": "plante · würde planen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat geplant",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich plane meine Woche immer am Sonntagabend.",
+     "en": "I always plan my week on Sunday evening."
+    },
+    {
+     "de": "Heute planen wir den Sprint für die nächsten zwei Wochen.",
+     "en": "Today we are planning the sprint for the next two weeks."
+    }
+   ]
+  },
+  {
+   "v": "priorisieren",
+   "en": "to prioritize",
+   "theme": "Die Woche planen",
+   "konj2": "würde priorisieren",
+   "konj2_note": "regelmäßig (Fremdwort)",
+   "part2": "hat priorisiert",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Wir priorisieren die Bugs nach Schweregrad.",
+     "en": "We prioritize the bugs by severity."
+    },
+    {
+     "de": "Wir haben den Sprint geplant und die wichtigsten Aufgaben priorisiert.",
+     "en": "We have planned the sprint and prioritized the most important tasks."
+    }
+   ]
+  },
+  {
+   "v": "vorbereiten",
+   "en": "to prepare",
+   "theme": "Die Woche planen",
+   "konj2": "bereitete vor · würde vorbereiten",
+   "konj2_note": "trennbar + regelmäßig",
+   "part2": "hat vorbereitet",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich bereite das Abendessen schon am Nachmittag vor.",
+     "en": "I already prepare dinner in the afternoon."
+    }
+   ]
+  },
+  {
+   "v": "eintragen",
+   "en": "to enter, to note down",
+   "theme": "Die Woche planen",
+   "konj2": "trüge ein · würde eintragen",
+   "konj2_note": "trennbar + unregelmäßig (trägt ein · trug ein)",
+   "part2": "hat eingetragen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Hast du den Termin schon in den Kalender eingetragen?",
+     "en": "Have you already put the appointment in the calendar?"
+    },
+    {
+     "de": "Ich habe die Einkäufe in meine To-do-Liste eingetragen.",
+     "en": "I put the shopping items on my to-do list."
+    }
+   ]
+  },
+  {
+   "v": "einhalten",
+   "en": "to keep, to meet (a deadline)",
+   "theme": "Die Woche planen",
+   "konj2": "hielte ein · würde einhalten",
+   "konj2_note": "trennbar + unregelmäßig (hält ein · hielt ein)",
+   "part2": "hat eingehalten",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich muss die Deadline am Freitag unbedingt einhalten.",
+     "en": "I absolutely have to meet the deadline on Friday."
+    }
+   ]
   }
  ],
  "words": [
@@ -4989,16 +5076,17 @@
   }
  ],
  "stats": {
-  "verbs": 23,
+  "verbs": 28,
   "words": 589,
-  "sentences": 38,
+  "sentences": 46,
   "themes": [
    "Arbeit & Meetings",
+   "Die Woche planen",
    "Einkaufen",
    "Freizeit & Wochenende",
    "Haushalt",
    "Technik"
   ]
  },
- "updated": "2026-08-30"
+ "updated": "2026-08-31"
 }
