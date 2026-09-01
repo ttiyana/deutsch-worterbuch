@@ -493,6 +493,105 @@
      "en": "I absolutely have to meet the deadline on Friday."
     }
    ]
+  },
+  {
+   "v": "anrufen",
+   "en": "to call (on the phone)",
+   "theme": "Telefonieren",
+   "konj2": "riefe an · würde anrufen",
+   "konj2_note": "trennbar + unregelmäßig (ruft an · rief an)",
+   "part2": "hat angerufen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich rufe meine Mutter jeden Sonntag an.",
+     "en": "I call my mother every Sunday."
+    },
+    {
+     "de": "Ich habe den Arzt angerufen und einen Termin gemacht.",
+     "en": "I called the doctor and made an appointment."
+    },
+    {
+     "de": "Wir müssen den Chef anrufen und ihm das Problem mitteilen.",
+     "en": "We have to call the boss and tell him about the problem."
+    },
+    {
+     "de": "Ich habe ihn gestern nicht erreicht, also habe ich heute Morgen nochmal angerufen.",
+     "en": "I couldn't reach him yesterday, so I called again this morning."
+    }
+   ]
+  },
+  {
+   "v": "zurückrufen",
+   "en": "to call back",
+   "theme": "Telefonieren",
+   "konj2": "riefe zurück · würde zurückrufen",
+   "konj2_note": "trennbar + unregelmäßig (ruft zurück · rief zurück)",
+   "part2": "hat zurückgerufen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Kannst du mich später zurückrufen?",
+     "en": "Can you call me back later?"
+    }
+   ]
+  },
+  {
+   "v": "verbinden",
+   "en": "to connect, to put through",
+   "theme": "Telefonieren",
+   "konj2": "verbände · würde verbinden",
+   "konj2_note": "unregelmäßig (verbindet · verband)",
+   "part2": "hat verbunden",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich verbinde Sie mit der IT-Abteilung.",
+     "en": "I'll put you through to the IT department."
+    },
+    {
+     "de": "Die Leitung ist schlecht — ich verstehe dich kaum.",
+     "en": "The line is bad — I can hardly understand you."
+    }
+   ]
+  },
+  {
+   "v": "erreichen",
+   "en": "to reach (someone on the phone)",
+   "theme": "Telefonieren",
+   "konj2": "erreichte · würde erreichen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat erreicht",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich habe den Kunden heute Morgen nicht erreicht.",
+     "en": "I couldn't reach the customer this morning."
+    },
+    {
+     "de": "Ich habe ihn gestern nicht erreicht, also habe ich heute Morgen nochmal angerufen.",
+     "en": "I couldn't reach him yesterday, so I called again this morning."
+    }
+   ]
+  },
+  {
+   "v": "mitteilen",
+   "en": "to inform, to let know",
+   "theme": "Telefonieren",
+   "konj2": "teilte mit · würde mitteilen",
+   "konj2_note": "trennbar + regelmäßig",
+   "part2": "hat mitgeteilt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Sie hat mir die gute Nachricht mitgeteilt.",
+     "en": "She told me the good news."
+    },
+    {
+     "de": "Wir müssen den Chef anrufen und ihm das Problem mitteilen.",
+     "en": "We have to call the boss and tell him about the problem."
+    }
+   ]
   }
  ],
  "words": [
@@ -5076,17 +5175,18 @@
   }
  ],
  "stats": {
-  "verbs": 28,
+  "verbs": 33,
   "words": 589,
-  "sentences": 46,
+  "sentences": 57,
   "themes": [
    "Arbeit & Meetings",
    "Die Woche planen",
    "Einkaufen",
    "Freizeit & Wochenende",
    "Haushalt",
-   "Technik"
+   "Technik",
+   "Telefonieren"
   ]
  },
- "updated": "2026-08-31"
+ "updated": "2026-09-01"
 }
