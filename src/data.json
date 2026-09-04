@@ -592,6 +592,101 @@
      "en": "We have to call the boss and tell him about the problem."
     }
    ]
+  },
+  {
+   "v": "aufstehen",
+   "en": "to get up",
+   "theme": "Der Arbeitsweg",
+   "konj2": "stünde auf · würde aufstehen",
+   "konj2_note": "trennbar + unregelmäßig (steht auf · stand auf), Perfekt mit sein",
+   "part2": "ist aufgestanden",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich stehe um 6 Uhr auf und fahre um 7 Uhr los.",
+     "en": "I get up at 6 and set off at 7."
+    },
+    {
+     "de": "Ich bin heute spät aufgestanden und habe das Daily-Update verpasst.",
+     "en": "I got up late today and missed the daily update."
+    },
+    {
+     "de": "Ich bin spät aufgestanden und habe den Zug verpasst.",
+     "en": "I got up late and missed the train."
+    }
+   ]
+  },
+  {
+   "v": "losfahren",
+   "en": "to set off",
+   "theme": "Der Arbeitsweg",
+   "konj2": "führe los · würde losfahren",
+   "konj2_note": "trennbar + unregelmäßig (fährt los · fuhr los), Perfekt mit sein",
+   "part2": "ist losgefahren",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich stehe um 6 Uhr auf und fahre um 7 Uhr los.",
+     "en": "I get up at 6 and set off at 7."
+    },
+    {
+     "de": "Der Bus war weg — ich habe ihn um 7:40 verpasst.",
+     "en": "The bus was gone — I missed it at 7:40."
+    }
+   ]
+  },
+  {
+   "v": "ankommen",
+   "en": "to arrive",
+   "theme": "Der Arbeitsweg",
+   "konj2": "käme an · würde ankommen",
+   "konj2_note": "trennbar + unregelmäßig (kommt an · kam an), Perfekt mit sein",
+   "part2": "ist angekommen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Heute bin ich erst um 9 Uhr im Büro angekommen — Stau!",
+     "en": "Today I only arrived at the office at 9 — traffic jam!"
+    },
+    {
+     "de": "Dein Vorschlag ist im Team super angekommen.",
+     "en": "Your suggestion went down really well with the team."
+    }
+   ]
+  },
+  {
+   "v": "umsteigen",
+   "en": "to change (trains), to switch (tech stack)",
+   "theme": "Der Arbeitsweg",
+   "konj2": "stiege um · würde umsteigen",
+   "konj2_note": "trennbar + unregelmäßig (steigt um · stieg um), Perfekt mit sein",
+   "part2": "ist umgestiegen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich muss zweimal umsteigen: erst in den Bus, dann in die S-Bahn.",
+     "en": "I have to change twice: first to the bus, then to the S-Bahn."
+    },
+    {
+     "de": "Wir sind letztes Jahr von Angular auf React umgestiegen.",
+     "en": "Last year we switched from Angular to React."
+    }
+   ]
+  },
+  {
+   "v": "sich verspäten",
+   "en": "to be late",
+   "theme": "Der Arbeitsweg",
+   "konj2": "verspätete sich · würde sich verspäten",
+   "konj2_note": "regelmäßig, reflexiv — Konj II = Präteritum",
+   "part2": "hat sich verspätet",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich habe mich gestern um zehn Minuten verspätet, heute bin ich pünktlich.",
+     "en": "Yesterday I was ten minutes late; today I'm on time."
+    }
+   ]
   }
  ],
  "words": [
@@ -5175,11 +5270,12 @@
   }
  ],
  "stats": {
-  "verbs": 33,
+  "verbs": 38,
   "words": 589,
-  "sentences": 57,
+  "sentences": 67,
   "themes": [
    "Arbeit & Meetings",
+   "Der Arbeitsweg",
    "Die Woche planen",
    "Einkaufen",
    "Freizeit & Wochenende",
@@ -5188,5 +5284,5 @@
    "Telefonieren"
   ]
  },
- "updated": "2026-09-01"
+ "updated": "2026-09-04"
 }
