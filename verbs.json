@@ -486,6 +486,44 @@
       "sentences": [
         {"de": "Ich habe mich gestern um zehn Minuten verspätet, heute bin ich pünktlich.", "en": "Yesterday I was ten minutes late; today I'm on time."}
       ]
+    },
+    {
+      "v": "besprechen",
+      "en": "to discuss, to talk over",
+      "theme": "Code-Review & Software-Entwicklung",
+      "konj2": "bespräche · würde besprechen",
+      "konj2_note": "unregelmäßig (bespricht · besprach)",
+      "part2": "hat besprochen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich bespreche heute Abend mit meiner Frau die Pläne fürs Wochenende.", "en": "This evening I'll discuss the plans for the weekend with my wife."},
+        {"de": "Wir besprechen den Pull Request im Stand-up.", "en": "We discuss the pull request in the stand-up."}
+      ]
+    },
+    {
+      "v": "überprüfen",
+      "en": "to check, to verify",
+      "theme": "Code-Review & Software-Entwicklung",
+      "konj2": "überprüfte · würde überprüfen",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat überprüft",
+      "irregular": false,
+      "sentences": [
+        {"de": "Hast du die Angaben im Formular überprüft, bevor du es abgeschickt hast?", "en": "Did you check the details in the form before you sent it off?"},
+        {"de": "Hast du den Branch aktualisiert und die Tests überprüft?", "en": "Did you update the branch and check the tests?"}
+      ]
+    },
+    {
+      "v": "hochladen",
+      "en": "to upload",
+      "theme": "Code-Review & Software-Entwicklung",
+      "konj2": "lüde hoch · würde hochladen",
+      "konj2_note": "trennbar + unregelmäßig (lädt hoch · lud hoch)",
+      "part2": "hat hochgeladen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich habe die Fotos von unserem Ausflug hochgeladen.", "en": "I uploaded the photos from our trip."}
+      ]
     }
   ]
 }
