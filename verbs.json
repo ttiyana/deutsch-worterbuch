@@ -524,6 +524,70 @@
       "sentences": [
         {"de": "Ich habe die Fotos von unserem Ausflug hochgeladen.", "en": "I uploaded the photos from our trip."}
       ]
+    },
+    {
+      "v": "finden",
+      "en": "to find",
+      "theme": "Fehler finden & beheben (Debugging)",
+      "konj2": "fände · würde finden",
+      "konj2_note": "unregelmäßig (findet · fand)",
+      "part2": "hat gefunden",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich finde meine Schlüssel selten beim ersten Mal.", "en": "I rarely find my keys on the first try."},
+        {"de": "Hast du den Fehler in der Rechnung gefunden?", "en": "Did you find the mistake in the bill?"},
+        {"de": "Ich habe den Fehler im Log gefunden.", "en": "I found the error in the log."}
+      ]
+    },
+    {
+      "v": "analysieren",
+      "en": "to analyze",
+      "theme": "Fehler finden & beheben (Debugging)",
+      "konj2": "analysierte · würde analysieren",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat analysiert",
+      "irregular": false,
+      "sentences": [
+        {"de": "Der Arzt hat die Testergebnisse genau analysiert.", "en": "The doctor analyzed the test results carefully."},
+        {"de": "Wir analysieren die Fehlermeldung im Ticket.", "en": "We are analyzing the error message in the ticket."}
+      ]
+    },
+    {
+      "v": "löschen",
+      "en": "to delete, to erase",
+      "theme": "Fehler finden & beheben (Debugging)",
+      "konj2": "löschte · würde löschen",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat gelöscht",
+      "irregular": false,
+      "sentences": [
+        {"de": "Wir haben das alte Gerät gelöscht und das Konto geschlossen.", "en": "We deleted the old device and closed the account."}
+      ]
+    },
+    {
+      "v": "kaputtgehen",
+      "en": "to break down, to stop working",
+      "theme": "Fehler finden & beheben (Debugging)",
+      "konj2": "ginge kaputt · würde kaputtgehen",
+      "konj2_note": "trennbar + unregelmäßig (geht kaputt · ging kaputt), Perfekt mit sein",
+      "part2": "ist kaputtgegangen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Meine Waschmaschine ist gestern kaputtgegangen.", "en": "My washing machine broke down yesterday."},
+        {"de": "Der Server ist um zwei Uhr kaputtgegangen, aber ich habe den Bug behoben.", "en": "The server went down at two o'clock, but I fixed the bug."}
+      ]
+    },
+    {
+      "v": "implementieren",
+      "en": "to implement",
+      "theme": "Fehler finden & beheben (Debugging)",
+      "konj2": "würde implementieren",
+      "konj2_note": "regelmäßig (Fremdwort)",
+      "part2": "hat implementiert",
+      "irregular": false,
+      "sentences": [
+        {"de": "Wir haben das Feature mit dem neuen Framework implementiert.", "en": "We implemented the feature with the new framework."}
+      ]
     }
   ]
 }
