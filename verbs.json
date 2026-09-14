@@ -588,6 +588,71 @@
       "sentences": [
         {"de": "Wir haben das Feature mit dem neuen Framework implementiert.", "en": "We implemented the feature with the new framework."}
       ]
+    },
+    {
+      "v": "besichtigen",
+      "en": "to view, to look at (a property)",
+      "theme": "Wohnungssuche & Umzug",
+      "konj2": "besichtigte · würde besichtigen",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat besichtigt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Am Samstag besichtigen wir eine Wohnung in Oerlikon.", "en": "On Saturday we are viewing an apartment in Oerlikon."},
+        {"de": "Wir haben gestern zwei Wohnungen besichtigt — eine davon war super.", "en": "We viewed two apartments yesterday — one of them was great."},
+        {"de": "Kann ich die Wohnung nach der Arbeit besichtigen?", "en": "Can I view the apartment after work?"}
+      ]
+    },
+    {
+      "v": "mieten",
+      "en": "to rent",
+      "theme": "Wohnungssuche & Umzug",
+      "konj2": "mietete · würde mieten",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat gemietet",
+      "irregular": false,
+      "sentences": [
+        {"de": "Wir mieten die Wohnung ab November.", "en": "We are renting the apartment from November."}
+      ]
+    },
+    {
+      "v": "einziehen",
+      "en": "to move in",
+      "theme": "Wohnungssuche & Umzug",
+      "konj2": "zöge ein · würde einziehen",
+      "konj2_note": "trennbar + unregelmäßig (zieht ein · zog ein), Perfekt mit sein",
+      "part2": "ist eingezogen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Wenn alles klappt, ziehen wir im November ein.", "en": "If everything works out, we'll move in in November."}
+      ]
+    },
+    {
+      "v": "umziehen",
+      "en": "to move house",
+      "theme": "Wohnungssuche & Umzug",
+      "konj2": "zöge um · würde umziehen",
+      "konj2_note": "trennbar + unregelmäßig (zieht um · zog um), Perfekt mit sein",
+      "part2": "ist umgezogen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich bin vor zwei Jahren nach Zürich umgezogen.", "en": "I moved to Zurich two years ago."},
+        {"de": "Das Team ist in ein größeres Büro umgezogen.", "en": "The team moved into a bigger office."}
+      ]
+    },
+    {
+      "v": "unterschreiben",
+      "en": "to sign",
+      "theme": "Wohnungssuche & Umzug",
+      "konj2": "unterschriebe · würde unterschreiben",
+      "konj2_note": "unregelmäßig (unterschreibt · unterschrieb)",
+      "part2": "hat unterschrieben",
+      "irregular": true,
+      "sentences": [
+        {"de": "Wir müssen den Mietvertrag bis Freitag unterschreiben.", "en": "We have to sign the lease by Friday."},
+        {"de": "Wir haben den Vertrag mit dem neuen Kunden unterschrieben.", "en": "We signed the contract with the new client."},
+        {"de": "Wir haben den Mietvertrag gestern unterschrieben.", "en": "We signed the lease yesterday."}
+      ]
     }
   ]
 }
