@@ -518,6 +518,18 @@
     {
      "de": "Ich habe ihn gestern nicht erreicht, also habe ich heute Morgen nochmal angerufen.",
      "en": "I couldn't reach him yesterday, so I called again this morning."
+    },
+    {
+     "de": "Ich rufe heute den Vermieter an.",
+     "en": "I'm calling the landlord today."
+    },
+    {
+     "de": "Ich habe dich gestern zweimal angerufen — bist du nicht rangegangen?",
+     "en": "I called you twice yesterday — didn't you pick up?"
+    },
+    {
+     "de": "Wir haben den Kunden angerufen, um den Termin zu bestätigen.",
+     "en": "We called the client to confirm the appointment."
     }
    ]
   },
@@ -552,6 +564,14 @@
     {
      "de": "Die Leitung ist schlecht — ich verstehe dich kaum.",
      "en": "The line is bad — I can hardly understand you."
+    },
+    {
+     "de": "Kannst du mich bitte mit dem Support verbinden?",
+     "en": "Can you please put me through to support?"
+    },
+    {
+     "de": "Moment, ich bin leider falsch verbunden.",
+     "en": "Hold on — I'm afraid I've been put through to the wrong person."
     }
    ]
   },
@@ -571,6 +591,10 @@
     {
      "de": "Ich habe ihn gestern nicht erreicht, also habe ich heute Morgen nochmal angerufen.",
      "en": "I couldn't reach him yesterday, so I called again this morning."
+    },
+    {
+     "de": "Ich erreiche heute niemanden im Büro.",
+     "en": "I can't reach anyone in the office today."
     }
    ]
   },
@@ -924,6 +948,21 @@
     {
      "de": "Wir haben den Mietvertrag gestern unterschrieben.",
      "en": "We signed the lease yesterday."
+    }
+   ]
+  },
+  {
+   "v": "auflegen",
+   "en": "to hang up",
+   "theme": "Telefonieren",
+   "konj2": "legte auf · würde auflegen",
+   "konj2_note": "trennbar + regelmäßig",
+   "part2": "hat aufgelegt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Sie hat die falsche Nummer gewählt und sofort aufgelegt.",
+     "en": "She dialed the wrong number and hung up immediately."
     }
    ]
   }
@@ -5509,9 +5548,9 @@
   }
  ],
  "stats": {
-  "verbs": 51,
+  "verbs": 52,
   "words": 589,
-  "sentences": 91,
+  "sentences": 98,
   "themes": [
    "Arbeit & Meetings",
    "Code-Review & Software-Entwicklung",
@@ -5526,5 +5565,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-09-14"
+ "updated": "2026-09-15"
 }
