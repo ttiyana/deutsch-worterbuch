@@ -185,6 +185,21 @@
    ]
   },
   {
+   "v": "putzen",
+   "en": "to clean",
+   "theme": "Haushalt",
+   "konj2": "putzte · würde putzen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat geputzt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Hast du schon das Bad geputzt?",
+     "en": "Have you already cleaned the bathroom?"
+    }
+   ]
+  },
+  {
    "v": "spülen",
    "en": "to wash up, to rinse (dishes)",
    "theme": "Haushalt",
@@ -5548,9 +5563,9 @@
   }
  ],
  "stats": {
-  "verbs": 52,
+  "verbs": 53,
   "words": 589,
-  "sentences": 98,
+  "sentences": 99,
   "themes": [
    "Arbeit & Meetings",
    "Code-Review & Software-Entwicklung",
@@ -5565,5 +5580,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-09-15"
+ "updated": "2026-09-19"
 }
