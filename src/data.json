@@ -980,6 +980,44 @@
      "en": "She dialed the wrong number and hung up immediately."
     }
    ]
+  },
+  {
+   "v": "vereinbaren",
+   "en": "to arrange, to agree on",
+   "theme": "Meetings & Termine",
+   "konj2": "vereinbarte · würde vereinbaren",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat vereinbart",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Wir haben einen Termin beim Zahnarzt vereinbart.",
+     "en": "We arranged an appointment with the dentist."
+    },
+    {
+     "de": "Wir haben ein Meeting mit dem Kunden für Donnerstag vereinbart.",
+     "en": "We arranged a meeting with the client for Thursday."
+    }
+   ]
+  },
+  {
+   "v": "teilnehmen",
+   "en": "to take part, to participate (an + Dativ)",
+   "theme": "Meetings & Termine",
+   "konj2": "nähme teil · würde teilnehmen",
+   "konj2_note": "trennbar + unregelmäßig (nimmt teil · nahm teil)",
+   "part2": "hat teilgenommen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Nimmst du am Yoga-Kurs am Abend teil?",
+     "en": "Are you taking part in the yoga class this evening?"
+    },
+    {
+     "de": "Ich nehme heute am Daily um 9:15 teil.",
+     "en": "I'm taking part in the daily at 9:15 today."
+    }
+   ]
   }
  ],
  "words": [
@@ -5563,9 +5601,9 @@
   }
  ],
  "stats": {
-  "verbs": 53,
+  "verbs": 55,
   "words": 589,
-  "sentences": 99,
+  "sentences": 103,
   "themes": [
    "Arbeit & Meetings",
    "Code-Review & Software-Entwicklung",
@@ -5575,10 +5613,11 @@
    "Fehler finden & beheben (Debugging)",
    "Freizeit & Wochenende",
    "Haushalt",
+   "Meetings & Termine",
    "Technik",
    "Telefonieren",
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-09-19"
+ "updated": "2026-09-21"
 }
