@@ -709,6 +709,57 @@
         {"de": "Nimmst du am Yoga-Kurs am Abend teil?", "en": "Are you taking part in the yoga class this evening?"},
         {"de": "Ich nehme heute am Daily um 9:15 teil.", "en": "I'm taking part in the daily at 9:15 today."}
       ]
+    },
+    {
+      "v": "schreiben",
+      "en": "to write",
+      "theme": "Programmieren & Software-Entwicklung",
+      "konj2": "schriebe · würde schreiben",
+      "konj2_note": "unregelmäßig (schreibt · schrieb)",
+      "part2": "hat geschrieben",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich schreibe jeden Morgen eine To-do-Liste.", "en": "I write a to-do list every morning."},
+        {"de": "Gestern habe ich einen langen Brief an meine Oma geschrieben.", "en": "Yesterday I wrote a long letter to my grandma."},
+        {"de": "Ich schreibe gerade Unit-Tests für die neue Funktion.", "en": "I'm writing unit tests for the new feature right now."}
+      ]
+    },
+    {
+      "v": "lesen",
+      "en": "to read",
+      "theme": "Programmieren & Software-Entwicklung",
+      "konj2": "läse · würde lesen",
+      "konj2_note": "unregelmäßig (liest · las)",
+      "part2": "hat gelesen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Hast du den neuen Roman schon gelesen?", "en": "Have you already read the new novel?"},
+        {"de": "Ich habe die Fehlermeldung gelesen und den Bug gefunden.", "en": "I read the error message and found the bug."}
+      ]
+    },
+    {
+      "v": "testen",
+      "en": "to test",
+      "theme": "Programmieren & Software-Entwicklung",
+      "konj2": "testete · würde testen",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat getestet",
+      "irregular": false,
+      "sentences": [
+        {"de": "Wir testen am Wochenende das neue Rezept.", "en": "We are testing the new recipe at the weekend."}
+      ]
+    },
+    {
+      "v": "entwickeln",
+      "en": "to develop",
+      "theme": "Programmieren & Software-Entwicklung",
+      "konj2": "entwickelte · würde entwickeln",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat entwickelt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Nächste Woche entwickeln wir das neue Feature fürs Dashboard.", "en": "Next week we're developing the new feature for the dashboard."}
+      ]
     }
   ]
 }
