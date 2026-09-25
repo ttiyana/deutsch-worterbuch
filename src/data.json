@@ -1090,6 +1090,97 @@
      "en": "Next week we're developing the new feature for the dashboard."
     }
    ]
+  },
+  {
+   "v": "empfehlen",
+   "en": "to recommend",
+   "theme": "Gesundheit & Erholung",
+   "konj2": "empföhle · würde empfehlen",
+   "konj2_note": "unregelmäßig (empfiehlt · empfahl)",
+   "part2": "hat empfohlen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich empfehle dir diesen Tee gegen Halsschmerzen.",
+     "en": "I recommend this tea to you for a sore throat."
+    },
+    {
+     "de": "Kannst du mir ein Tool fürs Team-Monitoring empfehlen?",
+     "en": "Can you recommend a tool for team monitoring?"
+    }
+   ]
+  },
+  {
+   "v": "messen",
+   "en": "to measure",
+   "theme": "Gesundheit & Erholung",
+   "konj2": "mäße · würde messen",
+   "konj2_note": "unregelmäßig (misst · maß)",
+   "part2": "hat gemessen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Der Arzt hat gestern meinen Blutdruck gemessen.",
+     "en": "The doctor measured my blood pressure yesterday."
+    },
+    {
+     "de": "Wir messen die API-Latenz jeden Morgen automatisch.",
+     "en": "We measure the API latency automatically every morning."
+    }
+   ]
+  },
+  {
+   "v": "einschlafen",
+   "en": "to fall asleep",
+   "theme": "Gesundheit & Erholung",
+   "konj2": "schliefe ein · würde einschlafen",
+   "konj2_note": "trennbar + unregelmäßig (schläft ein · schlief ein), mit sein",
+   "part2": "ist eingeschlafen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich bin gestern erst um Mitternacht eingeschlafen.",
+     "en": "I only fell asleep at midnight yesterday."
+    },
+    {
+     "de": "Ich bin während des zweiten Meetings eingeschlafen.",
+     "en": "I fell asleep during the second meeting."
+    }
+   ]
+  },
+  {
+   "v": "aufwachen",
+   "en": "to wake up",
+   "theme": "Gesundheit & Erholung",
+   "konj2": "wachte auf · würde aufwachen",
+   "konj2_note": "trennbar, regelmäßig, mit sein",
+   "part2": "ist aufgewacht",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Am Wochenende wache ich normalerweise spät auf.",
+     "en": "At the weekend I normally wake up late."
+    }
+   ]
+  },
+  {
+   "v": "sich erholen",
+   "en": "to recover",
+   "theme": "Gesundheit & Erholung",
+   "konj2": "erholte sich · würde sich erholen",
+   "konj2_note": "regelmäßig, reflexiv — Konj II = Präteritum",
+   "part2": "hat sich erholt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Nach dem Urlaub habe ich mich richtig gut erholt.",
+     "en": "After the holiday I really recovered well."
+    },
+    {
+     "de": "Nach dem Reboot hat sich der Dienst schnell erholt.",
+     "en": "After the reboot, the service recovered quickly."
+    }
+   ]
   }
  ],
  "words": [
@@ -5673,9 +5764,9 @@
   }
  ],
  "stats": {
-  "verbs": 59,
+  "verbs": 64,
   "words": 589,
-  "sentences": 110,
+  "sentences": 119,
   "themes": [
    "Arbeit & Meetings",
    "Code-Review & Software-Entwicklung",
@@ -5684,6 +5775,7 @@
    "Einkaufen",
    "Fehler finden & beheben (Debugging)",
    "Freizeit & Wochenende",
+   "Gesundheit & Erholung",
    "Haushalt",
    "Meetings & Termine",
    "Programmieren & Software-Entwicklung",
@@ -5692,5 +5784,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-09-22"
+ "updated": "2026-09-25"
 }
