@@ -1181,6 +1181,63 @@
      "en": "After the reboot, the service recovered quickly."
     }
    ]
+  },
+  {
+   "v": "treffen",
+   "en": "to meet",
+   "theme": "Freizeit & Hobbys",
+   "konj2": "träfe · würde treffen",
+   "konj2_note": "unregelmäßig (trifft · traf)",
+   "part2": "hat getroffen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Wir haben uns heute Nachmittag mit Freunden am See getroffen.",
+     "en": "We met up with friends at the lake this afternoon."
+    },
+    {
+     "de": "Wir sind in den Bergen gewandert und haben unsere Freunde getroffen.",
+     "en": "We hiked in the mountains and met our friends."
+    }
+   ]
+  },
+  {
+   "v": "ausgehen",
+   "en": "to go out",
+   "theme": "Freizeit & Hobbys",
+   "konj2": "ginge aus · würde ausgehen",
+   "konj2_note": "trennbar + unregelmäßig (geht aus · ging aus), Perfekt mit sein",
+   "part2": "ist ausgegangen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich gehe heute Abend mit meinen Freunden aus.",
+     "en": "I'm going out with my friends this evening."
+    },
+    {
+     "de": "Am Freitag gehe ich nach der Arbeit mit den Kollegen aus.",
+     "en": "On Friday I go out with my colleagues after work."
+    }
+   ]
+  },
+  {
+   "v": "feiern",
+   "en": "to celebrate",
+   "theme": "Freizeit & Hobbys",
+   "konj2": "feierte · würde feiern",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat gefeiert",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Wir haben gestern ihren Geburtstag gefeiert.",
+     "en": "We celebrated her birthday yesterday."
+    },
+    {
+     "de": "Wir feiern den erfolgreichen Launch heute mit dem ganzen Team.",
+     "en": "Today we're celebrating the successful launch with the whole team."
+    }
+   ]
   }
  ],
  "words": [
@@ -5764,9 +5821,9 @@
   }
  ],
  "stats": {
-  "verbs": 64,
+  "verbs": 67,
   "words": 589,
-  "sentences": 119,
+  "sentences": 125,
   "themes": [
    "Arbeit & Meetings",
    "Code-Review & Software-Entwicklung",
@@ -5774,6 +5831,7 @@
    "Die Woche planen",
    "Einkaufen",
    "Fehler finden & beheben (Debugging)",
+   "Freizeit & Hobbys",
    "Freizeit & Wochenende",
    "Gesundheit & Erholung",
    "Haushalt",
@@ -5784,5 +5842,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-09-25"
+ "updated": "2026-09-26"
 }
