@@ -863,6 +863,55 @@
         {"de": "Wir haben gestern ihren Geburtstag gefeiert.", "en": "We celebrated her birthday yesterday."},
         {"de": "Wir feiern den erfolgreichen Launch heute mit dem ganzen Team.", "en": "Today we're celebrating the successful launch with the whole team."}
       ]
+    },
+    {
+      "v": "kochen",
+      "en": "to cook",
+      "theme": "Kochen & Essen",
+      "konj2": "kochte · würde kochen",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat gekocht",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich koche heute Mittag Spaghetti mit Tomatensoße.", "en": "I'm cooking spaghetti with tomato sauce for lunch today."}
+      ]
+    },
+    {
+      "v": "essen",
+      "en": "to eat",
+      "theme": "Kochen & Essen",
+      "konj2": "äße · würde essen",
+      "konj2_note": "unregelmäßig (isst · aß) — Konj II 'äße' ist selten, meist 'würde essen'",
+      "part2": "hat gegessen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich esse zum Frühstück meistens Müsli mit Joghurt.", "en": "I usually eat muesli with yogurt for breakfast."},
+        {"de": "In der Mittagspause esse ich mit den Kollegen in der Kantine.", "en": "During the lunch break I eat with my colleagues in the cafeteria."}
+      ]
+    },
+    {
+      "v": "backen",
+      "en": "to bake",
+      "theme": "Kochen & Essen",
+      "konj2": "büke · würde backen",
+      "konj2_note": "unregelmäßig (bäckt/backt · buk/backte) — 'büke' ist literarisch, üblich: 'würde backen'",
+      "part2": "hat gebacken",
+      "irregular": true,
+      "sentences": [
+        {"de": "Gestern habe ich einen Apfelkuchen gebacken.", "en": "Yesterday I baked an apple cake."}
+      ]
+    },
+    {
+      "v": "probieren",
+      "en": "to try, to taste",
+      "theme": "Kochen & Essen",
+      "konj2": "probierte · würde probieren",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat probiert",
+      "irregular": false,
+      "sentences": [
+        {"de": "Probier mal die Suppe — die schmeckt wirklich gut!", "en": "Try the soup — it really tastes good!"}
+      ]
     }
   ]
 }
