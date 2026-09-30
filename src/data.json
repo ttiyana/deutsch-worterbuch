@@ -1302,6 +1302,48 @@
      "en": "Try the soup — it really tastes good!"
     }
    ]
+  },
+  {
+   "v": "melden",
+   "en": "to report, to notify",
+   "theme": "Fehler melden & beheben (Bug-Tag)",
+   "konj2": "meldete · würde melden",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat gemeldet",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich habe den Fehler sofort gemeldet.",
+     "en": "I reported the error immediately."
+    },
+    {
+     "de": "Der Zug hatte Verspätung – ich habe mich kurz gemeldet.",
+     "en": "The train was delayed – I briefly checked in."
+    },
+    {
+     "de": "Der Kunde hat den Bug im Login gemeldet.",
+     "en": "The customer reported the bug in the login."
+    }
+   ]
+  },
+  {
+   "v": "ersetzen",
+   "en": "to replace",
+   "theme": "Fehler melden & beheben (Bug-Tag)",
+   "konj2": "ersetzte · würde ersetzen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat ersetzt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Er hat das alte Handy durch ein neues ersetzt.",
+     "en": "He replaced the old phone with a new one."
+    },
+    {
+     "de": "Bitte teste den Fix noch einmal, dann ersetzen wir den alten Server.",
+     "en": "Please test the fix once more, then we'll replace the old server."
+    }
+   ]
   }
  ],
  "words": [
@@ -5885,9 +5927,9 @@
   }
  ],
  "stats": {
-  "verbs": 71,
+  "verbs": 73,
   "words": 589,
-  "sentences": 130,
+  "sentences": 135,
   "themes": [
    "Arbeit & Meetings",
    "Code-Review & Software-Entwicklung",
@@ -5895,6 +5937,7 @@
    "Die Woche planen",
    "Einkaufen",
    "Fehler finden & beheben (Debugging)",
+   "Fehler melden & beheben (Bug-Tag)",
    "Freizeit & Hobbys",
    "Freizeit & Wochenende",
    "Gesundheit & Erholung",
@@ -5907,5 +5950,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-09-27"
+ "updated": "2026-09-30"
 }
