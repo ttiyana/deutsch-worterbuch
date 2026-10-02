@@ -1344,6 +1344,40 @@
      "en": "Please test the fix once more, then we'll replace the old server."
     }
    ]
+  },
+  {
+   "v": "prüfen",
+   "en": "to check, to verify",
+   "theme": "Bug-Tag: Finden & Beheben",
+   "konj2": "prüfte · würde prüfen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat geprüft",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Hast du die Rechnung schon geprüft?",
+     "en": "Have you already checked the bill?"
+    },
+    {
+     "de": "Ich habe die Konfiguration noch einmal geprüft.",
+     "en": "I checked the configuration once more."
+    }
+   ]
+  },
+  {
+   "v": "herausfinden",
+   "en": "to find out",
+   "theme": "Bug-Tag: Finden & Beheben",
+   "konj2": "fände heraus · würde herausfinden",
+   "konj2_note": "trennbar + unregelmäßig (findet heraus · fand heraus)",
+   "part2": "hat herausgefunden",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Wir haben herausgefunden, dass der Laden sonntags geschlossen ist.",
+     "en": "We found out that the shop is closed on Sundays."
+    }
+   ]
   }
  ],
  "words": [
@@ -5927,11 +5961,12 @@
   }
  ],
  "stats": {
-  "verbs": 73,
+  "verbs": 75,
   "words": 589,
-  "sentences": 135,
+  "sentences": 138,
   "themes": [
    "Arbeit & Meetings",
+   "Bug-Tag: Finden & Beheben",
    "Code-Review & Software-Entwicklung",
    "Der Arbeitsweg",
    "Die Woche planen",
@@ -5950,5 +5985,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-09-30"
+ "updated": "2026-10-02"
 }
