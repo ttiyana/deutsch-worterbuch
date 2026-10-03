@@ -1378,6 +1378,21 @@
      "en": "We found out that the shop is closed on Sundays."
     }
    ]
+  },
+  {
+   "v": "fahren",
+   "en": "to drive, to go (by vehicle)",
+   "theme": "Wochenende & Freizeit",
+   "konj2": "führe · würde fahren",
+   "konj2_note": "unregelmäßig (fährt · fuhr), Perfekt mit sein",
+   "part2": "ist gefahren",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Fährst du mit dem Zug oder mit dem Auto?",
+     "en": "Are you going by train or by car?"
+    }
+   ]
   }
  ],
  "words": [
@@ -5961,9 +5976,9 @@
   }
  ],
  "stats": {
-  "verbs": 75,
+  "verbs": 76,
   "words": 589,
-  "sentences": 138,
+  "sentences": 139,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -5982,8 +5997,9 @@
    "Programmieren & Software-Entwicklung",
    "Technik",
    "Telefonieren",
+   "Wochenende & Freizeit",
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-10-02"
+ "updated": "2026-10-03"
 }
