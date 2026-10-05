@@ -1393,6 +1393,40 @@
      "en": "Are you going by train or by car?"
     }
    ]
+  },
+  {
+   "v": "anfangen",
+   "en": "to start, to begin",
+   "theme": "Büro & Wochenstart",
+   "konj2": "finge an · würde anfangen",
+   "konj2_note": "trennbar + unregelmäßig (fängt an · fing an)",
+   "part2": "hat angefangen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Am Montag fange ich früh mit der Arbeit an.",
+     "en": "On Monday I start work early."
+    }
+   ]
+  },
+  {
+   "v": "erledigen",
+   "en": "to get done, to complete",
+   "theme": "Büro & Wochenstart",
+   "konj2": "erledigte · würde erledigen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat erledigt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Die wichtigsten E-Mails erledige ich schon am Morgen.",
+     "en": "I get the most important emails done already in the morning."
+    },
+    {
+     "de": "Ich erledige das Ticket und schließe den Pull Request ab.",
+     "en": "I get the ticket done and close the pull request."
+    }
+   ]
   }
  ],
  "words": [
@@ -5976,12 +6010,13 @@
   }
  ],
  "stats": {
-  "verbs": 76,
+  "verbs": 78,
   "words": 589,
-  "sentences": 139,
+  "sentences": 142,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
+   "Büro & Wochenstart",
    "Code-Review & Software-Entwicklung",
    "Der Arbeitsweg",
    "Die Woche planen",
@@ -6001,5 +6036,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-10-03"
+ "updated": "2026-10-05"
 }
