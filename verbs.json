@@ -1001,6 +1001,44 @@
         {"de": "Die wichtigsten E-Mails erledige ich schon am Morgen.", "en": "I get the most important emails done already in the morning."},
         {"de": "Ich erledige das Ticket und schließe den Pull Request ab.", "en": "I get the ticket done and close the pull request."}
       ]
+    },
+    {
+      "v": "kaufen",
+      "en": "to buy",
+      "theme": "Einkaufen & Bezahlen",
+      "konj2": "kaufte · würde kaufen",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat gekauft",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich kaufe am Wochenende frisches Gemüse auf dem Markt.", "en": "I buy fresh vegetables at the market at the weekend."},
+        {"de": "Ich vergleiche die Preise online, bevor ich etwas kaufe.", "en": "I compare the prices online before I buy something."}
+      ]
+    },
+    {
+      "v": "ausgeben",
+      "en": "to spend",
+      "theme": "Einkaufen & Bezahlen",
+      "konj2": "gäbe aus · würde ausgeben",
+      "konj2_note": "trennbar + unregelmäßig (gibt aus · gab aus)",
+      "part2": "hat ausgegeben",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich habe gestern zu viel für das T-Shirt ausgegeben.", "en": "Yesterday I spent too much on the T-shirt."},
+        {"de": "Wir geben das Budget für neue Hardware aus.", "en": "We spend the budget on new hardware."}
+      ]
+    },
+    {
+      "v": "zurückgeben",
+      "en": "to return (something)",
+      "theme": "Einkaufen & Bezahlen",
+      "konj2": "gäbe zurück · würde zurückgeben",
+      "konj2_note": "trennbar + unregelmäßig (gibt zurück · gab zurück)",
+      "part2": "hat zurückgegeben",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich habe die Schuhe zurückgegeben – sie waren zu klein.", "en": "I returned the shoes – they were too small."}
+      ]
     }
   ]
 }
