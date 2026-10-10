@@ -1480,6 +1480,55 @@
      "en": "I returned the shoes – they were too small."
     }
    ]
+  },
+  {
+   "v": "trinken",
+   "en": "to drink",
+   "theme": "Kochen, essen und bestellen",
+   "konj2": "tränke · würde trinken",
+   "konj2_note": "unregelmäßig (trinkt · trank) — Konj II 'tränke' ist selten, üblich: 'würde trinken'",
+   "part2": "hat getrunken",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich trinke zu jeder Mahlzeit ein Glas Wasser.",
+     "en": "I drink a glass of water with every meal."
+    }
+   ]
+  },
+  {
+   "v": "schneiden",
+   "en": "to cut",
+   "theme": "Kochen, essen und bestellen",
+   "konj2": "schnitte · würde schneiden",
+   "konj2_note": "unregelmäßig (schneidet · schnitt)",
+   "part2": "hat geschnitten",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich habe gestern die Zwiebeln klein geschnitten.",
+     "en": "Yesterday I chopped the onions finely."
+    }
+   ]
+  },
+  {
+   "v": "bestellen",
+   "en": "to order",
+   "theme": "Kochen, essen und bestellen",
+   "konj2": "bestellte · würde bestellen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat bestellt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich bestelle am Freitagabend gern eine Pizza.",
+     "en": "On Friday evening I like to order a pizza."
+    },
+    {
+     "de": "Ich bestelle mir mittags beim Italiener um die Ecke.",
+     "en": "At lunchtime I order from the Italian place around the corner."
+    }
+   ]
   }
  ],
  "words": [
@@ -6063,9 +6112,9 @@
   }
  ],
  "stats": {
-  "verbs": 81,
+  "verbs": 84,
   "words": 589,
-  "sentences": 147,
+  "sentences": 151,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6082,6 +6131,7 @@
    "Gesundheit & Erholung",
    "Haushalt",
    "Kochen & Essen",
+   "Kochen, essen und bestellen",
    "Meetings & Termine",
    "Programmieren & Software-Entwicklung",
    "Technik",
@@ -6090,5 +6140,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-10-09"
+ "updated": "2026-10-10"
 }
