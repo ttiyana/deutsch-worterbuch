@@ -1076,6 +1076,19 @@
         {"de": "Ich bestelle am Freitagabend gern eine Pizza.", "en": "On Friday evening I like to order a pizza."},
         {"de": "Ich bestelle mir mittags beim Italiener um die Ecke.", "en": "At lunchtime I order from the Italian place around the corner."}
       ]
+    },
+    {
+      "v": "lösen",
+      "en": "to solve, to resolve",
+      "theme": "Fehlersuche & Bugfixing",
+      "konj2": "löste · würde lösen",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat gelöst",
+      "irregular": false,
+      "sentences": [
+        {"de": "Wir haben das Problem mit dem WLAN gelöst.", "en": "We solved the Wi-Fi problem."},
+        {"de": "Wir haben das Datenbank-Problem mit einem neuen Ansatz gelöst.", "en": "We solved the database problem with a new approach."}
+      ]
     }
   ]
 }

@@ -1529,6 +1529,25 @@
      "en": "At lunchtime I order from the Italian place around the corner."
     }
    ]
+  },
+  {
+   "v": "lösen",
+   "en": "to solve, to resolve",
+   "theme": "Fehlersuche & Bugfixing",
+   "konj2": "löste · würde lösen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat gelöst",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Wir haben das Problem mit dem WLAN gelöst.",
+     "en": "We solved the Wi-Fi problem."
+    },
+    {
+     "de": "Wir haben das Datenbank-Problem mit einem neuen Ansatz gelöst.",
+     "en": "We solved the database problem with a new approach."
+    }
+   ]
   }
  ],
  "words": [
@@ -6112,9 +6131,9 @@
   }
  ],
  "stats": {
-  "verbs": 84,
+  "verbs": 85,
   "words": 589,
-  "sentences": 151,
+  "sentences": 153,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6126,6 +6145,7 @@
    "Einkaufen & Bezahlen",
    "Fehler finden & beheben (Debugging)",
    "Fehler melden & beheben (Bug-Tag)",
+   "Fehlersuche & Bugfixing",
    "Freizeit & Hobbys",
    "Freizeit & Wochenende",
    "Gesundheit & Erholung",
@@ -6140,5 +6160,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-10-10"
+ "updated": "2026-10-12"
 }
