@@ -1089,6 +1089,31 @@
         {"de": "Wir haben das Problem mit dem WLAN gelöst.", "en": "We solved the Wi-Fi problem."},
         {"de": "Wir haben das Datenbank-Problem mit einem neuen Ansatz gelöst.", "en": "We solved the database problem with a new approach."}
       ]
+    },
+    {
+      "v": "wegwerfen",
+      "en": "to throw away",
+      "theme": "Haushalt & Ordnung",
+      "konj2": "würfe weg · würde wegwerfen",
+      "konj2_note": "trennbar + unregelmäßig (wirft weg · warf weg)",
+      "part2": "hat weggeworfen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Die alten Kartons habe ich gleich weggeworfen.", "en": "I threw the old boxes away right away."}
+      ]
+    },
+    {
+      "v": "reparieren",
+      "en": "to repair, to fix",
+      "theme": "Haushalt & Ordnung",
+      "konj2": "reparierte · würde reparieren",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat repariert",
+      "irregular": false,
+      "sentences": [
+        {"de": "Den Staubsauger habe ich selbst repariert.", "en": "I repaired the vacuum cleaner myself."},
+        {"de": "Ich habe das kaputte Build-Skript repariert.", "en": "I repaired the broken build script."}
+      ]
     }
   ]
 }
