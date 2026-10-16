@@ -1140,6 +1140,30 @@
         {"de": "Zum Glück habe ich den Anschluss nicht verpasst.", "en": "Luckily I didn't miss the connection."},
         {"de": "Weil der Zug Verspätung hatte, habe ich das Daily verpasst.", "en": "Because the train was delayed, I missed the daily."}
       ]
+    },
+    {
+      "v": "abschließen",
+      "en": "to finish, to complete",
+      "theme": "Wochenende & Freizeit",
+      "konj2": "schlösse ab · würde abschließen",
+      "konj2_note": "trennbar + unregelmäßig (schließt ab · schloss ab)",
+      "part2": "hat abgeschlossen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Heute habe ich den letzten Task abgeschlossen.", "en": "Today I completed the last task."}
+      ]
+    },
+    {
+      "v": "sich freuen auf",
+      "en": "to look forward to",
+      "theme": "Wochenende & Freizeit",
+      "konj2": "freute sich · würde sich freuen",
+      "konj2_note": "regelmäßig, reflexiv + 'auf' + Akkusativ",
+      "part2": "hat sich gefreut",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich freue mich sehr auf das Wochenende.", "en": "I'm really looking forward to the weekend."}
+      ]
     }
   ]
 }
