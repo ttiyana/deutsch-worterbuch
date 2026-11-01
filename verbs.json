@@ -1164,6 +1164,32 @@
       "sentences": [
         {"de": "Ich freue mich sehr auf das Wochenende.", "en": "I'm really looking forward to the weekend."}
       ]
+    },
+    {
+      "v": "sich abstimmen",
+      "en": "to coordinate, to align (with)",
+      "theme": "Termine, Änderungen & Probleme lösen",
+      "konj2": "stimmte sich ab · würde sich abstimmen",
+      "konj2_note": "trennbar, regelmäßig, reflexiv — mit 'mit' + Dativ",
+      "part2": "hat sich abgestimmt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich habe mich mit meiner Nachbarin abgestimmt, wer die Pakete annimmt.", "en": "I coordinated with my neighbour about who will accept the packages."},
+        {"de": "Ich habe mich mit dem Product Owner abgestimmt.", "en": "I aligned with the product owner."}
+      ]
+    },
+    {
+      "v": "aufgehen",
+      "en": "to rise (dough); to open; to work out",
+      "theme": "Einkaufen & Kochen",
+      "konj2": "ginge auf · würde aufgehen",
+      "konj2_note": "trennbar + unregelmäßig (geht auf · ging auf), Perfekt mit sein",
+      "part2": "ist aufgegangen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Der Teig ist über Nacht aufgegangen — perfekt!", "en": "The dough rose overnight — perfect!"},
+        {"de": "Der neue Build ist durchgelaufen — die Pipeline ist aufgegangen wie ein Teig 😄", "en": "The new build went through — the pipeline rose like dough 😄"}
+      ]
     }
   ]
 }
