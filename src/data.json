@@ -1688,6 +1688,40 @@
      "en": "The new build went through — the pipeline rose like dough 😄"
     }
    ]
+  },
+  {
+   "v": "ausrollen",
+   "en": "to roll out, to deploy",
+   "theme": "Bugfixing & Release",
+   "konj2": "rollte aus · würde ausrollen",
+   "konj2_note": "trennbar + regelmäßig — Perfekt 'hat ausgerollt'",
+   "part2": "hat ausgerollt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Die Kollegin hat den Fix schon eingebaut, aber wir haben ihn noch nicht ausgerollt.",
+     "en": "My colleague has already built in the fix, but we haven't rolled it out yet."
+    }
+   ]
+  },
+  {
+   "v": "einbauen",
+   "en": "to build in, to integrate",
+   "theme": "Bugfixing & Release",
+   "konj2": "baute ein · würde einbauen",
+   "konj2_note": "trennbar + regelmäßig — Perfekt 'hat eingebaut'",
+   "part2": "hat eingebaut",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Die neue App habe ich sofort in meinen Alltag eingebaut.",
+     "en": "I integrated the new app into my daily routine right away."
+    },
+    {
+     "de": "Die Kollegin hat den Fix schon eingebaut, aber wir haben ihn noch nicht ausgerollt.",
+     "en": "My colleague has already built in the fix, but we haven't rolled it out yet."
+    }
+   ]
   }
  ],
  "words": [
@@ -6271,12 +6305,13 @@
   }
  ],
  "stats": {
-  "verbs": 93,
+  "verbs": 95,
   "words": 589,
-  "sentences": 166,
+  "sentences": 169,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
+   "Bugfixing & Release",
    "Büro & Wochenstart",
    "Code-Review & Software-Entwicklung",
    "Der Arbeitsweg",
@@ -6304,5 +6339,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-11-01"
+ "updated": "2026-11-02"
 }
