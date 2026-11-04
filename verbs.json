@@ -1215,6 +1215,33 @@
         {"de": "Die neue App habe ich sofort in meinen Alltag eingebaut.", "en": "I integrated the new app into my daily routine right away."},
         {"de": "Die Kollegin hat den Fix schon eingebaut, aber wir haben ihn noch nicht ausgerollt.", "en": "My colleague has already built in the fix, but we haven't rolled it out yet."}
       ]
+    },
+    {
+      "v": "auffallen",
+      "en": "to notice, to stand out",
+      "theme": "Code-Review & Bugs beheben",
+      "konj2": "fiele auf · würde auffallen",
+      "konj2_note": "trennbar + unregelmäßig (fällt auf · fiel auf), Perfekt mit sein — 'Mir ist aufgefallen, dass …'",
+      "part2": "ist aufgefallen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Mir ist gestern aufgefallen, dass die Heizung im Wohnzimmer nicht mehr funktioniert.", "en": "I noticed yesterday that the heating in the living room is no longer working."},
+        {"de": "Mir ist aufgefallen, dass die App auf dem Server abstürzt, sobald man die Branches zusammenführt.", "en": "I noticed that the app crashes on the server as soon as you merge the branches."}
+      ]
+    },
+    {
+      "v": "zusammenführen",
+      "en": "to merge, to bring together",
+      "theme": "Code-Review & Bugs beheben",
+      "konj2": "führte zusammen · würde zusammenführen",
+      "konj2_note": "trennbar + regelmäßig — Perfekt 'hat zusammengeführt'",
+      "part2": "hat zusammengeführt",
+      "irregular": false,
+      "sentences": [
+        {"de": "Wir haben unsere zwei Bankkonten letzte Woche zusammengeführt.", "en": "We merged our two bank accounts last week."},
+        {"de": "Mir ist aufgefallen, dass die App auf dem Server abstürzt, sobald man die Branches zusammenführt.", "en": "I noticed that the app crashes on the server as soon as you merge the branches."},
+        {"de": "Den Feature-Branch haben wir gestern in main zusammengeführt und dann ausgerollt.", "en": "We merged the feature branch into main yesterday and then rolled it out."}
+      ]
     }
   ]
 }
