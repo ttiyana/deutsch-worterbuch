@@ -1764,6 +1764,44 @@
      "en": "We merged the feature branch into main yesterday and then rolled it out."
     }
    ]
+  },
+  {
+   "v": "kündigen",
+   "en": "to cancel, to terminate (a contract, a flat)",
+   "theme": "Wohnungssuche & Umzug",
+   "konj2": "kündigte · würde kündigen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat gekündigt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich muss die alte Wohnung bis Ende Februar kündigen.",
+     "en": "I have to give notice on the old apartment by the end of February."
+    },
+    {
+     "de": "Die alte Wohnung kündige ich erst, wenn der neue Vertrag unterschrieben ist.",
+     "en": "I will only give notice on the old apartment once the new contract is signed."
+    }
+   ]
+  },
+  {
+   "v": "einrichten",
+   "en": "to furnish, to set up",
+   "theme": "Wohnungssuche & Umzug",
+   "konj2": "richtete ein · würde einrichten",
+   "konj2_note": "trennbar + regelmäßig — Perfekt 'hat eingerichtet'",
+   "part2": "hat eingerichtet",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Das Wohnzimmer richten wir am Wochenende ein.",
+     "en": "We are furnishing the living room at the weekend."
+    },
+    {
+     "de": "Wegen des Umzugs habe ich mein Homeoffice neu eingerichtet.",
+     "en": "Because of the move I set up my home office again."
+    }
+   ]
   }
  ],
  "words": [
@@ -6347,9 +6385,9 @@
   }
  ],
  "stats": {
-  "verbs": 97,
+  "verbs": 99,
   "words": 589,
-  "sentences": 174,
+  "sentences": 178,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6382,5 +6420,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-11-04"
+ "updated": "2026-11-05"
 }
