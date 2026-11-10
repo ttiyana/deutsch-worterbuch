@@ -1802,6 +1802,48 @@
      "en": "Because of the move I set up my home office again."
     }
    ]
+  },
+  {
+   "v": "entdecken",
+   "en": "to discover, to find (a bug, a fault)",
+   "theme": "Probleme finden & beheben",
+   "konj2": "entdeckte · würde entdecken",
+   "konj2_note": "regelmäßig — Konj II = Präteritum; untrennbar (Präfix ent-)",
+   "part2": "hat entdeckt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Der Handwerker hat den Fehler in der Leitung sofort entdeckt.",
+     "en": "The handyman discovered the fault in the wiring immediately."
+    },
+    {
+     "de": "Ich habe den Pull Request geprüft und zwei Fehler entdeckt.",
+     "en": "I reviewed the pull request and found two bugs."
+    },
+    {
+     "de": "Ich habe den Bug entdeckt, ihn behoben und den Fix getestet.",
+     "en": "I found the bug, fixed it and tested the fix."
+    }
+   ]
+  },
+  {
+   "v": "dokumentieren",
+   "en": "to document",
+   "theme": "Probleme finden & beheben",
+   "konj2": "dokumentierte · würde dokumentieren",
+   "konj2_note": "regelmäßig (Fremdwort) — Konj II = Präteritum",
+   "part2": "hat dokumentiert",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Den Schaden habe ich mit Fotos dokumentiert.",
+     "en": "I documented the damage with photos."
+    },
+    {
+     "de": "Den Fix habe ich auf dem Testsystem getestet und im Wiki dokumentiert.",
+     "en": "I tested the fix on the staging system and documented it in the wiki."
+    }
+   ]
   }
  ],
  "words": [
@@ -6385,9 +6427,9 @@
   }
  ],
  "stats": {
-  "verbs": 99,
+  "verbs": 101,
   "words": 589,
-  "sentences": 178,
+  "sentences": 183,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6411,6 +6453,7 @@
    "Kochen & Essen",
    "Kochen, essen und bestellen",
    "Meetings & Termine",
+   "Probleme finden & beheben",
    "Programmieren & Software-Entwicklung",
    "Technik",
    "Telefonieren",
@@ -6420,5 +6463,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-11-05"
+ "updated": "2026-11-10"
 }
