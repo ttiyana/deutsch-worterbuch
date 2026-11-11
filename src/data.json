@@ -37,6 +37,10 @@
     {
      "de": "Ich würde vorschlagen, den Deploy auf morgen zu verschieben.",
      "en": "I would suggest postponing the deploy until tomorrow."
+    },
+    {
+     "de": "Wir haben das Daily auf 9:30 verschoben.",
+     "en": "We moved the daily to 9:30."
     }
    ]
   },
@@ -400,6 +404,10 @@
     {
      "de": "Der Chef hat alle zum Teams-Event am Freitag eingeladen.",
      "en": "The boss invited everyone to the teams event on Friday."
+    },
+    {
+     "de": "Meine Nachbarin hat uns zum Essen eingeladen.",
+     "en": "My neighbour invited us over for a meal."
     }
    ]
   },
@@ -690,6 +698,10 @@
     {
      "de": "Dein Vorschlag ist im Team super angekommen.",
      "en": "Your suggestion went down really well with the team."
+    },
+    {
+     "de": "Der Zug ist mit zehn Minuten Verspätung angekommen.",
+     "en": "The train arrived ten minutes late."
     }
    ]
   },
@@ -1391,6 +1403,14 @@
     {
      "de": "Fährst du mit dem Zug oder mit dem Auto?",
      "en": "Are you going by train or by car?"
+    },
+    {
+     "de": "Ich bin heute mit dem Velo zur Arbeit gefahren.",
+     "en": "I cycled to work today."
+    },
+    {
+     "de": "Ich bin heute direkt zum Kunden gefahren — ohne Umweg.",
+     "en": "I drove straight to the client today — no detour."
     }
    ]
   },
@@ -1842,6 +1862,44 @@
     {
      "de": "Den Fix habe ich auf dem Testsystem getestet und im Wiki dokumentiert.",
      "en": "I tested the fix on the staging system and documented it in the wiki."
+    }
+   ]
+  },
+  {
+   "v": "gehen",
+   "en": "to go, to walk",
+   "theme": "Unterwegs & Termine",
+   "konj2": "ginge · würde gehen",
+   "konj2_note": "unregelmäßig (geht · ging), Perfekt mit sein",
+   "part2": "ist gegangen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Wir sind gestern Abend früh ins Kino gegangen.",
+     "en": "We went to the cinema early yesterday evening."
+    },
+    {
+     "de": "Ich bin zum Bahnhof gegangen, aber der Zug ist nicht angekommen.",
+     "en": "I went to the station, but the train didn't arrive."
+    }
+   ]
+  },
+  {
+   "v": "bleiben",
+   "en": "to stay, to remain",
+   "theme": "Unterwegs & Termine",
+   "konj2": "bliebe · würde bleiben",
+   "konj2_note": "unregelmäßig (bleibt · blieb), Perfekt mit sein",
+   "part2": "ist geblieben",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Am Samstag bin ich zu Hause geblieben und habe ausgeschlafen.",
+     "en": "On Saturday I stayed at home and slept in."
+    },
+    {
+     "de": "Nach dem Meeting bin ich noch im Büro geblieben, um den Code zu prüfen.",
+     "en": "After the meeting I stayed in the office a bit longer to check the code."
     }
    ]
   }
@@ -6427,9 +6485,9 @@
   }
  ],
  "stats": {
-  "verbs": 101,
+  "verbs": 103,
   "words": 589,
-  "sentences": 183,
+  "sentences": 192,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6459,9 +6517,10 @@
    "Telefonieren",
    "Termine, Änderungen & Probleme lösen",
    "Unterwegs & Arbeitsweg",
+   "Unterwegs & Termine",
    "Wochenende & Freizeit",
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-11-10"
+ "updated": "2026-11-11"
 }
