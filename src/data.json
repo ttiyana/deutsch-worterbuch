@@ -1902,6 +1902,25 @@
      "en": "After the meeting I stayed in the office a bit longer to check the code."
     }
    ]
+  },
+  {
+   "v": "brauchen",
+   "en": "to need",
+   "theme": "Einkaufen & Kochen",
+   "konj2": "bräuchte · würde brauchen",
+   "konj2_note": "regelmäßig, aber Konj II mit Umlaut: 'bräuchte' — sehr üblich für höfliche Bitten",
+   "part2": "hat gebraucht",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich brauche noch Milch und Brot — ich gehe kurz in den Laden.",
+     "en": "I still need milk and bread — I'll quickly pop into the shop."
+    },
+    {
+     "de": "Für das Projekt haben wir eine zusätzliche Library gebraucht.",
+     "en": "We needed an additional library for the project."
+    }
+   ]
   }
  ],
  "words": [
@@ -6485,9 +6504,9 @@
   }
  ],
  "stats": {
-  "verbs": 103,
+  "verbs": 104,
   "words": 589,
-  "sentences": 192,
+  "sentences": 194,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6522,5 +6541,5 @@
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-11-11"
+ "updated": "2026-11-12"
 }
