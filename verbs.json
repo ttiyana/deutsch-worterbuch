@@ -1339,6 +1339,45 @@
         {"de": "Ich brauche noch Milch und Brot — ich gehe kurz in den Laden.", "en": "I still need milk and bread — I'll quickly pop into the shop."},
         {"de": "Für das Projekt haben wir eine zusätzliche Library gebraucht.", "en": "We needed an additional library for the project."}
       ]
+    },
+    {
+      "v": "entscheiden",
+      "en": "to decide",
+      "theme": "Teamarbeit — Meetings & Code-Review",
+      "konj2": "entschiede · würde entscheiden",
+      "konj2_note": "unregelmäßig (entscheidet · entschied)",
+      "part2": "hat entschieden",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich habe mich entschieden, am Wochenende zu Hause zu bleiben.", "en": "I decided to stay at home at the weekend."},
+        {"de": "Das Team hat entschieden, die Library zu wechseln.", "en": "The team decided to switch the library."}
+      ]
+    },
+    {
+      "v": "ändern",
+      "en": "to change",
+      "theme": "Teamarbeit — Meetings & Code-Review",
+      "konj2": "änderte · würde ändern",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat geändert",
+      "irregular": false,
+      "sentences": [
+        {"de": "Ich habe meinen Termin beim Arzt geändert und das neue Rezept getestet.", "en": "I changed my doctor's appointment and tested the new prescription."},
+        {"de": "Ich habe die Konfiguration geändert und den Build danach getestet.", "en": "I changed the configuration and tested the build afterwards."},
+        {"de": "Wir haben das Problem besprochen, den Plan geändert und den Build getestet.", "en": "We discussed the problem, changed the plan and tested the build."}
+      ]
+    },
+    {
+      "v": "sprechen",
+      "en": "to speak, to talk",
+      "theme": "Teamarbeit — Meetings & Code-Review",
+      "konj2": "spräche · würde sprechen",
+      "konj2_note": "unregelmäßig (spricht · sprach)",
+      "part2": "hat gesprochen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich habe gestern lange mit meiner Nachbarin über den Umbau gesprochen.", "en": "Yesterday I talked to my neighbour about the renovation for a long time."}
+      ]
     }
   ]
 }
