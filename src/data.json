@@ -1978,6 +1978,55 @@
      "en": "Yesterday I talked to my neighbour about the renovation for a long time."
     }
    ]
+  },
+  {
+   "v": "einpacken",
+   "en": "to pack (up), to wrap",
+   "theme": "Umzug & Wohnung einrichten",
+   "konj2": "packte ein · würde einpacken",
+   "konj2_note": "trennbar + regelmäßig — Perfekt 'hat eingepackt'",
+   "part2": "hat eingepackt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Am Samstag haben wir alle Kartons eingepackt.",
+     "en": "On Saturday we packed all the boxes."
+    },
+    {
+     "de": "Ich habe den Fix in ein neues Release eingepackt.",
+     "en": "I bundled the fix into a new release."
+    }
+   ]
+  },
+  {
+   "v": "anmelden",
+   "en": "to register, to sign up (sich anmelden)",
+   "theme": "Umzug & Wohnung einrichten",
+   "konj2": "meldete an · würde anmelden",
+   "konj2_note": "trennbar + regelmäßig; reflexiv: 'sich bei + Dativ anmelden'",
+   "part2": "hat angemeldet",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich habe mich schon beim Stromanbieter angemeldet.",
+     "en": "I have already registered with the electricity provider."
+    }
+   ]
+  },
+  {
+   "v": "streichen",
+   "en": "to paint (a wall), to spread; to cancel (a line)",
+   "theme": "Umzug & Wohnung einrichten",
+   "konj2": "striche · würde streichen",
+   "konj2_note": "unregelmäßig (streicht · strich)",
+   "part2": "hat gestrichen",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Das Wohnzimmer haben wir hellgrau gestrichen.",
+     "en": "We painted the living room light grey."
+    }
+   ]
   }
  ],
  "words": [
@@ -6561,9 +6610,9 @@
   }
  ],
  "stats": {
-  "verbs": 107,
+  "verbs": 110,
   "words": 589,
-  "sentences": 200,
+  "sentences": 204,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6593,11 +6642,12 @@
    "Technik",
    "Telefonieren",
    "Termine, Änderungen & Probleme lösen",
+   "Umzug & Wohnung einrichten",
    "Unterwegs & Arbeitsweg",
    "Unterwegs & Termine",
    "Wochenende & Freizeit",
    "Wohnungssuche & Umzug"
   ]
  },
- "updated": "2026-11-13"
+ "updated": "2026-11-19"
 }
