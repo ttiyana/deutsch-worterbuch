@@ -2027,6 +2027,44 @@
      "en": "We painted the living room light grey."
     }
    ]
+  },
+  {
+   "v": "buchen",
+   "en": "to book",
+   "theme": "Zugfahrt & Dienstreise",
+   "konj2": "buchte · würde buchen",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat gebucht",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich habe die Fahrkarte schon online gebucht.",
+     "en": "I already booked the ticket online."
+    },
+    {
+     "de": "Ich habe die Dienstreise nach München gebucht.",
+     "en": "I booked the business trip to Munich."
+    }
+   ]
+  },
+  {
+   "v": "abfahren",
+   "en": "to depart, to leave (train, bus)",
+   "theme": "Zugfahrt & Dienstreise",
+   "konj2": "führe ab · würde abfahren",
+   "konj2_note": "trennbar + unregelmäßig (fährt ab · fuhr ab), Perfekt mit sein",
+   "part2": "ist abgefahren",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Der Zug ist pünktlich abgefahren.",
+     "en": "The train departed on time."
+    },
+    {
+     "de": "Der Kollege ist heute Morgen mit dem Zug abgefahren.",
+     "en": "The colleague left by train this morning."
+    }
+   ]
   }
  ],
  "words": [
@@ -6610,9 +6648,9 @@
   }
  ],
  "stats": {
-  "verbs": 110,
+  "verbs": 112,
   "words": 589,
-  "sentences": 204,
+  "sentences": 208,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6646,8 +6684,9 @@
    "Unterwegs & Arbeitsweg",
    "Unterwegs & Termine",
    "Wochenende & Freizeit",
-   "Wohnungssuche & Umzug"
+   "Wohnungssuche & Umzug",
+   "Zugfahrt & Dienstreise"
   ]
  },
- "updated": "2026-11-19"
+ "updated": "2026-11-20"
 }
