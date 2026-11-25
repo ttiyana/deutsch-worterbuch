@@ -1441,6 +1441,31 @@
         {"de": "Der Zug ist pünktlich abgefahren.", "en": "The train departed on time."},
         {"de": "Der Kollege ist heute Morgen mit dem Zug abgefahren.", "en": "The colleague left by train this morning."}
       ]
+    },
+    {
+      "v": "stattfinden",
+      "en": "to take place, to happen",
+      "theme": "Termine machen, verschieben, absagen",
+      "konj2": "fände statt · würde stattfinden",
+      "konj2_note": "trennbar + unregelmäßig (findet statt · fand statt), Perfekt mit haben",
+      "part2": "hat stattgefunden",
+      "irregular": true,
+      "sentences": [
+        {"de": "Das Konzert hat leider nicht stattgefunden.", "en": "Unfortunately the concert didn't take place."},
+        {"de": "Der Sprint-Review hat pünktlich stattgefunden.", "en": "The sprint review took place on time."}
+      ]
+    },
+    {
+      "v": "sich treffen",
+      "en": "to meet (up) (mit + Dativ)",
+      "theme": "Termine machen, verschieben, absagen",
+      "konj2": "träfe sich · würde sich treffen",
+      "konj2_note": "unregelmäßig, reflexiv (trifft sich · traf sich) — 'sich mit jemandem treffen'",
+      "part2": "hat sich getroffen",
+      "irregular": true,
+      "sentences": [
+        {"de": "Ich habe mich gestern mit meiner Nachbarin im Café getroffen.", "en": "I met my neighbour at the café yesterday."}
+      ]
     }
   ]
 }
