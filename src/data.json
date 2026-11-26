@@ -812,6 +812,10 @@
     {
      "de": "Ich habe den Fehler im Log gefunden.",
      "en": "I found the error in the log."
+    },
+    {
+     "de": "Wir haben eine Wohnung direkt neben dem Büro gefunden — kein Pendeln mehr.",
+     "en": "We found an apartment right next to the office — no more commuting."
     }
    ]
   },
@@ -903,6 +907,10 @@
     {
      "de": "Kann ich die Wohnung nach der Arbeit besichtigen?",
      "en": "Can I view the apartment after work?"
+    },
+    {
+     "de": "Ich habe gestern drei Wohnungen in Oerlikon besichtigt.",
+     "en": "Yesterday I viewed three apartments in Oerlikon."
     }
    ]
   },
@@ -933,6 +941,10 @@
     {
      "de": "Wenn alles klappt, ziehen wir im November ein.",
      "en": "If everything works out, we'll move in in November."
+    },
+    {
+     "de": "Ich bin letzte Woche in die neue Wohnung eingezogen.",
+     "en": "I moved into the new apartment last week."
     }
    ]
   },
@@ -975,6 +987,10 @@
     {
      "de": "Wir haben den Mietvertrag gestern unterschrieben.",
      "en": "We signed the lease yesterday."
+    },
+    {
+     "de": "Wir haben den Mietvertrag am Montag unterschrieben.",
+     "en": "We signed the lease on Monday."
     }
    ]
   },
@@ -1801,6 +1817,10 @@
     {
      "de": "Die alte Wohnung kündige ich erst, wenn der neue Vertrag unterschrieben ist.",
      "en": "I will only give notice on the old apartment once the new contract is signed."
+    },
+    {
+     "de": "Ich habe die alte Wohnung fristgerecht gekündigt.",
+     "en": "I gave notice on the old apartment in due time."
     }
    ]
   },
@@ -1820,6 +1840,10 @@
     {
      "de": "Wegen des Umzugs habe ich mein Homeoffice neu eingerichtet.",
      "en": "Because of the move I set up my home office again."
+    },
+    {
+     "de": "Ich habe mein Homeoffice in der neuen Wohnung eingerichtet.",
+     "en": "I set up my home office in the new apartment."
     }
    ]
   },
@@ -2097,6 +2121,36 @@
     {
      "de": "Ich habe mich gestern mit meiner Nachbarin im Café getroffen.",
      "en": "I met my neighbour at the café yesterday."
+    }
+   ]
+  },
+  {
+   "v": "sich bewerben",
+   "en": "to apply (for) — sich um + Akkusativ bewerben",
+   "theme": "Wohnungssuche & Umzug",
+   "konj2": "bewürbe sich · würde sich bewerben",
+   "konj2_note": "unregelmäßig (bewirbt sich · bewarb sich), reflexiv — 'sich um etwas bewerben'",
+   "part2": "hat sich beworben",
+   "irregular": true,
+   "sentences": [
+    {
+     "de": "Ich habe mich um die Wohnung beworben — und sie bekommen!",
+     "en": "I applied for the apartment — and got it!"
+    }
+   ]
+  },
+  {
+   "v": "schicken",
+   "en": "to send",
+   "theme": "Wohnungssuche & Umzug",
+   "konj2": "schickte · würde schicken",
+   "konj2_note": "regelmäßig — Konj II = Präteritum",
+   "part2": "hat geschickt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich habe der HR-Abteilung meine neue Adresse geschickt.",
+     "en": "I sent my new address to the HR department."
     }
    ]
   }
@@ -6682,9 +6736,9 @@
   }
  ],
  "stats": {
-  "verbs": 114,
+  "verbs": 116,
   "words": 589,
-  "sentences": 211,
+  "sentences": 219,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6723,5 +6777,5 @@
    "Zugfahrt & Dienstreise"
   ]
  },
- "updated": "2026-11-25"
+ "updated": "2026-11-26"
 }

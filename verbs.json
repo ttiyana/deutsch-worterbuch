@@ -11,8 +11,14 @@
       "part2": "hat vorgeschlagen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich schlage vor, dass wir uns morgen um 9 treffen.", "en": "I suggest we meet tomorrow at 9."},
-        {"de": "Ich würde vorschlagen, den Deploy auf morgen zu verschieben.", "en": "I would suggest postponing the deploy until tomorrow."}
+        {
+          "de": "Ich schlage vor, dass wir uns morgen um 9 treffen.",
+          "en": "I suggest we meet tomorrow at 9."
+        },
+        {
+          "de": "Ich würde vorschlagen, den Deploy auf morgen zu verschieben.",
+          "en": "I would suggest postponing the deploy until tomorrow."
+        }
       ]
     },
     {
@@ -24,9 +30,18 @@
       "part2": "hat verschoben",
       "irregular": true,
       "sentences": [
-        {"de": "Könnten wir den Termin auf Freitag verschieben?", "en": "Could we postpone the appointment to Friday?"},
-        {"de": "Ich würde vorschlagen, den Deploy auf morgen zu verschieben.", "en": "I would suggest postponing the deploy until tomorrow."},
-        {"de": "Wir haben das Daily auf 9:30 verschoben.", "en": "We moved the daily to 9:30."}
+        {
+          "de": "Könnten wir den Termin auf Freitag verschieben?",
+          "en": "Could we postpone the appointment to Friday?"
+        },
+        {
+          "de": "Ich würde vorschlagen, den Deploy auf morgen zu verschieben.",
+          "en": "I would suggest postponing the deploy until tomorrow."
+        },
+        {
+          "de": "Wir haben das Daily auf 9:30 verschoben.",
+          "en": "We moved the daily to 9:30."
+        }
       ]
     },
     {
@@ -38,8 +53,14 @@
       "part2": "hat erklärt",
       "irregular": false,
       "sentences": [
-        {"de": "Kannst du mir kurz erklären, wie das funktioniert?", "en": "Can you briefly explain to me how that works?"},
-        {"de": "Könntest du mir erklären, warum der Test fehlschlägt?", "en": "Could you explain to me why the test is failing?"}
+        {
+          "de": "Kannst du mir kurz erklären, wie das funktioniert?",
+          "en": "Can you briefly explain to me how that works?"
+        },
+        {
+          "de": "Könntest du mir erklären, warum der Test fehlschlägt?",
+          "en": "Could you explain to me why the test is failing?"
+        }
       ]
     },
     {
@@ -51,7 +72,10 @@
       "part2": "ist ausgefallen",
       "irregular": true,
       "sentences": [
-        {"de": "Mein WLAN ist heute Morgen ausgefallen.", "en": "My Wi-Fi went down this morning."}
+        {
+          "de": "Mein WLAN ist heute Morgen ausgefallen.",
+          "en": "My Wi-Fi went down this morning."
+        }
       ]
     },
     {
@@ -63,8 +87,14 @@
       "part2": "hat neu gestartet",
       "irregular": false,
       "sentences": [
-        {"de": "Ich musste den Router neu starten.", "en": "I had to restart the router."},
-        {"de": "Kannst du die App neu starten und es nochmal versuchen?", "en": "Can you restart the app and try again?"}
+        {
+          "de": "Ich musste den Router neu starten.",
+          "en": "I had to restart the router."
+        },
+        {
+          "de": "Kannst du die App neu starten und es nochmal versuchen?",
+          "en": "Can you restart the app and try again?"
+        }
       ]
     },
     {
@@ -76,8 +106,14 @@
       "part2": "ist abgestürzt",
       "irregular": false,
       "sentences": [
-        {"de": "Mein Handy stürzt ständig ab.", "en": "My phone keeps crashing."},
-        {"de": "Der Server ist gestern Nacht abgestürzt.", "en": "The server crashed last night."}
+        {
+          "de": "Mein Handy stürzt ständig ab.",
+          "en": "My phone keeps crashing."
+        },
+        {
+          "de": "Der Server ist gestern Nacht abgestürzt.",
+          "en": "The server crashed last night."
+        }
       ]
     },
     {
@@ -89,8 +125,14 @@
       "part2": "hat behoben",
       "irregular": true,
       "sentences": [
-        {"de": "Das Update hat das Problem endlich behoben.", "en": "The update finally fixed the problem."},
-        {"de": "Wir haben den Bug in der neuen Version behoben.", "en": "We fixed the bug in the new version."}
+        {
+          "de": "Das Update hat das Problem endlich behoben.",
+          "en": "The update finally fixed the problem."
+        },
+        {
+          "de": "Wir haben den Bug in der neuen Version behoben.",
+          "en": "We fixed the bug in the new version."
+        }
       ]
     },
     {
@@ -102,7 +144,10 @@
       "part2": "hat aktualisiert",
       "irregular": false,
       "sentences": [
-        {"de": "Ich aktualisiere meine Apps einmal pro Woche.", "en": "I update my apps once a week."}
+        {
+          "de": "Ich aktualisiere meine Apps einmal pro Woche.",
+          "en": "I update my apps once a week."
+        }
       ]
     },
     {
@@ -114,9 +159,18 @@
       "part2": "hat aufgeräumt",
       "irregular": false,
       "sentences": [
-        {"de": "Ich habe am Wochenende die ganze Wohnung aufgeräumt.", "en": "I tidied up the whole apartment at the weekend."},
-        {"de": "Wir räumen diese Woche das Repository auf.", "en": "We're cleaning up the repository this week."},
-        {"de": "Beim Refactoring räumen wir den alten Code auf.", "en": "During refactoring we tidy up the old code."}
+        {
+          "de": "Ich habe am Wochenende die ganze Wohnung aufgeräumt.",
+          "en": "I tidied up the whole apartment at the weekend."
+        },
+        {
+          "de": "Wir räumen diese Woche das Repository auf.",
+          "en": "We're cleaning up the repository this week."
+        },
+        {
+          "de": "Beim Refactoring räumen wir den alten Code auf.",
+          "en": "During refactoring we tidy up the old code."
+        }
       ]
     },
     {
@@ -128,7 +182,10 @@
       "part2": "hat gestaubsaugt",
       "irregular": false,
       "sentences": [
-        {"de": "Kannst du heute bitte staubsaugen?", "en": "Can you please vacuum today?"}
+        {
+          "de": "Kannst du heute bitte staubsaugen?",
+          "en": "Can you please vacuum today?"
+        }
       ]
     },
     {
@@ -140,7 +197,10 @@
       "part2": "hat geputzt",
       "irregular": false,
       "sentences": [
-        {"de": "Hast du schon das Bad geputzt?", "en": "Have you already cleaned the bathroom?"}
+        {
+          "de": "Hast du schon das Bad geputzt?",
+          "en": "Have you already cleaned the bathroom?"
+        }
       ]
     },
     {
@@ -152,7 +212,10 @@
       "part2": "hat gespült",
       "irregular": false,
       "sentences": [
-        {"de": "Nach dem Essen spüle ich meistens sofort das Geschirr.", "en": "After eating I usually wash the dishes right away."}
+        {
+          "de": "Nach dem Essen spüle ich meistens sofort das Geschirr.",
+          "en": "After eating I usually wash the dishes right away."
+        }
       ]
     },
     {
@@ -164,7 +227,10 @@
       "part2": "hat gewaschen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich wasche die Wäsche immer samstags.", "en": "I always do the laundry on Saturdays."}
+        {
+          "de": "Ich wasche die Wäsche immer samstags.",
+          "en": "I always do the laundry on Saturdays."
+        }
       ]
     },
     {
@@ -176,7 +242,10 @@
       "part2": "hat rausgebracht",
       "irregular": true,
       "sentences": [
-        {"de": "Hast du schon den Müll rausgebracht?", "en": "Have you already taken out the trash?"}
+        {
+          "de": "Hast du schon den Müll rausgebracht?",
+          "en": "Have you already taken out the trash?"
+        }
       ]
     },
     {
@@ -188,7 +257,10 @@
       "part2": "hat eingekauft",
       "irregular": false,
       "sentences": [
-        {"de": "Ich gehe heute Nachmittag einkaufen.", "en": "I'm going shopping this afternoon."}
+        {
+          "de": "Ich gehe heute Nachmittag einkaufen.",
+          "en": "I'm going shopping this afternoon."
+        }
       ]
     },
     {
@@ -200,7 +272,10 @@
       "part2": "hat bezahlt",
       "irregular": false,
       "sentences": [
-        {"de": "Ich bezahle an der Kasse mit Karte.", "en": "I pay by card at the checkout."}
+        {
+          "de": "Ich bezahle an der Kasse mit Karte.",
+          "en": "I pay by card at the checkout."
+        }
       ]
     },
     {
@@ -212,8 +287,14 @@
       "part2": "hat mitgenommen",
       "irregular": true,
       "sentences": [
-        {"de": "Nimmst du die Einkaufstasche mit?", "en": "Are you taking the shopping bag with you?"},
-        {"de": "Ich nehme die Testergebnisse mit in die Besprechung.", "en": "I'm taking the test results to the meeting."}
+        {
+          "de": "Nimmst du die Einkaufstasche mit?",
+          "en": "Are you taking the shopping bag with you?"
+        },
+        {
+          "de": "Ich nehme die Testergebnisse mit in die Besprechung.",
+          "en": "I'm taking the test results to the meeting."
+        }
       ]
     },
     {
@@ -225,8 +306,14 @@
       "part2": "hat verglichen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich vergleiche die Preise in zwei Geschäften.", "en": "I compare the prices in two shops."},
-        {"de": "Wir vergleichen die Laufzeit der beiden Versionen.", "en": "We compare the runtime of the two versions."}
+        {
+          "de": "Ich vergleiche die Preise in zwei Geschäften.",
+          "en": "I compare the prices in two shops."
+        },
+        {
+          "de": "Wir vergleichen die Laufzeit der beiden Versionen.",
+          "en": "We compare the runtime of the two versions."
+        }
       ]
     },
     {
@@ -238,7 +325,10 @@
       "part2": "hat ausprobiert",
       "irregular": false,
       "sentences": [
-        {"de": "Ich probiere die neue IDE diese Woche aus.", "en": "I'm trying out the new IDE this week."}
+        {
+          "de": "Ich probiere die neue IDE diese Woche aus.",
+          "en": "I'm trying out the new IDE this week."
+        }
       ]
     },
     {
@@ -250,7 +340,10 @@
       "part2": "hat entspannt",
       "irregular": false,
       "sentences": [
-        {"de": "Am Wochenende entspanne ich am liebsten am See.", "en": "At the weekend I like to relax by the lake most of all."}
+        {
+          "de": "Am Wochenende entspanne ich am liebsten am See.",
+          "en": "At the weekend I like to relax by the lake most of all."
+        }
       ]
     },
     {
@@ -262,8 +355,14 @@
       "part2": "ist gewandert",
       "irregular": false,
       "sentences": [
-        {"de": "Wir sind am Sonntag durch den Wald gewandert.", "en": "On Sunday we hiked through the forest."},
-        {"de": "Am Sonntag sind wir durch den Wald gewandert und haben das Wetter genossen.", "en": "On Sunday we hiked through the forest and enjoyed the weather."}
+        {
+          "de": "Wir sind am Sonntag durch den Wald gewandert.",
+          "en": "On Sunday we hiked through the forest."
+        },
+        {
+          "de": "Am Sonntag sind wir durch den Wald gewandert und haben das Wetter genossen.",
+          "en": "On Sunday we hiked through the forest and enjoyed the weather."
+        }
       ]
     },
     {
@@ -275,9 +374,18 @@
       "part2": "hat genossen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich habe das schöne Wetter auf der Terrasse genossen.", "en": "I enjoyed the beautiful weather on the terrace."},
-        {"de": "Nach dem Release genieße ich den Feierabend ohne Laptop.", "en": "After the release I enjoy my evening off without a laptop."},
-        {"de": "Am Sonntag sind wir durch den Wald gewandert und haben das Wetter genossen.", "en": "On Sunday we hiked through the forest and enjoyed the weather."}
+        {
+          "de": "Ich habe das schöne Wetter auf der Terrasse genossen.",
+          "en": "I enjoyed the beautiful weather on the terrace."
+        },
+        {
+          "de": "Nach dem Release genieße ich den Feierabend ohne Laptop.",
+          "en": "After the release I enjoy my evening off without a laptop."
+        },
+        {
+          "de": "Am Sonntag sind wir durch den Wald gewandert und haben das Wetter genossen.",
+          "en": "On Sunday we hiked through the forest and enjoyed the weather."
+        }
       ]
     },
     {
@@ -289,9 +397,18 @@
       "part2": "hat eingeladen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich habe ein paar Freunde zum Grillen eingeladen.", "en": "I invited a few friends over for a barbecue."},
-        {"de": "Der Chef hat alle zum Teams-Event am Freitag eingeladen.", "en": "The boss invited everyone to the teams event on Friday."},
-        {"de": "Meine Nachbarin hat uns zum Essen eingeladen.", "en": "My neighbour invited us over for a meal."}
+        {
+          "de": "Ich habe ein paar Freunde zum Grillen eingeladen.",
+          "en": "I invited a few friends over for a barbecue."
+        },
+        {
+          "de": "Der Chef hat alle zum Teams-Event am Freitag eingeladen.",
+          "en": "The boss invited everyone to the teams event on Friday."
+        },
+        {
+          "de": "Meine Nachbarin hat uns zum Essen eingeladen.",
+          "en": "My neighbour invited us over for a meal."
+        }
       ]
     },
     {
@@ -303,8 +420,14 @@
       "part2": "hat abgesagt",
       "irregular": false,
       "sentences": [
-        {"de": "Leider musste ich den Termin für heute absagen.", "en": "Unfortunately I had to cancel today's appointment."},
-        {"de": "Die Weekly wurde gestern kurzfristig abgesagt.", "en": "The weekly meeting was cancelled at short notice yesterday."}
+        {
+          "de": "Leider musste ich den Termin für heute absagen.",
+          "en": "Unfortunately I had to cancel today's appointment."
+        },
+        {
+          "de": "Die Weekly wurde gestern kurzfristig abgesagt.",
+          "en": "The weekly meeting was cancelled at short notice yesterday."
+        }
       ]
     },
     {
@@ -316,8 +439,14 @@
       "part2": "hat geplant",
       "irregular": false,
       "sentences": [
-        {"de": "Ich plane meine Woche immer am Sonntagabend.", "en": "I always plan my week on Sunday evening."},
-        {"de": "Heute planen wir den Sprint für die nächsten zwei Wochen.", "en": "Today we are planning the sprint for the next two weeks."}
+        {
+          "de": "Ich plane meine Woche immer am Sonntagabend.",
+          "en": "I always plan my week on Sunday evening."
+        },
+        {
+          "de": "Heute planen wir den Sprint für die nächsten zwei Wochen.",
+          "en": "Today we are planning the sprint for the next two weeks."
+        }
       ]
     },
     {
@@ -329,8 +458,14 @@
       "part2": "hat priorisiert",
       "irregular": false,
       "sentences": [
-        {"de": "Wir priorisieren die Bugs nach Schweregrad.", "en": "We prioritize the bugs by severity."},
-        {"de": "Wir haben den Sprint geplant und die wichtigsten Aufgaben priorisiert.", "en": "We have planned the sprint and prioritized the most important tasks."}
+        {
+          "de": "Wir priorisieren die Bugs nach Schweregrad.",
+          "en": "We prioritize the bugs by severity."
+        },
+        {
+          "de": "Wir haben den Sprint geplant und die wichtigsten Aufgaben priorisiert.",
+          "en": "We have planned the sprint and prioritized the most important tasks."
+        }
       ]
     },
     {
@@ -342,7 +477,10 @@
       "part2": "hat vorbereitet",
       "irregular": false,
       "sentences": [
-        {"de": "Ich bereite das Abendessen schon am Nachmittag vor.", "en": "I already prepare dinner in the afternoon."}
+        {
+          "de": "Ich bereite das Abendessen schon am Nachmittag vor.",
+          "en": "I already prepare dinner in the afternoon."
+        }
       ]
     },
     {
@@ -354,8 +492,14 @@
       "part2": "hat eingetragen",
       "irregular": true,
       "sentences": [
-        {"de": "Hast du den Termin schon in den Kalender eingetragen?", "en": "Have you already put the appointment in the calendar?"},
-        {"de": "Ich habe die Einkäufe in meine To-do-Liste eingetragen.", "en": "I put the shopping items on my to-do list."}
+        {
+          "de": "Hast du den Termin schon in den Kalender eingetragen?",
+          "en": "Have you already put the appointment in the calendar?"
+        },
+        {
+          "de": "Ich habe die Einkäufe in meine To-do-Liste eingetragen.",
+          "en": "I put the shopping items on my to-do list."
+        }
       ]
     },
     {
@@ -367,7 +511,10 @@
       "part2": "hat eingehalten",
       "irregular": true,
       "sentences": [
-        {"de": "Ich muss die Deadline am Freitag unbedingt einhalten.", "en": "I absolutely have to meet the deadline on Friday."}
+        {
+          "de": "Ich muss die Deadline am Freitag unbedingt einhalten.",
+          "en": "I absolutely have to meet the deadline on Friday."
+        }
       ]
     },
     {
@@ -379,13 +526,34 @@
       "part2": "hat angerufen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich rufe meine Mutter jeden Sonntag an.", "en": "I call my mother every Sunday."},
-        {"de": "Ich habe den Arzt angerufen und einen Termin gemacht.", "en": "I called the doctor and made an appointment."},
-        {"de": "Wir müssen den Chef anrufen und ihm das Problem mitteilen.", "en": "We have to call the boss and tell him about the problem."},
-        {"de": "Ich habe ihn gestern nicht erreicht, also habe ich heute Morgen nochmal angerufen.", "en": "I couldn't reach him yesterday, so I called again this morning."},
-        {"de": "Ich rufe heute den Vermieter an.", "en": "I'm calling the landlord today."},
-        {"de": "Ich habe dich gestern zweimal angerufen — bist du nicht rangegangen?", "en": "I called you twice yesterday — didn't you pick up?"},
-        {"de": "Wir haben den Kunden angerufen, um den Termin zu bestätigen.", "en": "We called the client to confirm the appointment."}
+        {
+          "de": "Ich rufe meine Mutter jeden Sonntag an.",
+          "en": "I call my mother every Sunday."
+        },
+        {
+          "de": "Ich habe den Arzt angerufen und einen Termin gemacht.",
+          "en": "I called the doctor and made an appointment."
+        },
+        {
+          "de": "Wir müssen den Chef anrufen und ihm das Problem mitteilen.",
+          "en": "We have to call the boss and tell him about the problem."
+        },
+        {
+          "de": "Ich habe ihn gestern nicht erreicht, also habe ich heute Morgen nochmal angerufen.",
+          "en": "I couldn't reach him yesterday, so I called again this morning."
+        },
+        {
+          "de": "Ich rufe heute den Vermieter an.",
+          "en": "I'm calling the landlord today."
+        },
+        {
+          "de": "Ich habe dich gestern zweimal angerufen — bist du nicht rangegangen?",
+          "en": "I called you twice yesterday — didn't you pick up?"
+        },
+        {
+          "de": "Wir haben den Kunden angerufen, um den Termin zu bestätigen.",
+          "en": "We called the client to confirm the appointment."
+        }
       ]
     },
     {
@@ -397,7 +565,10 @@
       "part2": "hat zurückgerufen",
       "irregular": true,
       "sentences": [
-        {"de": "Kannst du mich später zurückrufen?", "en": "Can you call me back later?"}
+        {
+          "de": "Kannst du mich später zurückrufen?",
+          "en": "Can you call me back later?"
+        }
       ]
     },
     {
@@ -409,10 +580,22 @@
       "part2": "hat verbunden",
       "irregular": true,
       "sentences": [
-        {"de": "Ich verbinde Sie mit der IT-Abteilung.", "en": "I'll put you through to the IT department."},
-        {"de": "Die Leitung ist schlecht — ich verstehe dich kaum.", "en": "The line is bad — I can hardly understand you."},
-        {"de": "Kannst du mich bitte mit dem Support verbinden?", "en": "Can you please put me through to support?"},
-        {"de": "Moment, ich bin leider falsch verbunden.", "en": "Hold on — I'm afraid I've been put through to the wrong person."}
+        {
+          "de": "Ich verbinde Sie mit der IT-Abteilung.",
+          "en": "I'll put you through to the IT department."
+        },
+        {
+          "de": "Die Leitung ist schlecht — ich verstehe dich kaum.",
+          "en": "The line is bad — I can hardly understand you."
+        },
+        {
+          "de": "Kannst du mich bitte mit dem Support verbinden?",
+          "en": "Can you please put me through to support?"
+        },
+        {
+          "de": "Moment, ich bin leider falsch verbunden.",
+          "en": "Hold on — I'm afraid I've been put through to the wrong person."
+        }
       ]
     },
     {
@@ -424,9 +607,18 @@
       "part2": "hat erreicht",
       "irregular": false,
       "sentences": [
-        {"de": "Ich habe den Kunden heute Morgen nicht erreicht.", "en": "I couldn't reach the customer this morning."},
-        {"de": "Ich habe ihn gestern nicht erreicht, also habe ich heute Morgen nochmal angerufen.", "en": "I couldn't reach him yesterday, so I called again this morning."},
-        {"de": "Ich erreiche heute niemanden im Büro.", "en": "I can't reach anyone in the office today."}
+        {
+          "de": "Ich habe den Kunden heute Morgen nicht erreicht.",
+          "en": "I couldn't reach the customer this morning."
+        },
+        {
+          "de": "Ich habe ihn gestern nicht erreicht, also habe ich heute Morgen nochmal angerufen.",
+          "en": "I couldn't reach him yesterday, so I called again this morning."
+        },
+        {
+          "de": "Ich erreiche heute niemanden im Büro.",
+          "en": "I can't reach anyone in the office today."
+        }
       ]
     },
     {
@@ -438,8 +630,14 @@
       "part2": "hat mitgeteilt",
       "irregular": false,
       "sentences": [
-        {"de": "Sie hat mir die gute Nachricht mitgeteilt.", "en": "She told me the good news."},
-        {"de": "Wir müssen den Chef anrufen und ihm das Problem mitteilen.", "en": "We have to call the boss and tell him about the problem."}
+        {
+          "de": "Sie hat mir die gute Nachricht mitgeteilt.",
+          "en": "She told me the good news."
+        },
+        {
+          "de": "Wir müssen den Chef anrufen und ihm das Problem mitteilen.",
+          "en": "We have to call the boss and tell him about the problem."
+        }
       ]
     },
     {
@@ -451,9 +649,18 @@
       "part2": "ist aufgestanden",
       "irregular": true,
       "sentences": [
-        {"de": "Ich stehe um 6 Uhr auf und fahre um 7 Uhr los.", "en": "I get up at 6 and set off at 7."},
-        {"de": "Ich bin heute spät aufgestanden und habe das Daily-Update verpasst.", "en": "I got up late today and missed the daily update."},
-        {"de": "Ich bin spät aufgestanden und habe den Zug verpasst.", "en": "I got up late and missed the train."}
+        {
+          "de": "Ich stehe um 6 Uhr auf und fahre um 7 Uhr los.",
+          "en": "I get up at 6 and set off at 7."
+        },
+        {
+          "de": "Ich bin heute spät aufgestanden und habe das Daily-Update verpasst.",
+          "en": "I got up late today and missed the daily update."
+        },
+        {
+          "de": "Ich bin spät aufgestanden und habe den Zug verpasst.",
+          "en": "I got up late and missed the train."
+        }
       ]
     },
     {
@@ -465,8 +672,14 @@
       "part2": "ist losgefahren",
       "irregular": true,
       "sentences": [
-        {"de": "Ich stehe um 6 Uhr auf und fahre um 7 Uhr los.", "en": "I get up at 6 and set off at 7."},
-        {"de": "Der Bus war weg — ich habe ihn um 7:40 verpasst.", "en": "The bus was gone — I missed it at 7:40."}
+        {
+          "de": "Ich stehe um 6 Uhr auf und fahre um 7 Uhr los.",
+          "en": "I get up at 6 and set off at 7."
+        },
+        {
+          "de": "Der Bus war weg — ich habe ihn um 7:40 verpasst.",
+          "en": "The bus was gone — I missed it at 7:40."
+        }
       ]
     },
     {
@@ -478,9 +691,18 @@
       "part2": "ist angekommen",
       "irregular": true,
       "sentences": [
-        {"de": "Heute bin ich erst um 9 Uhr im Büro angekommen — Stau!", "en": "Today I only arrived at the office at 9 — traffic jam!"},
-        {"de": "Dein Vorschlag ist im Team super angekommen.", "en": "Your suggestion went down really well with the team."},
-        {"de": "Der Zug ist mit zehn Minuten Verspätung angekommen.", "en": "The train arrived ten minutes late."}
+        {
+          "de": "Heute bin ich erst um 9 Uhr im Büro angekommen — Stau!",
+          "en": "Today I only arrived at the office at 9 — traffic jam!"
+        },
+        {
+          "de": "Dein Vorschlag ist im Team super angekommen.",
+          "en": "Your suggestion went down really well with the team."
+        },
+        {
+          "de": "Der Zug ist mit zehn Minuten Verspätung angekommen.",
+          "en": "The train arrived ten minutes late."
+        }
       ]
     },
     {
@@ -492,8 +714,14 @@
       "part2": "ist umgestiegen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich muss zweimal umsteigen: erst in den Bus, dann in die S-Bahn.", "en": "I have to change twice: first to the bus, then to the S-Bahn."},
-        {"de": "Wir sind letztes Jahr von Angular auf React umgestiegen.", "en": "Last year we switched from Angular to React."}
+        {
+          "de": "Ich muss zweimal umsteigen: erst in den Bus, dann in die S-Bahn.",
+          "en": "I have to change twice: first to the bus, then to the S-Bahn."
+        },
+        {
+          "de": "Wir sind letztes Jahr von Angular auf React umgestiegen.",
+          "en": "Last year we switched from Angular to React."
+        }
       ]
     },
     {
@@ -505,7 +733,10 @@
       "part2": "hat sich verspätet",
       "irregular": false,
       "sentences": [
-        {"de": "Ich habe mich gestern um zehn Minuten verspätet, heute bin ich pünktlich.", "en": "Yesterday I was ten minutes late; today I'm on time."}
+        {
+          "de": "Ich habe mich gestern um zehn Minuten verspätet, heute bin ich pünktlich.",
+          "en": "Yesterday I was ten minutes late; today I'm on time."
+        }
       ]
     },
     {
@@ -517,8 +748,14 @@
       "part2": "hat besprochen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich bespreche heute Abend mit meiner Frau die Pläne fürs Wochenende.", "en": "This evening I'll discuss the plans for the weekend with my wife."},
-        {"de": "Wir besprechen den Pull Request im Stand-up.", "en": "We discuss the pull request in the stand-up."}
+        {
+          "de": "Ich bespreche heute Abend mit meiner Frau die Pläne fürs Wochenende.",
+          "en": "This evening I'll discuss the plans for the weekend with my wife."
+        },
+        {
+          "de": "Wir besprechen den Pull Request im Stand-up.",
+          "en": "We discuss the pull request in the stand-up."
+        }
       ]
     },
     {
@@ -530,8 +767,14 @@
       "part2": "hat überprüft",
       "irregular": false,
       "sentences": [
-        {"de": "Hast du die Angaben im Formular überprüft, bevor du es abgeschickt hast?", "en": "Did you check the details in the form before you sent it off?"},
-        {"de": "Hast du den Branch aktualisiert und die Tests überprüft?", "en": "Did you update the branch and check the tests?"}
+        {
+          "de": "Hast du die Angaben im Formular überprüft, bevor du es abgeschickt hast?",
+          "en": "Did you check the details in the form before you sent it off?"
+        },
+        {
+          "de": "Hast du den Branch aktualisiert und die Tests überprüft?",
+          "en": "Did you update the branch and check the tests?"
+        }
       ]
     },
     {
@@ -543,7 +786,10 @@
       "part2": "hat hochgeladen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich habe die Fotos von unserem Ausflug hochgeladen.", "en": "I uploaded the photos from our trip."}
+        {
+          "de": "Ich habe die Fotos von unserem Ausflug hochgeladen.",
+          "en": "I uploaded the photos from our trip."
+        }
       ]
     },
     {
@@ -555,9 +801,22 @@
       "part2": "hat gefunden",
       "irregular": true,
       "sentences": [
-        {"de": "Ich finde meine Schlüssel selten beim ersten Mal.", "en": "I rarely find my keys on the first try."},
-        {"de": "Hast du den Fehler in der Rechnung gefunden?", "en": "Did you find the mistake in the bill?"},
-        {"de": "Ich habe den Fehler im Log gefunden.", "en": "I found the error in the log."}
+        {
+          "de": "Ich finde meine Schlüssel selten beim ersten Mal.",
+          "en": "I rarely find my keys on the first try."
+        },
+        {
+          "de": "Hast du den Fehler in der Rechnung gefunden?",
+          "en": "Did you find the mistake in the bill?"
+        },
+        {
+          "de": "Ich habe den Fehler im Log gefunden.",
+          "en": "I found the error in the log."
+        },
+        {
+          "de": "Wir haben eine Wohnung direkt neben dem Büro gefunden — kein Pendeln mehr.",
+          "en": "We found an apartment right next to the office — no more commuting."
+        }
       ]
     },
     {
@@ -569,8 +828,14 @@
       "part2": "hat analysiert",
       "irregular": false,
       "sentences": [
-        {"de": "Der Arzt hat die Testergebnisse genau analysiert.", "en": "The doctor analyzed the test results carefully."},
-        {"de": "Wir analysieren die Fehlermeldung im Ticket.", "en": "We are analyzing the error message in the ticket."}
+        {
+          "de": "Der Arzt hat die Testergebnisse genau analysiert.",
+          "en": "The doctor analyzed the test results carefully."
+        },
+        {
+          "de": "Wir analysieren die Fehlermeldung im Ticket.",
+          "en": "We are analyzing the error message in the ticket."
+        }
       ]
     },
     {
@@ -582,7 +847,10 @@
       "part2": "hat gelöscht",
       "irregular": false,
       "sentences": [
-        {"de": "Wir haben das alte Gerät gelöscht und das Konto geschlossen.", "en": "We deleted the old device and closed the account."}
+        {
+          "de": "Wir haben das alte Gerät gelöscht und das Konto geschlossen.",
+          "en": "We deleted the old device and closed the account."
+        }
       ]
     },
     {
@@ -594,8 +862,14 @@
       "part2": "ist kaputtgegangen",
       "irregular": true,
       "sentences": [
-        {"de": "Meine Waschmaschine ist gestern kaputtgegangen.", "en": "My washing machine broke down yesterday."},
-        {"de": "Der Server ist um zwei Uhr kaputtgegangen, aber ich habe den Bug behoben.", "en": "The server went down at two o'clock, but I fixed the bug."}
+        {
+          "de": "Meine Waschmaschine ist gestern kaputtgegangen.",
+          "en": "My washing machine broke down yesterday."
+        },
+        {
+          "de": "Der Server ist um zwei Uhr kaputtgegangen, aber ich habe den Bug behoben.",
+          "en": "The server went down at two o'clock, but I fixed the bug."
+        }
       ]
     },
     {
@@ -607,7 +881,10 @@
       "part2": "hat implementiert",
       "irregular": false,
       "sentences": [
-        {"de": "Wir haben das Feature mit dem neuen Framework implementiert.", "en": "We implemented the feature with the new framework."}
+        {
+          "de": "Wir haben das Feature mit dem neuen Framework implementiert.",
+          "en": "We implemented the feature with the new framework."
+        }
       ]
     },
     {
@@ -619,9 +896,22 @@
       "part2": "hat besichtigt",
       "irregular": false,
       "sentences": [
-        {"de": "Am Samstag besichtigen wir eine Wohnung in Oerlikon.", "en": "On Saturday we are viewing an apartment in Oerlikon."},
-        {"de": "Wir haben gestern zwei Wohnungen besichtigt — eine davon war super.", "en": "We viewed two apartments yesterday — one of them was great."},
-        {"de": "Kann ich die Wohnung nach der Arbeit besichtigen?", "en": "Can I view the apartment after work?"}
+        {
+          "de": "Am Samstag besichtigen wir eine Wohnung in Oerlikon.",
+          "en": "On Saturday we are viewing an apartment in Oerlikon."
+        },
+        {
+          "de": "Wir haben gestern zwei Wohnungen besichtigt — eine davon war super.",
+          "en": "We viewed two apartments yesterday — one of them was great."
+        },
+        {
+          "de": "Kann ich die Wohnung nach der Arbeit besichtigen?",
+          "en": "Can I view the apartment after work?"
+        },
+        {
+          "de": "Ich habe gestern drei Wohnungen in Oerlikon besichtigt.",
+          "en": "Yesterday I viewed three apartments in Oerlikon."
+        }
       ]
     },
     {
@@ -633,7 +923,10 @@
       "part2": "hat gemietet",
       "irregular": false,
       "sentences": [
-        {"de": "Wir mieten die Wohnung ab November.", "en": "We are renting the apartment from November."}
+        {
+          "de": "Wir mieten die Wohnung ab November.",
+          "en": "We are renting the apartment from November."
+        }
       ]
     },
     {
@@ -645,7 +938,14 @@
       "part2": "ist eingezogen",
       "irregular": true,
       "sentences": [
-        {"de": "Wenn alles klappt, ziehen wir im November ein.", "en": "If everything works out, we'll move in in November."}
+        {
+          "de": "Wenn alles klappt, ziehen wir im November ein.",
+          "en": "If everything works out, we'll move in in November."
+        },
+        {
+          "de": "Ich bin letzte Woche in die neue Wohnung eingezogen.",
+          "en": "I moved into the new apartment last week."
+        }
       ]
     },
     {
@@ -657,8 +957,14 @@
       "part2": "ist umgezogen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich bin vor zwei Jahren nach Zürich umgezogen.", "en": "I moved to Zurich two years ago."},
-        {"de": "Das Team ist in ein größeres Büro umgezogen.", "en": "The team moved into a bigger office."}
+        {
+          "de": "Ich bin vor zwei Jahren nach Zürich umgezogen.",
+          "en": "I moved to Zurich two years ago."
+        },
+        {
+          "de": "Das Team ist in ein größeres Büro umgezogen.",
+          "en": "The team moved into a bigger office."
+        }
       ]
     },
     {
@@ -670,9 +976,22 @@
       "part2": "hat unterschrieben",
       "irregular": true,
       "sentences": [
-        {"de": "Wir müssen den Mietvertrag bis Freitag unterschreiben.", "en": "We have to sign the lease by Friday."},
-        {"de": "Wir haben den Vertrag mit dem neuen Kunden unterschrieben.", "en": "We signed the contract with the new client."},
-        {"de": "Wir haben den Mietvertrag gestern unterschrieben.", "en": "We signed the lease yesterday."}
+        {
+          "de": "Wir müssen den Mietvertrag bis Freitag unterschreiben.",
+          "en": "We have to sign the lease by Friday."
+        },
+        {
+          "de": "Wir haben den Vertrag mit dem neuen Kunden unterschrieben.",
+          "en": "We signed the contract with the new client."
+        },
+        {
+          "de": "Wir haben den Mietvertrag gestern unterschrieben.",
+          "en": "We signed the lease yesterday."
+        },
+        {
+          "de": "Wir haben den Mietvertrag am Montag unterschrieben.",
+          "en": "We signed the lease on Monday."
+        }
       ]
     },
     {
@@ -684,7 +1003,10 @@
       "part2": "hat aufgelegt",
       "irregular": false,
       "sentences": [
-        {"de": "Sie hat die falsche Nummer gewählt und sofort aufgelegt.", "en": "She dialed the wrong number and hung up immediately."}
+        {
+          "de": "Sie hat die falsche Nummer gewählt und sofort aufgelegt.",
+          "en": "She dialed the wrong number and hung up immediately."
+        }
       ]
     },
     {
@@ -696,8 +1018,14 @@
       "part2": "hat vereinbart",
       "irregular": false,
       "sentences": [
-        {"de": "Wir haben einen Termin beim Zahnarzt vereinbart.", "en": "We arranged an appointment with the dentist."},
-        {"de": "Wir haben ein Meeting mit dem Kunden für Donnerstag vereinbart.", "en": "We arranged a meeting with the client for Thursday."}
+        {
+          "de": "Wir haben einen Termin beim Zahnarzt vereinbart.",
+          "en": "We arranged an appointment with the dentist."
+        },
+        {
+          "de": "Wir haben ein Meeting mit dem Kunden für Donnerstag vereinbart.",
+          "en": "We arranged a meeting with the client for Thursday."
+        }
       ]
     },
     {
@@ -709,8 +1037,14 @@
       "part2": "hat teilgenommen",
       "irregular": true,
       "sentences": [
-        {"de": "Nimmst du am Yoga-Kurs am Abend teil?", "en": "Are you taking part in the yoga class this evening?"},
-        {"de": "Ich nehme heute am Daily um 9:15 teil.", "en": "I'm taking part in the daily at 9:15 today."}
+        {
+          "de": "Nimmst du am Yoga-Kurs am Abend teil?",
+          "en": "Are you taking part in the yoga class this evening?"
+        },
+        {
+          "de": "Ich nehme heute am Daily um 9:15 teil.",
+          "en": "I'm taking part in the daily at 9:15 today."
+        }
       ]
     },
     {
@@ -722,9 +1056,18 @@
       "part2": "hat geschrieben",
       "irregular": true,
       "sentences": [
-        {"de": "Ich schreibe jeden Morgen eine To-do-Liste.", "en": "I write a to-do list every morning."},
-        {"de": "Gestern habe ich einen langen Brief an meine Oma geschrieben.", "en": "Yesterday I wrote a long letter to my grandma."},
-        {"de": "Ich schreibe gerade Unit-Tests für die neue Funktion.", "en": "I'm writing unit tests for the new feature right now."}
+        {
+          "de": "Ich schreibe jeden Morgen eine To-do-Liste.",
+          "en": "I write a to-do list every morning."
+        },
+        {
+          "de": "Gestern habe ich einen langen Brief an meine Oma geschrieben.",
+          "en": "Yesterday I wrote a long letter to my grandma."
+        },
+        {
+          "de": "Ich schreibe gerade Unit-Tests für die neue Funktion.",
+          "en": "I'm writing unit tests for the new feature right now."
+        }
       ]
     },
     {
@@ -736,8 +1079,14 @@
       "part2": "hat gelesen",
       "irregular": true,
       "sentences": [
-        {"de": "Hast du den neuen Roman schon gelesen?", "en": "Have you already read the new novel?"},
-        {"de": "Ich habe die Fehlermeldung gelesen und den Bug gefunden.", "en": "I read the error message and found the bug."}
+        {
+          "de": "Hast du den neuen Roman schon gelesen?",
+          "en": "Have you already read the new novel?"
+        },
+        {
+          "de": "Ich habe die Fehlermeldung gelesen und den Bug gefunden.",
+          "en": "I read the error message and found the bug."
+        }
       ]
     },
     {
@@ -749,7 +1098,10 @@
       "part2": "hat getestet",
       "irregular": false,
       "sentences": [
-        {"de": "Wir testen am Wochenende das neue Rezept.", "en": "We are testing the new recipe at the weekend."}
+        {
+          "de": "Wir testen am Wochenende das neue Rezept.",
+          "en": "We are testing the new recipe at the weekend."
+        }
       ]
     },
     {
@@ -761,7 +1113,10 @@
       "part2": "hat entwickelt",
       "irregular": false,
       "sentences": [
-        {"de": "Nächste Woche entwickeln wir das neue Feature fürs Dashboard.", "en": "Next week we're developing the new feature for the dashboard."}
+        {
+          "de": "Nächste Woche entwickeln wir das neue Feature fürs Dashboard.",
+          "en": "Next week we're developing the new feature for the dashboard."
+        }
       ]
     },
     {
@@ -773,8 +1128,14 @@
       "part2": "hat empfohlen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich empfehle dir diesen Tee gegen Halsschmerzen.", "en": "I recommend this tea to you for a sore throat."},
-        {"de": "Kannst du mir ein Tool fürs Team-Monitoring empfehlen?", "en": "Can you recommend a tool for team monitoring?"}
+        {
+          "de": "Ich empfehle dir diesen Tee gegen Halsschmerzen.",
+          "en": "I recommend this tea to you for a sore throat."
+        },
+        {
+          "de": "Kannst du mir ein Tool fürs Team-Monitoring empfehlen?",
+          "en": "Can you recommend a tool for team monitoring?"
+        }
       ]
     },
     {
@@ -786,8 +1147,14 @@
       "part2": "hat gemessen",
       "irregular": true,
       "sentences": [
-        {"de": "Der Arzt hat gestern meinen Blutdruck gemessen.", "en": "The doctor measured my blood pressure yesterday."},
-        {"de": "Wir messen die API-Latenz jeden Morgen automatisch.", "en": "We measure the API latency automatically every morning."}
+        {
+          "de": "Der Arzt hat gestern meinen Blutdruck gemessen.",
+          "en": "The doctor measured my blood pressure yesterday."
+        },
+        {
+          "de": "Wir messen die API-Latenz jeden Morgen automatisch.",
+          "en": "We measure the API latency automatically every morning."
+        }
       ]
     },
     {
@@ -799,8 +1166,14 @@
       "part2": "ist eingeschlafen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich bin gestern erst um Mitternacht eingeschlafen.", "en": "I only fell asleep at midnight yesterday."},
-        {"de": "Ich bin während des zweiten Meetings eingeschlafen.", "en": "I fell asleep during the second meeting."}
+        {
+          "de": "Ich bin gestern erst um Mitternacht eingeschlafen.",
+          "en": "I only fell asleep at midnight yesterday."
+        },
+        {
+          "de": "Ich bin während des zweiten Meetings eingeschlafen.",
+          "en": "I fell asleep during the second meeting."
+        }
       ]
     },
     {
@@ -812,7 +1185,10 @@
       "part2": "ist aufgewacht",
       "irregular": false,
       "sentences": [
-        {"de": "Am Wochenende wache ich normalerweise spät auf.", "en": "At the weekend I normally wake up late."}
+        {
+          "de": "Am Wochenende wache ich normalerweise spät auf.",
+          "en": "At the weekend I normally wake up late."
+        }
       ]
     },
     {
@@ -824,8 +1200,14 @@
       "part2": "hat sich erholt",
       "irregular": false,
       "sentences": [
-        {"de": "Nach dem Urlaub habe ich mich richtig gut erholt.", "en": "After the holiday I really recovered well."},
-        {"de": "Nach dem Reboot hat sich der Dienst schnell erholt.", "en": "After the reboot, the service recovered quickly."}
+        {
+          "de": "Nach dem Urlaub habe ich mich richtig gut erholt.",
+          "en": "After the holiday I really recovered well."
+        },
+        {
+          "de": "Nach dem Reboot hat sich der Dienst schnell erholt.",
+          "en": "After the reboot, the service recovered quickly."
+        }
       ]
     },
     {
@@ -837,8 +1219,14 @@
       "part2": "hat getroffen",
       "irregular": true,
       "sentences": [
-        {"de": "Wir haben uns heute Nachmittag mit Freunden am See getroffen.", "en": "We met up with friends at the lake this afternoon."},
-        {"de": "Wir sind in den Bergen gewandert und haben unsere Freunde getroffen.", "en": "We hiked in the mountains and met our friends."}
+        {
+          "de": "Wir haben uns heute Nachmittag mit Freunden am See getroffen.",
+          "en": "We met up with friends at the lake this afternoon."
+        },
+        {
+          "de": "Wir sind in den Bergen gewandert und haben unsere Freunde getroffen.",
+          "en": "We hiked in the mountains and met our friends."
+        }
       ]
     },
     {
@@ -850,8 +1238,14 @@
       "part2": "ist ausgegangen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich gehe heute Abend mit meinen Freunden aus.", "en": "I'm going out with my friends this evening."},
-        {"de": "Am Freitag gehe ich nach der Arbeit mit den Kollegen aus.", "en": "On Friday I go out with my colleagues after work."}
+        {
+          "de": "Ich gehe heute Abend mit meinen Freunden aus.",
+          "en": "I'm going out with my friends this evening."
+        },
+        {
+          "de": "Am Freitag gehe ich nach der Arbeit mit den Kollegen aus.",
+          "en": "On Friday I go out with my colleagues after work."
+        }
       ]
     },
     {
@@ -863,8 +1257,14 @@
       "part2": "hat gefeiert",
       "irregular": false,
       "sentences": [
-        {"de": "Wir haben gestern ihren Geburtstag gefeiert.", "en": "We celebrated her birthday yesterday."},
-        {"de": "Wir feiern den erfolgreichen Launch heute mit dem ganzen Team.", "en": "Today we're celebrating the successful launch with the whole team."}
+        {
+          "de": "Wir haben gestern ihren Geburtstag gefeiert.",
+          "en": "We celebrated her birthday yesterday."
+        },
+        {
+          "de": "Wir feiern den erfolgreichen Launch heute mit dem ganzen Team.",
+          "en": "Today we're celebrating the successful launch with the whole team."
+        }
       ]
     },
     {
@@ -876,7 +1276,10 @@
       "part2": "hat gekocht",
       "irregular": false,
       "sentences": [
-        {"de": "Ich koche heute Mittag Spaghetti mit Tomatensoße.", "en": "I'm cooking spaghetti with tomato sauce for lunch today."}
+        {
+          "de": "Ich koche heute Mittag Spaghetti mit Tomatensoße.",
+          "en": "I'm cooking spaghetti with tomato sauce for lunch today."
+        }
       ]
     },
     {
@@ -888,8 +1291,14 @@
       "part2": "hat gegessen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich esse zum Frühstück meistens Müsli mit Joghurt.", "en": "I usually eat muesli with yogurt for breakfast."},
-        {"de": "In der Mittagspause esse ich mit den Kollegen in der Kantine.", "en": "During the lunch break I eat with my colleagues in the cafeteria."}
+        {
+          "de": "Ich esse zum Frühstück meistens Müsli mit Joghurt.",
+          "en": "I usually eat muesli with yogurt for breakfast."
+        },
+        {
+          "de": "In der Mittagspause esse ich mit den Kollegen in der Kantine.",
+          "en": "During the lunch break I eat with my colleagues in the cafeteria."
+        }
       ]
     },
     {
@@ -901,7 +1310,10 @@
       "part2": "hat gebacken",
       "irregular": true,
       "sentences": [
-        {"de": "Gestern habe ich einen Apfelkuchen gebacken.", "en": "Yesterday I baked an apple cake."}
+        {
+          "de": "Gestern habe ich einen Apfelkuchen gebacken.",
+          "en": "Yesterday I baked an apple cake."
+        }
       ]
     },
     {
@@ -913,7 +1325,10 @@
       "part2": "hat probiert",
       "irregular": false,
       "sentences": [
-        {"de": "Probier mal die Suppe — die schmeckt wirklich gut!", "en": "Try the soup — it really tastes good!"}
+        {
+          "de": "Probier mal die Suppe — die schmeckt wirklich gut!",
+          "en": "Try the soup — it really tastes good!"
+        }
       ]
     },
     {
@@ -925,9 +1340,18 @@
       "part2": "hat gemeldet",
       "irregular": false,
       "sentences": [
-        {"de": "Ich habe den Fehler sofort gemeldet.", "en": "I reported the error immediately."},
-        {"de": "Der Zug hatte Verspätung – ich habe mich kurz gemeldet.", "en": "The train was delayed – I briefly checked in."},
-        {"de": "Der Kunde hat den Bug im Login gemeldet.", "en": "The customer reported the bug in the login."}
+        {
+          "de": "Ich habe den Fehler sofort gemeldet.",
+          "en": "I reported the error immediately."
+        },
+        {
+          "de": "Der Zug hatte Verspätung – ich habe mich kurz gemeldet.",
+          "en": "The train was delayed – I briefly checked in."
+        },
+        {
+          "de": "Der Kunde hat den Bug im Login gemeldet.",
+          "en": "The customer reported the bug in the login."
+        }
       ]
     },
     {
@@ -939,8 +1363,14 @@
       "part2": "hat ersetzt",
       "irregular": false,
       "sentences": [
-        {"de": "Er hat das alte Handy durch ein neues ersetzt.", "en": "He replaced the old phone with a new one."},
-        {"de": "Bitte teste den Fix noch einmal, dann ersetzen wir den alten Server.", "en": "Please test the fix once more, then we'll replace the old server."}
+        {
+          "de": "Er hat das alte Handy durch ein neues ersetzt.",
+          "en": "He replaced the old phone with a new one."
+        },
+        {
+          "de": "Bitte teste den Fix noch einmal, dann ersetzen wir den alten Server.",
+          "en": "Please test the fix once more, then we'll replace the old server."
+        }
       ]
     },
     {
@@ -952,8 +1382,14 @@
       "part2": "hat geprüft",
       "irregular": false,
       "sentences": [
-        {"de": "Hast du die Rechnung schon geprüft?", "en": "Have you already checked the bill?"},
-        {"de": "Ich habe die Konfiguration noch einmal geprüft.", "en": "I checked the configuration once more."}
+        {
+          "de": "Hast du die Rechnung schon geprüft?",
+          "en": "Have you already checked the bill?"
+        },
+        {
+          "de": "Ich habe die Konfiguration noch einmal geprüft.",
+          "en": "I checked the configuration once more."
+        }
       ]
     },
     {
@@ -965,7 +1401,10 @@
       "part2": "hat herausgefunden",
       "irregular": true,
       "sentences": [
-        {"de": "Wir haben herausgefunden, dass der Laden sonntags geschlossen ist.", "en": "We found out that the shop is closed on Sundays."}
+        {
+          "de": "Wir haben herausgefunden, dass der Laden sonntags geschlossen ist.",
+          "en": "We found out that the shop is closed on Sundays."
+        }
       ]
     },
     {
@@ -977,9 +1416,18 @@
       "part2": "ist gefahren",
       "irregular": true,
       "sentences": [
-        {"de": "Fährst du mit dem Zug oder mit dem Auto?", "en": "Are you going by train or by car?"},
-        {"de": "Ich bin heute mit dem Velo zur Arbeit gefahren.", "en": "I cycled to work today."},
-        {"de": "Ich bin heute direkt zum Kunden gefahren — ohne Umweg.", "en": "I drove straight to the client today — no detour."}
+        {
+          "de": "Fährst du mit dem Zug oder mit dem Auto?",
+          "en": "Are you going by train or by car?"
+        },
+        {
+          "de": "Ich bin heute mit dem Velo zur Arbeit gefahren.",
+          "en": "I cycled to work today."
+        },
+        {
+          "de": "Ich bin heute direkt zum Kunden gefahren — ohne Umweg.",
+          "en": "I drove straight to the client today — no detour."
+        }
       ]
     },
     {
@@ -991,7 +1439,10 @@
       "part2": "hat angefangen",
       "irregular": true,
       "sentences": [
-        {"de": "Am Montag fange ich früh mit der Arbeit an.", "en": "On Monday I start work early."}
+        {
+          "de": "Am Montag fange ich früh mit der Arbeit an.",
+          "en": "On Monday I start work early."
+        }
       ]
     },
     {
@@ -1003,8 +1454,14 @@
       "part2": "hat erledigt",
       "irregular": false,
       "sentences": [
-        {"de": "Die wichtigsten E-Mails erledige ich schon am Morgen.", "en": "I get the most important emails done already in the morning."},
-        {"de": "Ich erledige das Ticket und schließe den Pull Request ab.", "en": "I get the ticket done and close the pull request."}
+        {
+          "de": "Die wichtigsten E-Mails erledige ich schon am Morgen.",
+          "en": "I get the most important emails done already in the morning."
+        },
+        {
+          "de": "Ich erledige das Ticket und schließe den Pull Request ab.",
+          "en": "I get the ticket done and close the pull request."
+        }
       ]
     },
     {
@@ -1016,8 +1473,14 @@
       "part2": "hat gekauft",
       "irregular": false,
       "sentences": [
-        {"de": "Ich kaufe am Wochenende frisches Gemüse auf dem Markt.", "en": "I buy fresh vegetables at the market at the weekend."},
-        {"de": "Ich vergleiche die Preise online, bevor ich etwas kaufe.", "en": "I compare the prices online before I buy something."}
+        {
+          "de": "Ich kaufe am Wochenende frisches Gemüse auf dem Markt.",
+          "en": "I buy fresh vegetables at the market at the weekend."
+        },
+        {
+          "de": "Ich vergleiche die Preise online, bevor ich etwas kaufe.",
+          "en": "I compare the prices online before I buy something."
+        }
       ]
     },
     {
@@ -1029,8 +1492,14 @@
       "part2": "hat ausgegeben",
       "irregular": true,
       "sentences": [
-        {"de": "Ich habe gestern zu viel für das T-Shirt ausgegeben.", "en": "Yesterday I spent too much on the T-shirt."},
-        {"de": "Wir geben das Budget für neue Hardware aus.", "en": "We spend the budget on new hardware."}
+        {
+          "de": "Ich habe gestern zu viel für das T-Shirt ausgegeben.",
+          "en": "Yesterday I spent too much on the T-shirt."
+        },
+        {
+          "de": "Wir geben das Budget für neue Hardware aus.",
+          "en": "We spend the budget on new hardware."
+        }
       ]
     },
     {
@@ -1042,7 +1511,10 @@
       "part2": "hat zurückgegeben",
       "irregular": true,
       "sentences": [
-        {"de": "Ich habe die Schuhe zurückgegeben – sie waren zu klein.", "en": "I returned the shoes – they were too small."}
+        {
+          "de": "Ich habe die Schuhe zurückgegeben – sie waren zu klein.",
+          "en": "I returned the shoes – they were too small."
+        }
       ]
     },
     {
@@ -1054,7 +1526,10 @@
       "part2": "hat getrunken",
       "irregular": true,
       "sentences": [
-        {"de": "Ich trinke zu jeder Mahlzeit ein Glas Wasser.", "en": "I drink a glass of water with every meal."}
+        {
+          "de": "Ich trinke zu jeder Mahlzeit ein Glas Wasser.",
+          "en": "I drink a glass of water with every meal."
+        }
       ]
     },
     {
@@ -1066,7 +1541,10 @@
       "part2": "hat geschnitten",
       "irregular": true,
       "sentences": [
-        {"de": "Ich habe gestern die Zwiebeln klein geschnitten.", "en": "Yesterday I chopped the onions finely."}
+        {
+          "de": "Ich habe gestern die Zwiebeln klein geschnitten.",
+          "en": "Yesterday I chopped the onions finely."
+        }
       ]
     },
     {
@@ -1078,8 +1556,14 @@
       "part2": "hat bestellt",
       "irregular": false,
       "sentences": [
-        {"de": "Ich bestelle am Freitagabend gern eine Pizza.", "en": "On Friday evening I like to order a pizza."},
-        {"de": "Ich bestelle mir mittags beim Italiener um die Ecke.", "en": "At lunchtime I order from the Italian place around the corner."}
+        {
+          "de": "Ich bestelle am Freitagabend gern eine Pizza.",
+          "en": "On Friday evening I like to order a pizza."
+        },
+        {
+          "de": "Ich bestelle mir mittags beim Italiener um die Ecke.",
+          "en": "At lunchtime I order from the Italian place around the corner."
+        }
       ]
     },
     {
@@ -1091,8 +1575,14 @@
       "part2": "hat gelöst",
       "irregular": false,
       "sentences": [
-        {"de": "Wir haben das Problem mit dem WLAN gelöst.", "en": "We solved the Wi-Fi problem."},
-        {"de": "Wir haben das Datenbank-Problem mit einem neuen Ansatz gelöst.", "en": "We solved the database problem with a new approach."}
+        {
+          "de": "Wir haben das Problem mit dem WLAN gelöst.",
+          "en": "We solved the Wi-Fi problem."
+        },
+        {
+          "de": "Wir haben das Datenbank-Problem mit einem neuen Ansatz gelöst.",
+          "en": "We solved the database problem with a new approach."
+        }
       ]
     },
     {
@@ -1104,7 +1594,10 @@
       "part2": "hat weggeworfen",
       "irregular": true,
       "sentences": [
-        {"de": "Die alten Kartons habe ich gleich weggeworfen.", "en": "I threw the old boxes away right away."}
+        {
+          "de": "Die alten Kartons habe ich gleich weggeworfen.",
+          "en": "I threw the old boxes away right away."
+        }
       ]
     },
     {
@@ -1116,8 +1609,14 @@
       "part2": "hat repariert",
       "irregular": false,
       "sentences": [
-        {"de": "Den Staubsauger habe ich selbst repariert.", "en": "I repaired the vacuum cleaner myself."},
-        {"de": "Ich habe das kaputte Build-Skript repariert.", "en": "I repaired the broken build script."}
+        {
+          "de": "Den Staubsauger habe ich selbst repariert.",
+          "en": "I repaired the vacuum cleaner myself."
+        },
+        {
+          "de": "Ich habe das kaputte Build-Skript repariert.",
+          "en": "I repaired the broken build script."
+        }
       ]
     },
     {
@@ -1129,8 +1628,14 @@
       "part2": "hat gewartet",
       "irregular": false,
       "sentences": [
-        {"de": "Ich habe fünf Minuten auf den Bus gewartet.", "en": "I waited five minutes for the bus."},
-        {"de": "Beim Deploy habe ich auf den grünen Build gewartet.", "en": "During the deploy I waited for the green build."}
+        {
+          "de": "Ich habe fünf Minuten auf den Bus gewartet.",
+          "en": "I waited five minutes for the bus."
+        },
+        {
+          "de": "Beim Deploy habe ich auf den grünen Build gewartet.",
+          "en": "During the deploy I waited for the green build."
+        }
       ]
     },
     {
@@ -1142,8 +1647,14 @@
       "part2": "hat verpasst",
       "irregular": false,
       "sentences": [
-        {"de": "Zum Glück habe ich den Anschluss nicht verpasst.", "en": "Luckily I didn't miss the connection."},
-        {"de": "Weil der Zug Verspätung hatte, habe ich das Daily verpasst.", "en": "Because the train was delayed, I missed the daily."}
+        {
+          "de": "Zum Glück habe ich den Anschluss nicht verpasst.",
+          "en": "Luckily I didn't miss the connection."
+        },
+        {
+          "de": "Weil der Zug Verspätung hatte, habe ich das Daily verpasst.",
+          "en": "Because the train was delayed, I missed the daily."
+        }
       ]
     },
     {
@@ -1155,7 +1666,10 @@
       "part2": "hat abgeschlossen",
       "irregular": true,
       "sentences": [
-        {"de": "Heute habe ich den letzten Task abgeschlossen.", "en": "Today I completed the last task."}
+        {
+          "de": "Heute habe ich den letzten Task abgeschlossen.",
+          "en": "Today I completed the last task."
+        }
       ]
     },
     {
@@ -1167,7 +1681,10 @@
       "part2": "hat sich gefreut",
       "irregular": false,
       "sentences": [
-        {"de": "Ich freue mich sehr auf das Wochenende.", "en": "I'm really looking forward to the weekend."}
+        {
+          "de": "Ich freue mich sehr auf das Wochenende.",
+          "en": "I'm really looking forward to the weekend."
+        }
       ]
     },
     {
@@ -1179,8 +1696,14 @@
       "part2": "hat sich abgestimmt",
       "irregular": false,
       "sentences": [
-        {"de": "Ich habe mich mit meiner Nachbarin abgestimmt, wer die Pakete annimmt.", "en": "I coordinated with my neighbour about who will accept the packages."},
-        {"de": "Ich habe mich mit dem Product Owner abgestimmt.", "en": "I aligned with the product owner."}
+        {
+          "de": "Ich habe mich mit meiner Nachbarin abgestimmt, wer die Pakete annimmt.",
+          "en": "I coordinated with my neighbour about who will accept the packages."
+        },
+        {
+          "de": "Ich habe mich mit dem Product Owner abgestimmt.",
+          "en": "I aligned with the product owner."
+        }
       ]
     },
     {
@@ -1192,8 +1715,14 @@
       "part2": "ist aufgegangen",
       "irregular": true,
       "sentences": [
-        {"de": "Der Teig ist über Nacht aufgegangen — perfekt!", "en": "The dough rose overnight — perfect!"},
-        {"de": "Der neue Build ist durchgelaufen — die Pipeline ist aufgegangen wie ein Teig 😄", "en": "The new build went through — the pipeline rose like dough 😄"}
+        {
+          "de": "Der Teig ist über Nacht aufgegangen — perfekt!",
+          "en": "The dough rose overnight — perfect!"
+        },
+        {
+          "de": "Der neue Build ist durchgelaufen — die Pipeline ist aufgegangen wie ein Teig 😄",
+          "en": "The new build went through — the pipeline rose like dough 😄"
+        }
       ]
     },
     {
@@ -1205,7 +1734,10 @@
       "part2": "hat ausgerollt",
       "irregular": false,
       "sentences": [
-        {"de": "Die Kollegin hat den Fix schon eingebaut, aber wir haben ihn noch nicht ausgerollt.", "en": "My colleague has already built in the fix, but we haven't rolled it out yet."}
+        {
+          "de": "Die Kollegin hat den Fix schon eingebaut, aber wir haben ihn noch nicht ausgerollt.",
+          "en": "My colleague has already built in the fix, but we haven't rolled it out yet."
+        }
       ]
     },
     {
@@ -1217,8 +1749,14 @@
       "part2": "hat eingebaut",
       "irregular": false,
       "sentences": [
-        {"de": "Die neue App habe ich sofort in meinen Alltag eingebaut.", "en": "I integrated the new app into my daily routine right away."},
-        {"de": "Die Kollegin hat den Fix schon eingebaut, aber wir haben ihn noch nicht ausgerollt.", "en": "My colleague has already built in the fix, but we haven't rolled it out yet."}
+        {
+          "de": "Die neue App habe ich sofort in meinen Alltag eingebaut.",
+          "en": "I integrated the new app into my daily routine right away."
+        },
+        {
+          "de": "Die Kollegin hat den Fix schon eingebaut, aber wir haben ihn noch nicht ausgerollt.",
+          "en": "My colleague has already built in the fix, but we haven't rolled it out yet."
+        }
       ]
     },
     {
@@ -1230,8 +1768,14 @@
       "part2": "ist aufgefallen",
       "irregular": true,
       "sentences": [
-        {"de": "Mir ist gestern aufgefallen, dass die Heizung im Wohnzimmer nicht mehr funktioniert.", "en": "I noticed yesterday that the heating in the living room is no longer working."},
-        {"de": "Mir ist aufgefallen, dass die App auf dem Server abstürzt, sobald man die Branches zusammenführt.", "en": "I noticed that the app crashes on the server as soon as you merge the branches."}
+        {
+          "de": "Mir ist gestern aufgefallen, dass die Heizung im Wohnzimmer nicht mehr funktioniert.",
+          "en": "I noticed yesterday that the heating in the living room is no longer working."
+        },
+        {
+          "de": "Mir ist aufgefallen, dass die App auf dem Server abstürzt, sobald man die Branches zusammenführt.",
+          "en": "I noticed that the app crashes on the server as soon as you merge the branches."
+        }
       ]
     },
     {
@@ -1243,9 +1787,18 @@
       "part2": "hat zusammengeführt",
       "irregular": false,
       "sentences": [
-        {"de": "Wir haben unsere zwei Bankkonten letzte Woche zusammengeführt.", "en": "We merged our two bank accounts last week."},
-        {"de": "Mir ist aufgefallen, dass die App auf dem Server abstürzt, sobald man die Branches zusammenführt.", "en": "I noticed that the app crashes on the server as soon as you merge the branches."},
-        {"de": "Den Feature-Branch haben wir gestern in main zusammengeführt und dann ausgerollt.", "en": "We merged the feature branch into main yesterday and then rolled it out."}
+        {
+          "de": "Wir haben unsere zwei Bankkonten letzte Woche zusammengeführt.",
+          "en": "We merged our two bank accounts last week."
+        },
+        {
+          "de": "Mir ist aufgefallen, dass die App auf dem Server abstürzt, sobald man die Branches zusammenführt.",
+          "en": "I noticed that the app crashes on the server as soon as you merge the branches."
+        },
+        {
+          "de": "Den Feature-Branch haben wir gestern in main zusammengeführt und dann ausgerollt.",
+          "en": "We merged the feature branch into main yesterday and then rolled it out."
+        }
       ]
     },
     {
@@ -1257,8 +1810,18 @@
       "part2": "hat gekündigt",
       "irregular": false,
       "sentences": [
-        {"de": "Ich muss die alte Wohnung bis Ende Februar kündigen.", "en": "I have to give notice on the old apartment by the end of February."},
-        {"de": "Die alte Wohnung kündige ich erst, wenn der neue Vertrag unterschrieben ist.", "en": "I will only give notice on the old apartment once the new contract is signed."}
+        {
+          "de": "Ich muss die alte Wohnung bis Ende Februar kündigen.",
+          "en": "I have to give notice on the old apartment by the end of February."
+        },
+        {
+          "de": "Die alte Wohnung kündige ich erst, wenn der neue Vertrag unterschrieben ist.",
+          "en": "I will only give notice on the old apartment once the new contract is signed."
+        },
+        {
+          "de": "Ich habe die alte Wohnung fristgerecht gekündigt.",
+          "en": "I gave notice on the old apartment in due time."
+        }
       ]
     },
     {
@@ -1270,8 +1833,18 @@
       "part2": "hat eingerichtet",
       "irregular": false,
       "sentences": [
-        {"de": "Das Wohnzimmer richten wir am Wochenende ein.", "en": "We are furnishing the living room at the weekend."},
-        {"de": "Wegen des Umzugs habe ich mein Homeoffice neu eingerichtet.", "en": "Because of the move I set up my home office again."}
+        {
+          "de": "Das Wohnzimmer richten wir am Wochenende ein.",
+          "en": "We are furnishing the living room at the weekend."
+        },
+        {
+          "de": "Wegen des Umzugs habe ich mein Homeoffice neu eingerichtet.",
+          "en": "Because of the move I set up my home office again."
+        },
+        {
+          "de": "Ich habe mein Homeoffice in der neuen Wohnung eingerichtet.",
+          "en": "I set up my home office in the new apartment."
+        }
       ]
     },
     {
@@ -1283,9 +1856,18 @@
       "part2": "hat entdeckt",
       "irregular": false,
       "sentences": [
-        {"de": "Der Handwerker hat den Fehler in der Leitung sofort entdeckt.", "en": "The handyman discovered the fault in the wiring immediately."},
-        {"de": "Ich habe den Pull Request geprüft und zwei Fehler entdeckt.", "en": "I reviewed the pull request and found two bugs."},
-        {"de": "Ich habe den Bug entdeckt, ihn behoben und den Fix getestet.", "en": "I found the bug, fixed it and tested the fix."}
+        {
+          "de": "Der Handwerker hat den Fehler in der Leitung sofort entdeckt.",
+          "en": "The handyman discovered the fault in the wiring immediately."
+        },
+        {
+          "de": "Ich habe den Pull Request geprüft und zwei Fehler entdeckt.",
+          "en": "I reviewed the pull request and found two bugs."
+        },
+        {
+          "de": "Ich habe den Bug entdeckt, ihn behoben und den Fix getestet.",
+          "en": "I found the bug, fixed it and tested the fix."
+        }
       ]
     },
     {
@@ -1297,8 +1879,14 @@
       "part2": "hat dokumentiert",
       "irregular": false,
       "sentences": [
-        {"de": "Den Schaden habe ich mit Fotos dokumentiert.", "en": "I documented the damage with photos."},
-        {"de": "Den Fix habe ich auf dem Testsystem getestet und im Wiki dokumentiert.", "en": "I tested the fix on the staging system and documented it in the wiki."}
+        {
+          "de": "Den Schaden habe ich mit Fotos dokumentiert.",
+          "en": "I documented the damage with photos."
+        },
+        {
+          "de": "Den Fix habe ich auf dem Testsystem getestet und im Wiki dokumentiert.",
+          "en": "I tested the fix on the staging system and documented it in the wiki."
+        }
       ]
     },
     {
@@ -1310,8 +1898,14 @@
       "part2": "ist gegangen",
       "irregular": true,
       "sentences": [
-        {"de": "Wir sind gestern Abend früh ins Kino gegangen.", "en": "We went to the cinema early yesterday evening."},
-        {"de": "Ich bin zum Bahnhof gegangen, aber der Zug ist nicht angekommen.", "en": "I went to the station, but the train didn't arrive."}
+        {
+          "de": "Wir sind gestern Abend früh ins Kino gegangen.",
+          "en": "We went to the cinema early yesterday evening."
+        },
+        {
+          "de": "Ich bin zum Bahnhof gegangen, aber der Zug ist nicht angekommen.",
+          "en": "I went to the station, but the train didn't arrive."
+        }
       ]
     },
     {
@@ -1323,8 +1917,14 @@
       "part2": "ist geblieben",
       "irregular": true,
       "sentences": [
-        {"de": "Am Samstag bin ich zu Hause geblieben und habe ausgeschlafen.", "en": "On Saturday I stayed at home and slept in."},
-        {"de": "Nach dem Meeting bin ich noch im Büro geblieben, um den Code zu prüfen.", "en": "After the meeting I stayed in the office a bit longer to check the code."}
+        {
+          "de": "Am Samstag bin ich zu Hause geblieben und habe ausgeschlafen.",
+          "en": "On Saturday I stayed at home and slept in."
+        },
+        {
+          "de": "Nach dem Meeting bin ich noch im Büro geblieben, um den Code zu prüfen.",
+          "en": "After the meeting I stayed in the office a bit longer to check the code."
+        }
       ]
     },
     {
@@ -1336,8 +1936,14 @@
       "part2": "hat gebraucht",
       "irregular": false,
       "sentences": [
-        {"de": "Ich brauche noch Milch und Brot — ich gehe kurz in den Laden.", "en": "I still need milk and bread — I'll quickly pop into the shop."},
-        {"de": "Für das Projekt haben wir eine zusätzliche Library gebraucht.", "en": "We needed an additional library for the project."}
+        {
+          "de": "Ich brauche noch Milch und Brot — ich gehe kurz in den Laden.",
+          "en": "I still need milk and bread — I'll quickly pop into the shop."
+        },
+        {
+          "de": "Für das Projekt haben wir eine zusätzliche Library gebraucht.",
+          "en": "We needed an additional library for the project."
+        }
       ]
     },
     {
@@ -1349,8 +1955,14 @@
       "part2": "hat entschieden",
       "irregular": true,
       "sentences": [
-        {"de": "Ich habe mich entschieden, am Wochenende zu Hause zu bleiben.", "en": "I decided to stay at home at the weekend."},
-        {"de": "Das Team hat entschieden, die Library zu wechseln.", "en": "The team decided to switch the library."}
+        {
+          "de": "Ich habe mich entschieden, am Wochenende zu Hause zu bleiben.",
+          "en": "I decided to stay at home at the weekend."
+        },
+        {
+          "de": "Das Team hat entschieden, die Library zu wechseln.",
+          "en": "The team decided to switch the library."
+        }
       ]
     },
     {
@@ -1362,9 +1974,18 @@
       "part2": "hat geändert",
       "irregular": false,
       "sentences": [
-        {"de": "Ich habe meinen Termin beim Arzt geändert und das neue Rezept getestet.", "en": "I changed my doctor's appointment and tested the new prescription."},
-        {"de": "Ich habe die Konfiguration geändert und den Build danach getestet.", "en": "I changed the configuration and tested the build afterwards."},
-        {"de": "Wir haben das Problem besprochen, den Plan geändert und den Build getestet.", "en": "We discussed the problem, changed the plan and tested the build."}
+        {
+          "de": "Ich habe meinen Termin beim Arzt geändert und das neue Rezept getestet.",
+          "en": "I changed my doctor's appointment and tested the new prescription."
+        },
+        {
+          "de": "Ich habe die Konfiguration geändert und den Build danach getestet.",
+          "en": "I changed the configuration and tested the build afterwards."
+        },
+        {
+          "de": "Wir haben das Problem besprochen, den Plan geändert und den Build getestet.",
+          "en": "We discussed the problem, changed the plan and tested the build."
+        }
       ]
     },
     {
@@ -1376,7 +1997,10 @@
       "part2": "hat gesprochen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich habe gestern lange mit meiner Nachbarin über den Umbau gesprochen.", "en": "Yesterday I talked to my neighbour about the renovation for a long time."}
+        {
+          "de": "Ich habe gestern lange mit meiner Nachbarin über den Umbau gesprochen.",
+          "en": "Yesterday I talked to my neighbour about the renovation for a long time."
+        }
       ]
     },
     {
@@ -1388,8 +2012,14 @@
       "part2": "hat eingepackt",
       "irregular": false,
       "sentences": [
-        {"de": "Am Samstag haben wir alle Kartons eingepackt.", "en": "On Saturday we packed all the boxes."},
-        {"de": "Ich habe den Fix in ein neues Release eingepackt.", "en": "I bundled the fix into a new release."}
+        {
+          "de": "Am Samstag haben wir alle Kartons eingepackt.",
+          "en": "On Saturday we packed all the boxes."
+        },
+        {
+          "de": "Ich habe den Fix in ein neues Release eingepackt.",
+          "en": "I bundled the fix into a new release."
+        }
       ]
     },
     {
@@ -1401,7 +2031,10 @@
       "part2": "hat angemeldet",
       "irregular": false,
       "sentences": [
-        {"de": "Ich habe mich schon beim Stromanbieter angemeldet.", "en": "I have already registered with the electricity provider."}
+        {
+          "de": "Ich habe mich schon beim Stromanbieter angemeldet.",
+          "en": "I have already registered with the electricity provider."
+        }
       ]
     },
     {
@@ -1413,7 +2046,10 @@
       "part2": "hat gestrichen",
       "irregular": true,
       "sentences": [
-        {"de": "Das Wohnzimmer haben wir hellgrau gestrichen.", "en": "We painted the living room light grey."}
+        {
+          "de": "Das Wohnzimmer haben wir hellgrau gestrichen.",
+          "en": "We painted the living room light grey."
+        }
       ]
     },
     {
@@ -1425,8 +2061,14 @@
       "part2": "hat gebucht",
       "irregular": false,
       "sentences": [
-        {"de": "Ich habe die Fahrkarte schon online gebucht.", "en": "I already booked the ticket online."},
-        {"de": "Ich habe die Dienstreise nach München gebucht.", "en": "I booked the business trip to Munich."}
+        {
+          "de": "Ich habe die Fahrkarte schon online gebucht.",
+          "en": "I already booked the ticket online."
+        },
+        {
+          "de": "Ich habe die Dienstreise nach München gebucht.",
+          "en": "I booked the business trip to Munich."
+        }
       ]
     },
     {
@@ -1438,8 +2080,14 @@
       "part2": "ist abgefahren",
       "irregular": true,
       "sentences": [
-        {"de": "Der Zug ist pünktlich abgefahren.", "en": "The train departed on time."},
-        {"de": "Der Kollege ist heute Morgen mit dem Zug abgefahren.", "en": "The colleague left by train this morning."}
+        {
+          "de": "Der Zug ist pünktlich abgefahren.",
+          "en": "The train departed on time."
+        },
+        {
+          "de": "Der Kollege ist heute Morgen mit dem Zug abgefahren.",
+          "en": "The colleague left by train this morning."
+        }
       ]
     },
     {
@@ -1451,8 +2099,14 @@
       "part2": "hat stattgefunden",
       "irregular": true,
       "sentences": [
-        {"de": "Das Konzert hat leider nicht stattgefunden.", "en": "Unfortunately the concert didn't take place."},
-        {"de": "Der Sprint-Review hat pünktlich stattgefunden.", "en": "The sprint review took place on time."}
+        {
+          "de": "Das Konzert hat leider nicht stattgefunden.",
+          "en": "Unfortunately the concert didn't take place."
+        },
+        {
+          "de": "Der Sprint-Review hat pünktlich stattgefunden.",
+          "en": "The sprint review took place on time."
+        }
       ]
     },
     {
@@ -1464,7 +2118,40 @@
       "part2": "hat sich getroffen",
       "irregular": true,
       "sentences": [
-        {"de": "Ich habe mich gestern mit meiner Nachbarin im Café getroffen.", "en": "I met my neighbour at the café yesterday."}
+        {
+          "de": "Ich habe mich gestern mit meiner Nachbarin im Café getroffen.",
+          "en": "I met my neighbour at the café yesterday."
+        }
+      ]
+    },
+    {
+      "v": "sich bewerben",
+      "en": "to apply (for) — sich um + Akkusativ bewerben",
+      "theme": "Wohnungssuche & Umzug",
+      "konj2": "bewürbe sich · würde sich bewerben",
+      "konj2_note": "unregelmäßig (bewirbt sich · bewarb sich), reflexiv — 'sich um etwas bewerben'",
+      "part2": "hat sich beworben",
+      "irregular": true,
+      "sentences": [
+        {
+          "de": "Ich habe mich um die Wohnung beworben — und sie bekommen!",
+          "en": "I applied for the apartment — and got it!"
+        }
+      ]
+    },
+    {
+      "v": "schicken",
+      "en": "to send",
+      "theme": "Wohnungssuche & Umzug",
+      "konj2": "schickte · würde schicken",
+      "konj2_note": "regelmäßig — Konj II = Präteritum",
+      "part2": "hat geschickt",
+      "irregular": false,
+      "sentences": [
+        {
+          "de": "Ich habe der HR-Abteilung meine neue Adresse geschickt.",
+          "en": "I sent my new address to the HR department."
+        }
       ]
     }
   ]
