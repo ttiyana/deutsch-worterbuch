@@ -2153,6 +2153,21 @@
      "en": "I sent my new address to the HR department."
     }
    ]
+  },
+  {
+   "v": "wiederholen",
+   "en": "to repeat, to reproduce (an exercise, a bug)",
+   "theme": "Fehler finden & beheben",
+   "konj2": "wiederholte · würde wiederholen",
+   "konj2_note": "regelmäßig, untrennbar (wiederholt · wiederholte) — Konj II = Präteritum; Partizip ohne ge-: 'wiederholt'",
+   "part2": "hat wiederholt",
+   "irregular": false,
+   "sentences": [
+    {
+     "de": "Ich habe die Übung dreimal wiederholt, bis ich sie sicher konnte.",
+     "en": "I repeated the exercise three times until I was sure of it."
+    }
+   ]
   }
  ],
  "words": [
@@ -6736,9 +6751,9 @@
   }
  ],
  "stats": {
-  "verbs": 116,
+  "verbs": 117,
   "words": 589,
-  "sentences": 219,
+  "sentences": 220,
   "themes": [
    "Arbeit & Meetings",
    "Bug-Tag: Finden & Beheben",
@@ -6751,6 +6766,7 @@
    "Einkaufen",
    "Einkaufen & Bezahlen",
    "Einkaufen & Kochen",
+   "Fehler finden & beheben",
    "Fehler finden & beheben (Debugging)",
    "Fehler melden & beheben (Bug-Tag)",
    "Fehlersuche & Bugfixing",
@@ -6777,5 +6793,5 @@
    "Zugfahrt & Dienstreise"
   ]
  },
- "updated": "2026-11-26"
+ "updated": "2026-11-27"
 }
